@@ -1,0 +1,53 @@
+# Usar imagen con PHP y extensiones preinstaladas
+FROM php:8.2-apache
+
+# Instalar dependencias básicas
+RUN apt-get update && apt-get install -y \
+    git \
+    unzip \
+    && rm -rf /var/lib/apt/lists/*
+
+# Instalar Composer
+COPY --from=composer:latest /usr/bin/composer /usr/bin/composer
+
+# Configurar directorio de trabajo
+WORKDIR /var/www/html
+
+# Copiar archivos del proyecto
+COPY . .
+
+# NO instalar dependencias de Composer que requieren MongoDB
+# En su lugar, crear un composer.json mínimo para producción
+RUN echo '{"require": {"php": ">=8.0"}}' > composer.json
+
+# Instalar dependencias mínimas
+RUN composer install --no-dev --optimize-autoloader
+
+# Configurar permisos
+RUN chown -R www-data:www-data /var/www/html \
+    && chmod -R 755 /var/www/html
+
+# Crear directorios necesarios
+RUN mkdir -p logs temp \
+    && chmod -R 777 logs temp
+
+# Habilitar mod_rewrite
+RUN a2enmod rewrite
+
+# Configurar Apache
+RUN echo '<VirtualHost *:80>\n\
+    DocumentRoot /var/www/html\n\
+    DirectoryIndex dashboard.html index.php index.html\n\
+    <Directory /var/www/html>\n\
+        AllowOverride All\n\
+        Require all granted\n\
+    </Directory>\n\
+    ErrorLog ${APACHE_LOG_DIR}/error.log\n\
+    CustomLog ${APACHE_LOG_DIR}/access.log combined\n\
+</VirtualHost>' > /etc/apache2/sites-available/000-default.conf
+
+# Exponer puerto 80
+EXPOSE 80
+
+# Comando para iniciar Apache
+CMD ["apache2-foreground"]

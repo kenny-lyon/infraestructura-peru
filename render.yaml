@@ -1,0 +1,26 @@
+services:
+  - type: web
+    name: infraestructura-peru
+    env: docker
+    
+    # Usar Dockerfile para el build
+    dockerfilePath: ./Dockerfile
+    
+    envVars:
+      - key: MONGODB_DATABASE
+        value: infraestructura_peru
+      - key: ENVIRONMENT
+        value: production
+        
+    # Configuración del plan (gratuito)
+    plan: free
+    
+    # Región (cambia según tu ubicación)
+    region: oregon
+    
+    # Puerto por defecto para Apache
+    port: 80
+    
+    # Dominio personalizado (opcional)
+    # customDomains:
+    #   - infraestructura-peru.onrender.com
