@@ -22,7 +22,7 @@ WORKDIR /var/www/html
 COPY . .
 
 # Instalar dependencias de Composer (incluyendo MongoDB)
-RUN composer install --no-dev --optimize-autoloader
+RUN composer install --no-dev --optimize-autoloader --ignore-platform-req=ext-mongodb
 
 # Configurar permisos
 RUN chown -R www-data:www-data /var/www/html \
