@@ -32,8 +32,8 @@ RUN chown -R www-data:www-data /var/www/html \
 RUN mkdir -p logs temp \
     && chmod -R 777 logs temp
 
-# Habilitar mod_rewrite
-RUN a2enmod rewrite
+# Habilitar módulos Apache necesarios
+RUN a2enmod rewrite headers deflate expires
 
 # Configurar Apache
 RUN echo '<VirtualHost *:80>\n\
