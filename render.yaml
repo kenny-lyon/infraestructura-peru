@@ -14,9 +14,9 @@ services:
       - key: ENVIRONMENT
         value: production
       - key: GOOGLE_CLIENT_ID
-        value: 291287056726-kkh5m8veai6oml865pov2t1s9rblg9g2.apps.googleusercontent.com
+        value: # Configurar en Render dashboard
       - key: GOOGLE_CLIENT_SECRET
-        value: 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
+        value: # Configurar en Render dashboard  
       - key: GOOGLE_REDIRECT_URI
         value: https://infraestructura-peru.onrender.com/google_login.php
         
