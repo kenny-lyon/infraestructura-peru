@@ -2,9 +2,9 @@
 require_once __DIR__ . '/vendor/autoload.php';
 session_start();
 
-$clientID = '291287056726-kkh5m8veai6oml865pov2t1s9rblg9g2.apps.googleusercontent.com';
-$clientSecret = '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';
-$redirectUri = 'http://localhost:3000/proyecto_bd/google_login.php';
+$clientID = getenv('GOOGLE_CLIENT_ID') ?: 'tu-client-id-aqui';
+$clientSecret = getenv('GOOGLE_CLIENT_SECRET') ?: 'tu-client-secret-aqui';
+$redirectUri = getenv('GOOGLE_REDIRECT_URI') ?: 'http://localhost:3000/proyecto_bd/google_login.php';
 
 
 $adminEmails = [

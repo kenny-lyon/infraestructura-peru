@@ -13,6 +13,12 @@ services:
         value: proyecto_infraestructura
       - key: ENVIRONMENT
         value: production
+      - key: GOOGLE_CLIENT_ID
+        value: 291287056726-kkh5m8veai6oml865pov2t1s9rblg9g2.apps.googleusercontent.com
+      - key: GOOGLE_CLIENT_SECRET
+        value: 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
+      - key: GOOGLE_REDIRECT_URI
+        value: https://infraestructura-peru.onrender.com/google_login.php
         
     # Configuración del plan (gratuito)
     plan: free
