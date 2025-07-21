@@ -1,10 +1,13 @@
 # Usar imagen con PHP y extensiones preinstaladas
 FROM php:8.2-apache
 
-# Instalar dependencias básicas
+# Instalar dependencias básicas y MongoDB extension
 RUN apt-get update && apt-get install -y \
     git \
     unzip \
+    libssl-dev \
+    && pecl install mongodb \
+    && docker-php-ext-enable mongodb \
     && rm -rf /var/lib/apt/lists/*
 
 # Instalar Composer
@@ -16,11 +19,7 @@ WORKDIR /var/www/html
 # Copiar archivos del proyecto
 COPY . .
 
-# NO instalar dependencias de Composer que requieren MongoDB
-# En su lugar, crear un composer.json mínimo para producción
-RUN echo '{"require": {"php": ">=8.0"}}' > composer.json
-
-# Instalar dependencias mínimas
+# Instalar dependencias de Composer (incluyendo MongoDB)
 RUN composer install --no-dev --optimize-autoloader
 
 # Configurar permisos

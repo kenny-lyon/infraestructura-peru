@@ -1,0 +1,12 @@
+{
+    "desarrollo": {
+        "api_endpoint": "api_puntos.php",
+        "mongodb_enabled": true,
+        "funcionalidades_avanzadas": true
+    },
+    "produccion": {
+        "api_endpoint": "api_produccion.php",
+        "mongodb_enabled": false,
+        "funcionalidades_avanzadas": false
+    }
+}

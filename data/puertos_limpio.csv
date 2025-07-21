@@ -1,0 +1,357 @@
+NOMBRE_TERMINAL,LOCALIDAD,TIPO_TERMINAL,ESTADO,ADMINISTRADOR,LATITUD,LONGITUD,USO,TRAFICO,ACTIVIDAD,AMBITO,ALCANCE,TITULARIDAD
+Punta Lobitos - Antamina,Huarmey,Terminal Portuario (Muelle),Operativo,CIA. MINERA ANTAMINA S.A.,-10.099826,-78.180808,Privado,Minerales,Especializado,MarÃ­timo,Regional,Privado
+Chimbote,Chimbote,Terminal Portuario (Muelle),Operativo,GOBIERNO REGIONAL DE ANCASH,-9.074414,-78.610495,PÃºblico,General,MultipropÃ³sito,MarÃ­timo,Regional,PÃºblico
+Multiboyas Chimbote,Chimbote,Terminal Portuario (Multiboyas),Operativo,TERMINALES DEL PERÃ,-9.112037,-78.576418,Privado,Hidrocarburos,Especializado,MarÃ­timo,Regional,PÃºblico
+Multiboyas Colpex - Chimbote,Chimbote,Terminal Portuario (Multiboyas),Operativo,COLPEX INTERNATIONAL S.A.C.,-9.120388,-78.579279,Privado,Aceite de pescado,Especializado,MarÃ­timo,Regional,Privado
+Muelle SiderperÃº,Chimbote,Terminal Portuario (Muelle),Operativo,SIDERPERU S.A.,-9.077477,-78.610528,Privado,Minerales,Especializado,MarÃ­timo,Regional,PÃºblico
+Terminal Pesquero Casamar,Santa,Terminal Pesquero (Muelle),Operativo,CASAMAR S.A.C.,-9.255625,-78.497497,Privado,-,Especializado,MarÃ­timo,Nacional,Privado
+Pesquero Austral - Coishco,Chimbote,Terminal Pesquero,Operativo,AUSTRAL GROUP S.A.A.,-9.020787,-78.622498,Privado,-,Especializado,MarÃ­timo,Nacional,Privado
+MOLLENDO,Mollendo,Terminal Portuario (Multiboyas),Operativo,PETROPERÃ S.A.,-17.039991,-72.006481,Privado,Hidrocarburos,Especializado,MarÃ­timo,Nacional,PÃºblico
+MATARANI,Matarani,Terminal Portuario (Muelle),Operativo,TERMINAL INTERNACIONAL DEL SUR S.A.,-16.999169,-72.105933,PÃºblico,MultipropÃ³sito,MultipropÃ³sito,MarÃ­timo,Nacional,PÃºblico (Concesionado)
+MONTE AZUL,Mollendo,Terminal Portuario (Multiboyas),Operativo,MONTE AZUL LOGÃSTICA S.A.C,-17.043903,-72.001541,Privado,Hidrocarburos,Especializado,MarÃ­timo,Nacional,Privado
+CALLAO (TERM.EMB.DE CONCENT.DE MINERALES),Callao,Terminal Portuario (Muelle),Operativo,TRANSPORTADORA CALLAO S.A.,-12.04175,-77.149347,PÃºblico,Concentrado de minerales,Especializado,MarÃ­timo,Nacional,PÃºblico (Concesionado)
+CALLAO (TERMINAL DE CONTENEDORES-M.SUR),Callao,Terminal Portuario (Muelle),Operativo,DP WORLD CALLAO S.R.L.,-12.056375,-77.148605,PÃºblico,Contenedores,Especializado,MarÃ­timo,Nacional,PÃºblico (Concesionado)
+CALLAO (TERMINAL MULTIPROPÃSITO MUELLE NORTE ),Callao,Terminal Portuario (Muelle),Operativo,APM TERMINALS CALLAO S.A.,-12.045592,-77.144473,PÃºblico,"General, graneles y contenedores",MultipropÃ³sito,MarÃ­timo,Nacional,PÃºblico (Concesionado)
+MUELLE DE CAPITANES,Callao,Embarcadero,Operativo,ESTADO PERUANO (En trÃ¡mite),-12.058126,-77.14973,PÃºblico,Pasajeros,Especializado,Maritimo,Regional,PÃºblico
+MULTIBOYAS VALERO PERÃ,Ventanilla,Terminal Portuario (Multiboyas),Operativo,VALERO PERÃ S.A.C.,-11.954117,-77.148318,Privado,Bio Diesel,Especializado,MarÃ­timo,Nacional,Privado
+QUIMPAC,Ventanilla,Terminal Portuario (Multiboyas),Operativo,QUIMPAC S.A.,-11.973016,-77.156383,Privado,QuÃ­micos,Especializado,MarÃ­timo,Nacional,Privado
+REPSOL GAS,Ventanilla,Terminal Portuario (Multiboyas),Operativo,SOLGAS S.A.,-11.938233,-77.169762,Privado,Gas Licuado de Petroleo (GLP),Especializado,MarÃ­timo,Nacional,Privado
+SUDAMERICANA DE FIBRAS,Ventanilla,Terminal Portuario (Multiboyas),Operativo,SUDAMERICANA DE FIBRAS S.A.,-11.981781,-77.156719,Privado,QuÃ­micos,Especializado,MarÃ­timo,Nacional,Privado
+TRALSA,Ventanilla,Terminal Portuario (Multiboyas),Operativo,TRALSA S.A.,-11.968273,-77.154053,Privado,QuÃ­micos,Especializado,MarÃ­timo,Nacional,Privado
+ZETA GAS ANDINO,Ventanilla,Terminal Portuario (Multiboyas),Operativo,ZETA GAS ANDINO S.A.,-11.988575,-77.159648,Privado,Gas Licuado de Petroleo (GLP),Especializado,MarÃ­timo,Nacional,Privado
+LA PAMPILLA REPSOL,Ventanilla,Terminal Portuario (Multiboyas),Operativo,REFINERIA LA PAMPILLA S.A.,-11.917313,-77.16177,Privado,Hidrocarburos,Especializado,MarÃ­timo,Nacional,Privado
+SHOUGAN HIERRO PERÃ,San NicolÃ¡s,Terminal Portuario (Muelle),Operativo,SHOUGANG HIERRO PERÃ S.A.A.,-15.254444,-75.241667,Privado,Minerales,Especializado,MarÃ­timo,Nacional,Privado
+PISCO,Pisco,Terminal Portuario (Multiboyas),Operativo,PETROPERÃ S.A.,-13.747462,-76.228457,Privado,Hidrocarburos,Especializado,MarÃ­timo,Nacional,PÃºblico
+PLUSPETROL - PISCO,Pisco,Terminal Portuario (Muelle Dolphin),Operativo,PLUSPETROL PERU CORPORATION S.A.,-13.768114,-76.265108,Privado,Hidrocarburos,Especializado,MarÃ­timo,Nacional,Privado
+GENERAL SAN MARTÃN - PISCO,Paracas,Terminal Portuario (Muelle),Operativo,TERMINAL PORTUARIO PARACAS S.A.,-13.803056,-76.291667,PÃºblico,MultipropÃ³sito,MultipropÃ³sito,MarÃ­timo,Nacional,PÃºblico (Concesionado)
+MINA JUSTA,Marcona,Terminal Portuario (Multiboyas),Operativo,MARCOBRE S.A.C,-15.339069,-75.173676,Privado,Ãcido SulfÃºrico,Especializado,MarÃ­timo,Nacional,Privado
+SALAVERRY,Salaverry,Terminal Portuario (Muelle),Operativo,SALAVERRY TERMINAL INTERNACIONAL S.A.,-8.226123,-78.982365,PÃºblico,General,MultipropÃ³sito,MarÃ­timo,Nacional,PÃºblico (Concesionado)
+SALAVERRY,Salaverry,Terminal Portuario (Multiboyas),Operativo,TERMINALES DEL PERÃ,-8.216097,-78.991793,Privado,Hidrocarburos,Especializado,MarÃ­timo,Nacional,Privado
+ETEN,Eten,Terminal Portuario (Multiboyas),Operativo,TERMINALES DEL PERÃ,-6.966771,-79.861059,Privado,Hidrocarburos,Especializado,MarÃ­timo,Regional,PÃºblico
+UNIÃN ANDINA DE CEMENTOS,LurÃ­n,Terminal Portuario (Muelle),Operativo,UNIÃN ANDINA DE CEMENTOS S.A.A (UNACEM PERÃ),-12.252882,-76.938825,Privado,Granel sÃ³lido,Especializado,MarÃ­timo,Nacional,Privado
+CONCHÃN,LurÃ­n,Terminal Portuario (Multiboyas),Operativo,PETROPERÃ S.A.,-12.259776,-76.931205,Privado,Hidrocarburos,Especializado,MarÃ­timo,Nacional,PÃºblico
+QUIMPAC,Paramonga,Terminal Portuario (Multiboyas),Operativo,QUIMPAC S.A.,-10.676995,-77.834807,Privado,QuÃ­micos,Especializado,MarÃ­timo,Regional,Privado
+COLPEX - SUPE,Supe,Terminal Portuario (Multiboyas),Operativo,COLPEX INTERNATIONAL S.A.C.,-10.797864,-77.745623,Privado,Aceite de pescado,Especializado,MarÃ­timo,Regional,Privado
+SUPE,Supe,Terminal Portuario (Multiboyas),Operativo,TERMINALES DEL PERÃ,-10.796035,-77.746992,Privado,Hidrocarburos,Especializado,MarÃ­timo,Regional,PÃºblico
+PERÃ LNG MELCHORITA,CaÃ±ete,Terminal Portuario (Muelle Dolphin),Operativo,PERÃ LNG S.R.L.,-13.264478,-76.31331,Privado,Gas,Especializado,MarÃ­timo,Nacional,Privado
+BLUE PACIFIC OILS,Chancay,Terminal Portuario (Multiboyas),Operativo,BLUE PACIFIC OILS S.A.C,-11.581667,-77.270278,Privado,Aceite de pescado,Especializado,MarÃ­timo,Nacional,Privado
+SANTA CLOTILDE,Santa Clotilde,Embarcadero,Operativo,MUNICIPALIDAD DISTRITAL DE NAPO,-2.486741,-73.678822,PÃºblico,General,MultipropÃ³sito,Fluvial,Regional,PÃºblico
+EXPLORACIONES AMAZÃNICAS,Iquitos,Embarcadero,Operativo,EXPLORACIONES AMAZONICAS S.A.,-3.738527,-73.240353,Privado,Pasajeros,Especializado,Fluvial,Regional,Privado
+GLP AMAZONICO,Iquitos,Terminal Portuario (Embarcadero),Operativo,GLP AMAZÃNICO S.A.C.,-3.780009,-73.341136,Privado,Gas,Especializado,Fluvial,Nacional,Privado
+IQUITOS,Iquitos,Terminal Portuario (Muelle Flotante),Operativo,ENAPU S.A.,-3.730464,-73.238476,PÃºblico,General,MultipropÃ³sito,Fluvial,Nacional,PÃºblico
+MARIO DA COSTA MANZUR,Iquitos,Embarcadero,Operativo,MARIO CESAR DA COSTA MANZUR E.I.R.L.,-3.721838,-73.239266,Privado,General,MultipropÃ³sito,Fluvial,Nacional,Privado
+MERCADO MAYORISTA BELEN,Iquitos,Embarcadero,Operativo,MINISTERIO DE LA PRODUCCION,-3.767458,-73.254649,PÃºblico,General,MultipropÃ³sito,Fluvial,Regional,PÃºblico
+MOROCHITA,Iquitos,Embarcadero,Operativo,NAVIERA FLUVIAL MOROCHITA S.R.L.,-3.72001,-73.239024,Publico,General,MultipropÃ³sito,Fluvial,Regional,Privado
+PETROPERÃ - IQUITOS,Iquitos,Terminal Portuario (Muelle Flotante),Operativo,PETROPERÃ S.A.,-3.634,-73.203,Privado,Hidrocarburos,Especializado,Fluvial,Nacional,PÃºblico
+SERVICIOS Y EQUIPOS AMAZÃNICOS,Iquitos,Embarcadero,Operativo,SERVICIOS Y EQUIPOS AMAZÃNICOS S.A.C.,-3.736558,-73.240219,Publico,General,MultipropÃ³sito,Fluvial,Regional,Privado
+TP TRIPLAY MARTÃN SAC,Iquitos,Embarcadero,Operativo,TRIPLAY MARTIN S.A.C,-3.725389,-73.239363,Publico,General,MultipropÃ³sito,Fluvial,Regional,Privado
+TRANS LINARES,Iquitos,Embarcadero,Operativo,TRANS LINARES S.R.L.,-3.74167,-73.239238,Publico,General,MultipropÃ³sito,Fluvial,Regional,Privado
+"TRANSPORTE FLUVIAL ""JV""",Iquitos,Embarcadero,Operativo,"TRANSPORTE FLUVIAL ""JV"" E.I.R.L.",-3.740669,-73.240442,Publico,General,MultipropÃ³sito,Fluvial,Regional,Privado
+TRANSPORTES JÃPITER,Iquitos,Embarcadero,Operativo,TRANSPORTES JUPITER S.R.L.,-3.72443,-73.239446,Publico,General,MultipropÃ³sito,Fluvial,Regional,Privado
+TURISTICO DE IQUITOS - EL HUEQUITO,Iquitos,Embarcadero,Operativo,GOBIERNO REGIONAL DE LORETO,-3.740056,-73.240665,Publico,Pasajeros (turistas),Especializado,Fluvial,Regional,PÃºblico
+CAMPO SERIO,Campo Serio,Embarcadero,Operativo,MUNICIPALIDAD DISTRITAL DE TORRES CAUSANA,-1.795726,-74.70579,PÃºblico,General,MultipropÃ³sito,Fluvial,Regional,PÃºblico
+FLOR DE CAFÃ,Yurimaguas,Embarcadero,Operativo,INVERSIONES FLOR DE CAFÃ S.A.C.,-5.896371,-76.102335,PÃºblico,Material de Acarreo y ConstrucciÃ³n,Especializado,Fluvial,Regional,Privado
+PETROPERÃ - YURIMAGUAS,Yurimaguas,Terminal Portuario (Muelle Flotante),Operativo,PETROPERÃ S.A.,-5.884866,-76.106775,Privado,Hidrocarburos,Especializado,Fluvial,Nacional,PÃºblico
+YURIMAGUAS,Yurimaguas,Terminal Portuario (Muelle Flotante),Operativo,ENAPU S.A.,-5.885671,-76.106205,PÃºblico,General,MultipropÃ³sito,Fluvial,Nacional,PÃºblico
+YURIMAGUAS - NUEVA REFORMA,Yurimaguas,Terminal Portuario (Muelle),Operativo,CONCESIONARIA PUERTO AMAZONAS S.A.,-5.85013,-76.16205,PÃºblico,General,MultipropÃ³sito,Fluvial,Nacional,PÃºblico (Concesionado)
+AQUA EXPEDITIONS,NAUTA,Embarcadero,Operativo,AQUA EXPEDITIONS S.A.C.,-4.512996,-73.580378,Privado,Pasajeros,Especializado,Fluvial,Regional,Privado
+LOTE 95 â BRETAÃA,BretaÃ±a,Embarcadero,Operativo,PETROTAL PERU S.R.L.,-5.242733,-74.328695,Privado,Hidrocarburos y carga general,MultipropÃ³sito,Fluvial,Regional,Privado
+VILLA TROMPETEROS,Villa Trompeteros O Maynas o Nauta,Embarcadero,Operativo,PLUSPETROL NORTE S.A.,-3.811562,-75.06011,Privado,Hidrocarburos,Especializado,Fluvial,Regional,Privado
+PETROPERÃ-SAN JOSÃ DE SARAMURO (ESTAC.1),San JosÃ© de Saramuro,Terminal Portuario (Embarcadero),Operativo,PETROPERÃ S.A.,-4.720026,-74.920171,Privado,Hidrocarburos,Especializado,Fluvial,Regional,PÃºblico
+PEBAS,Pebas,Embarcadero,Operativo,MUNICIPALIDAD DISTRITAL DE PEBAS,-3.324921,-71.849393,PÃºblico,General,MultipropÃ³sito,Fluvial,Regional,PÃºblico
+ISLANDIA,Islandia,Embarcadero,Operativo,MUNICIPALIDAD DISTRITAL DE YARAVI,-4.373197,-70.026056,PÃºblico,General,MultipropÃ³sito,Fluvial,Regional,PÃºblico
+SAN PABLO,San Pablo de Loreto,Embarcadero,Operativo,GOBIERNO REGIONAL DE LORETO,-4.018067,-71.101825,PÃºblico,General,MultipropÃ³sito,Fluvial,Regional,PÃºblico
+REQUENA,Requena,Embarcadero,Operativo,MUNICIPALIDAD PROVINCIAL DE REQUENA,-5.041397,-73.840519,PÃºblico,General,MultipropÃ³sito,Fluvial,Regional,PÃºblico
+CONTAMANA,Contamana,Embarcadero,Operativo,GOBIERNO REGIONAL DE LORETO,-7.354394,-75.005442,PÃºblico,General,MultipropÃ³sito,Fluvial,Regional,PÃºblico
+MAPLE - CONTAMANA,Contamana,Embarcadero,Operativo,THE MAPLE GAS CORPORATION DEL PERÃ S.R.L.,-7.383006,-74.967317,Privado,Hidrocarburos,Especializado,Fluvial,Regional,Privado
+PETROPERÃ - MORONA,Borja,Terminal Portuario (Embarcadero),Operativo,PETROPERÃ S.A.,-3.979753,-77.223527,Privado,Hidrocarburos,Especializado,Fluvial,Regional,PÃºblico
+PETROPERÃ - SARAMIRIZA (ESTACIÃN 5),Saramiriza,Terminal Portuario (Embarcadero),Operativo,PETROPERÃ S.A.,-4.565405,-77.412695,Privado,Hidrocarburos,Especializado,Fluvial,Regional,PÃºblico
+PETROPERÃ - ANDOAS,Andoas,Terminal Portuario (Muelle Flotante),Operativo,PETROPERÃ S.A.,-2.804711,-76.45618,Privado,Hidrocarburos,Especializado,Fluvial,Regional,PÃºblico
+PLUSPETROL - ANDOAS,Andoas,Embarcadero,Operativo,PLUSPETROL NORTE S.A.,-2.811223,-76.45513,Privado,Hidrocarburos,Especializado,Fluvial,Regional,Privado
+EL ESTRECHO,El Estrecho,Embarcadero,Operativo,MUNICIPALIDAD DISTRITAL DE PUTUMAYO,-2.447261,-72.671278,PÃºblico,General,MultipropÃ³sito,Fluvial,Regional,PÃºblico
+SANTA MERCEDES,Santa Mercedes,Embarcadero,Operativo,MUNICIPALIDAD DISTRITAL DE PUTUMAYO,-1.787951,-73.412308,PÃºblico,General,MultipropÃ³sito,Fluvial,Regional,PÃºblico
+NUEVA ANGUSILLA,Nueva Angusilla,Embarcadero,Operativo,MUNICIPALIDAD DISTRITAL DE TENIENTE MANUEL CLAVERO,-0.898533,-74.31025,PÃºblico,General,MultipropÃ³sito,Fluvial,Regional,PÃºblico
+NUEVA ESPERANZA,Nueva Esperanza,Embarcadero,Operativo,MUNICIPALIDAD DISTRITAL DE TENIENTE MANUEL CLAVERO,-0.993323,-74.254429,PÃºblico,General,MultipropÃ³sito,Fluvial,Regional,PÃºblico
+SOPLIN VARGAS,Soplin Vargas,Embarcadero,Operativo,MUNICIPALIDAD DISTRITAL DE TENIENTE MANUEL CLAVERO,-0.37281,-74.673459,PÃºblico,General,MultipropÃ³sito,Fluvial,Regional,PÃºblico
+TRES FRONTERAS,Tres Fronteras,Embarcadero,Operativo,MUNICIPALIDAD DISTRITAL DE TENIENTE MANUEL CLAVERO,-0.11774,-75.253754,PÃºblico,General,MultipropÃ³sito,Fluvial,Regional,PÃºblico
+PUERTO MALDONADO,Puerto Maldonado,Terminal Portuario (Embarcadero),Operativo,ENAPU S.A.,-12.593486,-69.173273,PÃºblico,General,MultipropÃ³sito,Fluvial,Regional,PÃºblico
+ENGIE (EX ENERSUR),Ilo,Terminal Portuario (Muelle),Operativo,ENGIE ENERGÃA PERÃ S.A.,-17.773364,-71.19049,Privado,Minerales,Especializado,MarÃ­timo,Nacional,Privado
+ILO,Ilo,Terminal Portuario (Muelle),Operativo,ENAPU S.A.,-17.644625,-71.34835,PÃºblico,MultipropÃ³sito,MultipropÃ³sito,MarÃ­timo,Nacional,PÃºblico
+ILO,Ilo,Terminal Portuario (Multiboyas),Operativo,PETROPERÃ S.A.,-17.634989,-71.343799,Privado,Hidrocarburos,Especializado,MarÃ­timo,Nacional,PÃºblico
+MULTIBOYAS TABLONES,Pacocha,Terminal Portuario (Multiboyas),Operativo,SOUTHERN PERÃ COPPER CORPORATIÃN â Sucursal del PerÃº,-17.502464,-71.363713,Privado,Hidrocarburos,Especializado,MarÃ­timo,Nacional,Privado
+TABLONES (MARINE),Pacocha,Terminal Portuario (Muelle),Operativo,SOUTHERN PERÃ COPPER CORPORATIÃN â Sucursal del PerÃº,-17.509486,-71.365908,Privado,Ãcido SulfÃºrico,Especializado,MarÃ­timo,Nacional,Privado
+TLT,Cata Cata,Terminal Portuario (Multiboyas),Operativo,TRABAJOS MARÃTIMOS S.A,-17.67141,-71.367689,Privado,Granel lÃ­quido,Especializado,MarÃ­timo,Nacional,Privado
+SOUTHERN PERÃ,Ilo,Terminal Portuario (Muelle),Operativo,SOUTHERN PERÃ COPPER CORPORATIÃN â Sucursal del PerÃº,-17.65,-71.349974,Privado,MultipropÃ³sito,MultipropÃ³sito,MarÃ­timo,Nacional,Privado
+PAITA,Paita,Terminal Portuario (Muelle),Operativo,TP EUROANDINOS PAITA S.A.,-5.082921,-81.105268,PÃºblico,General,MultipropÃ³sito,MarÃ­timo,Nacional,PÃºblico (Concesionado)
+PAITA- PENTA TANKS TERMINALS,Paita,Terminal Portuario (Multiboyas),Operativo,PENTA TANKS TERMINALS S.A.,-5.077604,-81.084692,Privado,Hidrocarburos,Especializado,MarÃ­timo,Nacional,Privado
+PESQUERO INDUSTRIAL ESTACIÃN NAVAL DE PAITA,Paita,Terminal Portuario (Muelle),Operativo,MARINA DE GUERRA DEL PERÃ,-5.074656,-81.122097,Privado,-,Especializado,MarÃ­timo,Nacional,Privado
+TORTUGA,Talara,Embarcadero,Operativo,SAVIA PERÃ S.A.,-4.573143,-81.276758,Privado,General,MultipropÃ³sito,MarÃ­timo,Regional,Privado
+HIBRIDO MU2,Talara,Terminal Portuario (Muelle),Operativo,PETROPERÃ S.A.,-4.573572,-81.279481,Privado,Hidrocarburos,Especializado,Maritimo,Nacional,PÃºblico
+MC DONALD,Talara,Embarcadero,Operativo,SAVIA PERÃ S.A.,-4.572097,-81.275295,Privado,General,MultipropÃ³sito,MarÃ­timo,Regional,Privado
+PARCELA 25,Talara,Embarcadero,Operativo,SAVIA PERÃ S.A.,-4.56777,-81.276793,Privado,General,MultipropÃ³sito,MarÃ­timo,Regional,Privado
+PUNTA ARENAS,Punta Arenas,Terminal Portuario (Multiboyas),Operativo,PETROPERÃ S.A.,-4.58382,-81.302488,Privado,Hidrocarburos,Especializado,MarÃ­timo,Nacional,PÃºblico
+REFINERÃA TALARA,Talara,Terminal Portuario (Muelle),Operativo,PETROPERÃ S.A.,-4.573965,-81.282724,Privado,Hidrocarburos,Especializado,MarÃ­timo,Nacional,PÃºblico
+LA BREA Y NEGRITOS,Negritos,Terminal Multiboyas,Operativo,SAVIA PERÃ S.A.,-4.646493,-81.324586,Privado,Hidrocarburos,Especializado,MarÃ­timo,Regional,Privado
+BAYOVAR (EX JUAN PABLO QUAY),BayÃ³var,Terminal Portuario (Muelle),Operativo,PUERTO BAYÃVAR S.A.C.,-5.816187,-81.040915,Privado,Minerales,Especializado,MarÃ­timo,Nacional,Privado
+MISKY MAYO,BayÃ³var,Terminal Portuario (Muelle),Operativo,COMPAÃÃA MINERA MISKI MAYO S.R.L.,-5.800997,-81.047936,Privado,Minerales,Especializado,MarÃ­timo,Nacional,Privado
+PETROPERÃ - BAYÃVAR,BayÃ³var,Terminal Portuario (Muelle),Operativo,PETROPERÃ S.A.,-5.795624,-81.055302,Privado,Hidrocarburos,Especializado,MarÃ­timo,Nacional,PÃºblico
+SAN PEDRO 1,San Pedro,Terminal Multiboyas,Operativo,SAVIA PERÃ S.A.,-5.587167,-81.092833,Privado,Hidrocarburos,Especializado,MarÃ­timo,Nacional,Privado
+FERROVÃAS - PUNO,Puno,Embarcadero,Operativo,FERROVÃAS S.A.,-15.836433,-70.014939,PÃºblico,General,MultipropÃ³sito,Lacustre,Regional,Privado
+PUNO,Puno,Embarcadero,Operativo,GOBIERNO REGIONAL DE PUNO,-15.835167,-70.014542,PÃºblico,General,MultipropÃ³sito,Lacustre,Regional,PÃºblico
+JULI,Juli,Embarcadero,Operativo,MUNICIPALIDAD PROVINCIAL DE JULI,-16.201641,-69.461195,PÃºblico,General,MultipropÃ³sito,Lacustre,Regional,PÃºblico
+BPZ ALBACORA,Zorritos,Terminal Portuario (Multiboyas),Operativo,BPZ EXPLORACIÃN & PRODUCCIÃN SRL,-3.576136,-80.709994,Privado,Hidrocarburos,Especializado,MarÃ­timo,Regional,Privado
+BPZ CORVINA,Zorritos,Terminal Portuario (Multiboyas),Operativo,BPZ EXPLORACIÃN & PRODUCCIÃN SRL,-3.591922,-80.745161,Privado,Hidrocarburos,Especializado,MarÃ­timo,Regional,Privado
+ALPICARGO,Pucallpa,Embarcadero,Operativo,ALPI CARGO S.A.C,-8.380102,-74.524097,Publico,General,MultipropÃ³sito,Fluvial,Regional,Privado
+LOGÃSTICA PERUANA DEL ORIENTE PUCALLPA,Pucallpa,Terminal Portuario (Muelle),Operativo,LOGISTICA PERUANA DEL ORIENTE S.A.,-8.382419,-74.525686,PÃºblico,General,MultipropÃ³sito,Fluvial,Nacional,Privado
+MAPLE - PUCALLPA,Pucallpa,Embarcadero,Operativo,THE MAPLE GAS CORPORATION DEL PERÃ S.R.L.,-8.390285,-74.528889,Privado,Hidrocarburos,Especializado,Fluvial,Regional,Privado
+MAPLE - PUCALLPILLO,Pucallpillo,Embarcadero,Operativo,THE MAPLE GAS CORPORATION DEL PERÃ S.R.L.,-8.453394,-74.506122,Privado,Hidrocarburos,Especializado,Fluvial,Regional,Privado
+TERRANOVA,Pucallpa,Embarcadero,Operativo,TERRANOVA E.I.R.L.,-8.383761,-74.522818,Publico,General,Especializado,Fluvial,Regional,Privado
+TRANSTOTAL LOGÃSTICA SELVA S.A,Pucallpa,Embarcadero,Operativo,TRANSTOTAL LOGÃSTICA SELVA S.A.,-8.381209,-74.525551,PÃºblico,General,MultipropÃ³sito,Fluvial,Regional,Privado
+LogÃ­stica Peruana del Oriente de Pucallpa,Pucallpa,Terminal Portuario (Muelle),Operativo,LOGISTICA PERUANA DEL ORIENTE S.A.,-8.382419,-74.525686,PÃºblico,General,MultipropÃ³sito,Fluvial,Nacional,Privado
+Muelle Hibrido MU2,Talara,Terminal Portuario (Muelle),Operativo,PETROPERÃ S.A.,-4.574286,-81.279124,Privado,Hidrocarburos,Especializado,MarÃ­timo,Nacional,PÃºblico
+Muelle de Capitanes,Callao,Embarcadero,Operativo,ESTADO PERUANO,-12.058126,-77.14973,PÃºblico,Pasajeros,Especializado,MarÃ­timo,Regional,PÃºblico
+Multiboyas Mina Justa,Acari,Terminal Portuario (Multiboyas),Operativo,MARCOBRE S.A.C,-15.339069,-75.173676,Privado,Ãcido SulfÃºrico,Especializado,MarÃ­timo,Nacional,Privado
+Islandia,Islandia,Embarcadero,Operativo,MUNICIPALIDAD DISTRITAL DE YARAVI,-4.373197,-70.026056,PÃºblico,General,MultipropÃ³sito,Fluvial,Regional,PÃºblico
+Santa Mercedes,Santa Mercedes,Embarcadero,Operativo,MUNICIPALIDAD DISTRITAL DE PUTUMAYO,-1.787951,-73.412308,PÃºblico,General,MultipropÃ³sito,Fluvial,Regional,PÃºblico
+SoplÃ­n Vargas,Soplin Vargas,Embarcadero,Operativo,MUNICIPALIDAD DISTRITAL DE TENIENTE MANUEL CLAVERO,-0.372338,-74.674665,PÃºblico,General,MultipropÃ³sito,Fluvial,Regional,PÃºblico
+Nueva Angusilla,Nueva Angusilla,Embarcadero,Operativo,MUNICIPALIDAD DISTRITAL DE TENIENTE MANUEL CLAVERO,-0.8984,-74.310492,PÃºblico,General,MultipropÃ³sito,Fluvial,Regional,PÃºblico
+TurÃ­stico de Iquitos - El Huequito,Iquitos,Embarcadero,Operativo,GOBIERNO REGIONAL DE LORETO,-3.740056,-73.240665,PÃºblico,Pasajeros (turistas),Especializado,Fluvial,Regional,PÃºblico
+EstaciÃ³n Naval de Paita,Paita,Terminal Pesquero (Muelle),Operativo,MARINA DE GUERRA DEL PERÃ,-5.074656,-81.122097,Privado,-,Especializado,MarÃ­timo,Nacional,Privado
+Multiboyas Monte Azul,Mollendo,Terminal Portuario (Multiboyas),Operativo,MONTE AZUL LOGÃSTICA S.A.C,-17.043903,-72.001541,Privado,Hidrocarburos,Especializado,MarÃ­timo,Nacional,Privado
+Santa Rosa,Santa Rosa,Embarcadero,Operativo,Consorcio TP Santa Rosa,-4.219705,-69.954226,PÃºblico,Pasajeros,Especializado,Fluvial,Regional,Privado
+COMANA S.A.C,Iquitos,Embarcadero,Operativo,COMPLEJO MADERERO NANAY SAC,-3.638577,-73.220079,Privado,Madera,Especializado,Fluvial,Regional,Privado
+Pesquero Austral - Coishco,Chimbote,Terminal Pesquero (Muelle),Operativo,AUSTRAL GROUP S.A.A.,-9.020787,-78.622498,Privado,-,Especializado,MarÃ­timo,Nacional,Privado
+Matarani,Matarani,Terminal Portuario (Muelle),Operativo,TERMINAL INTERNACIONAL DEL SUR S.A.,-16.999169,-72.105933,PÃºblico,MultipropÃ³sito,MultipropÃ³sito,MarÃ­timo,Nacional,PÃºblico (Concesionado)
+La Brea y Negritos,Negritos,Terminal Portuario (Multiboyas),Operativo,SAVIA PERÃ S.A.,-4.646493,-81.324586,Privado,Hidrocarburos,Especializado,MarÃ­timo,Regional,Privado
+Huacho,Huacho,Terminal Portuario,Operativo,ENAPU S.A.,-11.117727,-77.616724,PÃºblico,General,MultipropÃ³sito,MarÃ­timo,Regional,PÃºblico
+PetroperÃº - BayÃ³var,BayÃ³var,Terminal Portuario (Muelle),Operativo,PETROPERÃ S.A.,-5.795624,-81.055302,Privado,Hidrocarburos,Especializado,MarÃ­timo,Nacional,PÃºblico
+Casamar,Santa,Terminal Pesquero (Muelle),Operativo,CASAMAR S.A.C.,-9.255625,-78.497497,Privado,-,Especializado,MarÃ­timo,Nacional,Privado
+Callao (Terminal de Contenedores Muelle Sur),Callao,Terminal Portuario (Muelle),Operativo,DP WORLD CALLAO S.R.L.,-12.056375,-77.148605,PÃºblico,Contenedores,Especializado,MarÃ­timo,Nacional,PÃºblico (Concesionado)
+General San MartÃ­n,Paracas,Terminal Portuario (Muelle),Operativo,TERMINAL PORTUARIO PARACAS S.A.,-13.803056,-76.291667,PÃºblico,MultipropÃ³sito,MultipropÃ³sito,MarÃ­timo,Nacional,PÃºblico (Concesionado)
+Shougang Hierro PerÃº,San NicolÃ¡s,Terminal Portuario (Muelle),Operativo,SHOUGANG HIERRO PERÃ S.A.A.,-15.254444,-75.241667,Privado,Minerales,Especializado,MarÃ­timo,Nacional,Privado
+Requena,Requena,Embarcadero,Operativo,MUNICIPALIDAD PROVINCIAL DE REQUENA,-5.041397,-73.840519,PÃºblico,General,MultipropÃ³sito,Fluvial,Regional,PÃºblico
+PetroperÃº - Yurimaguas,Yurimaguas,Terminal Portuario (Muelle Flotante),Operativo,PETROPERÃ S.A.,-5.884866,-76.106775,Privado,Hidrocarburos,Especializado,Fluvial,Nacional,PÃºblico
+Tres Fronteras,Tres Fronteras,Embarcadero,Operativo,MUNICIPALIDAD DISTRITAL DE TENIENTE MANUEL CLAVERO,-0.09495,-75.230633,PÃºblico,General,MultipropÃ³sito,Fluvial,Regional,PÃºblico
+Cabo Pantoja,Cabo Pantoja,Embarcadero,Operativo,GOBIERNO REGIONAL DE LORETO,-0.966758,-75.174291,PÃºblico,General,MultipropÃ³sito,Fluvial,Regional,PÃºblico
+Supe,Supe,Terminal Portuario,Operativo,ENAPU S.A.,-10.795381,-77.747097,PÃºblico,General,MultipropÃ³sito,MarÃ­timo,Regional,PÃºblico
+Paita,Paita,Terminal Portuario (Muelle),Operativo,TP EUROANDINOS PAITA S.A.,-5.082921,-81.105268,PÃºblico,General,MultipropÃ³sito,MarÃ­timo,Nacional,PÃºblico (Concesionado)
+Multiboyas Penta Tanks Terminals,Paita,Terminal Portuario (Multiboyas),Operativo,PENTA TANKS TERMINALS S.A.,-5.077604,-81.084692,Privado,Hidrocarburos,Especializado,MarÃ­timo,Nacional,Privado
+MultipropÃ³sito de Salaverry,Salaverry,Terminal Portuario (Muelle),Operativo,SALAVERRY TERMINAL INTERNACIONAL S.A.,-8.226123,-78.982365,PÃºblico,General,MultipropÃ³sito,MarÃ­timo,Nacional,PÃºblico (Concesionado)
+Chimbote,Chimbote,Terminal Portuario (Muelle),Operativo,GOBIERNO REGIONAL DE ANCASH,-9.074414,-78.610495,PÃºblico,General,MultipropÃ³sito,MarÃ­timo,Regional,PÃºblico
+Ilo,Ilo,Terminal Portuario (Muelle),Operativo,ENAPU S.A.,-17.644625,-71.34835,PÃºblico,MultipropÃ³sito,MultipropÃ³sito,MarÃ­timo,Nacional,PÃºblico
+Puerto Maldonado,Puerto Maldonado,Embarcadero,Operativo,Gobierno Regional de Madre de Dios,-12.592482,-69.174551,PÃºblico,General,MultipropÃ³sito,Fluvial,Regional,PÃºblico
+Pebas,Pebas,Embarcadero,Operativo,MUNICIPALIDAD DISTRITAL DE PEBAS,-3.324921,-71.849393,PÃºblico,General,MultipropÃ³sito,Fluvial,Regional,PÃºblico
+PetroperÃ¹ - Saramiriza (EstaciÃ³n 5),Saramiriza,Terminal Portuario (Embarcadero),Operativo,PETROPERÃ S.A.,-4.565405,-77.412695,Privado,Hidrocarburos,Especializado,Fluvial,Regional,PÃºblico
+Contamana,Contamana,Embarcadero,Operativo,GOBIERNO REGIONAL DE LORETO,-7.354952,-75.004553,PÃºblico,General,MultipropÃ³sito,Fluvial,Regional,PÃºblico
+Puno,Puno,Embarcadero,Operativo,GOBIERNO REGIONAL DE PUNO,-15.835167,-70.014542,PÃºblico,General,MultipropÃ³sito,Lacustre,Regional,PÃºblico
+UniÃ³n Andina de Cementos,LurÃ­n,Terminal Portuario (Muelle),Operativo,UNIÃN ANDINA DE CEMENTOS S.A.A,-12.252882,-76.938825,Privado,Granel sÃ³lido,Especializado,MarÃ­timo,Nacional,Privado
+Ãtico,Atico,Terminal Portuario,Operativo,TECNOLOGÃA DE ALIMENTOS S.A.,-16.226537,-73.695821,Privado,Harina de pescado,Especializado,MarÃ­timo,Regional,Privado
+MazÃ¡n,MazÃ¡n,Embarcadero,Operativo,GOBIERNO REGIONAL DE LORETO,-3.491524,-73.092996,PÃºblico,General,MultipropÃ³sito,Fluvial,Regional,PÃºblico
+Multiboyas Zeta Gas Andino,Ventanilla,Terminal Portuario (Multiboyas),Operativo,ZETA GAS ANDINO S.A.,-11.988575,-77.159648,Privado,Gas Licuado de Petroleo (GLP),Especializado,MarÃ­timo,Nacional,Privado
+Multiboyas Mollendo,Mollendo,Terminal Portuario (Multiboyas),Operativo,PETROPERÃ S.A.,-17.039991,-72.006481,Privado,Hidrocarburos,Especializado,MarÃ­timo,Nacional,PÃºblico
+Southern PerÃº,Ilo,Terminal Portuario (Muelle),Operativo,SOUTHERN PERÃ COPPER CORPORATION SUCURSAL DEL PERÃ,-17.65,-71.349974,Privado,MultipropÃ³sito,MultipropÃ³sito,MarÃ­timo,Nacional,Privado
+PetroperÃº - Andoas,Andoas,Terminal Portuario (Muelle Flotante),Operativo,PETROPERÃ S.A.,-2.804711,-76.45618,Privado,Hidrocarburos,Especializado,Fluvial,Regional,PÃºblico
+Multiboyas Quimpac - Paramonga,Paramonga,Terminal Portuario (Multiboyas),Operativo,QUIMPAC S.A.,-10.676995,-77.834807,Privado,QuÃ­micos,Especializado,MarÃ­timo,Regional,Privado
+Multiboyas RefinerÃ­a Repsol - La Pampilla,Ventanilla,Terminal Portuario (Multiboyas),Operativo,REFINERIA LA PAMPILLA S.A.,-11.917313,-77.16177,Privado,Hidrocarburos,Especializado,MarÃ­timo,Nacional,Privado
+Muelle al Servicio del PerÃº en Arica,Arica,Terminal Portuario (Muelle),Operativo,ENAPU S.A.,-18.46543,-70.323806,PÃºblico,General,MultipropÃ³sito,MarÃ­timo,Nacional,PÃºblico
+Multiboyas Punta Arenas,Punta Arenas,Terminal Portuario (Multiboyas),Operativo,PETROPERÃ S.A.,-4.583056,-81.318056,Privado,Hidrocarburos,Especializado,MarÃ­timo,Nacional,PÃºblico
+Multiboyas Eten,Eten,Terminal Portuario (Multiboyas),Operativo,TERMINALES DEL PERÃ,-6.966771,-79.861059,Privado,Hidrocarburos,Especializado,MarÃ­timo,Regional,Privado
+Multiboyas Salaverry,Salaverry,Terminal Portuario (Multiboyas),Operativo,TERMINALES DEL PERÃ,-8.216097,-78.991793,Privado,Hidrocarburos,Especializado,MarÃ­timo,Nacional,Privado
+Punta Lobitos - Antamina,Huarmey,Terminal Portuario (Muelle),Operativo,CIA. MINERA ANTAMINA S.A.,-10.099826,-78.180808,Privado,Minerales,Especializado,MarÃ­timo,Regional,Privado
+Multiboyas Supe,Supe,Terminal Portuario (Multiboyas),Operativo,TERMINALES DEL PERÃ,-10.796035,-77.746992,Privado,Hidrocarburos,Especializado,MarÃ­timo,Regional,Privado
+Multiboyas ConchÃ¡n,LurÃ­n,Terminal Portuario (Multiboyas),Operativo,PETROPERÃ S.A.,-12.259776,-76.931205,Privado,Hidrocarburos,Especializado,MarÃ­timo,Nacional,PÃºblico
+PetroperÃº - Iquitos,Iquitos,Terminal Portuario (Muelle Flotante),Operativo,PETROPERÃ S.A.,-3.634,-73.203,Privado,Hidrocarburos,Especializado,Fluvial,Nacional,PÃºblico
+BayÃ³var (Ex Juan Pablo Quay),BayÃ³var,Terminal Portuario (Muelle),Operativo,PUERTO BAYÃVAR S.A.C.,-5.816187,-81.040915,Privado,Minerales,Especializado,MarÃ­timo,Nacional,Privado
+Chicama (Malabrigo),AndrÃ©s RÃ¡zuri,Terminal Portuario,Operativo,GOBIERNO REGIONAL DE LA LIBERTAD,-7.689106,-79.442057,PÃºblico,General,MultipropÃ³sito,MarÃ­timo,Regional,PÃºblico
+Pluspetrol - Pisco,Pisco,Terminal Portuario (Muelle Dolphin),Operativo,PLUSPETROL PERU CORPORATION S.A.,-13.768114,-76.265108,Privado,Hidrocarburos,Especializado,MarÃ­timo,Nacional,Privado
+Multiboyas Pisco,Pisco,Terminal Portuario (Multiboyas),Operativo,PETROPERÃ S.A.,-13.747462,-76.228457,Privado,Hidrocarburos,Especializado,MarÃ­timo,Nacional,PÃºblico
+Multiboyas Colpex - Supe,Supe,Terminal Portuario (Multiboyas),Operativo,COLPEX INTERNATIONAL S.A.C.,-10.797864,-77.745623,Privado,Aceite de pescado,Especializado,MarÃ­timo,Regional,Privado
+Muelle SiderperÃº,Chimbote,Terminal Portuario (Muelle),Operativo,SIDERPERU S.A.,-9.077477,-78.610528,Privado,Minerales,Especializado,MarÃ­timo,Regional,PÃºblico
+Multiboyas Solgas - Ventanilla,Ventanilla,Terminal Portuario (Multiboyas),Operativo,SOLGAS S.A.,-11.938233,-77.169762,Privado,Gas Licuado de Petroleo (GLP),Especializado,MarÃ­timo,Nacional,Privado
+Multiboyas Quimpac - Oquendo,Ventanilla,Terminal Portuario (Multiboyas),Operativo,QUIMPAC S.A.,-11.973016,-77.156383,Privado,QuÃ­micos,Especializado,MarÃ­timo,Nacional,Privado
+Multiboyas TRALSA,Ventanilla,Terminal Portuario (Multiboyas),Operativo,TRALSA S.A.,-11.968273,-77.154053,Privado,QuÃ­micos,Especializado,MarÃ­timo,Nacional,Privado
+Multiboyas Sudamericana de Fibras,Ventanilla,Terminal Portuario (Multiboyas),Operativo,SUDAMERICANA DE FIBRAS S.A.,-11.981781,-77.156719,Privado,QuÃ­micos,Especializado,MarÃ­timo,Nacional,Privado
+Multiboyas Ilo,Ilo,Terminal Portuario (Multiboyas),Operativo,PETROPERÃ S.A.,-17.634989,-71.343799,Privado,Hidrocarburos,Especializado,MarÃ­timo,Nacional,PÃºblico
+ENGIE,Ilo,Terminal Portuario (Muelle),Operativo,ENGIE ENERGÃA PERÃ S.A.,-17.773364,-71.19049,Privado,Minerales,Especializado,MarÃ­timo,Nacional,Privado
+Multiboyas TLT,Cata Cata,Terminal Portuario (Multiboyas),Operativo,TRABAJOS MARÃTIMOS S.A,-17.67141,-71.367689,Privado,Granel lÃ­quido,Especializado,MarÃ­timo,Nacional,Privado
+Multiboyas Valero PerÃº S.A.C,Callao,Terminal Portuario (Multiboyas),Operativo,VALERO PERÃ S.A.C.,-11.954117,-77.148318,Privado,Bio Diesel,Especializado,MarÃ­timo,Nacional,Privado
+Multiboyas Chimbote,Chimbote,Terminal Portuario (Multiboyas),Operativo,TERMINALES DEL PERÃ,-9.112037,-78.576418,Privado,Hidrocarburos,Especializado,MarÃ­timo,Regional,Privado
+RefinerÃ­a Talara,Talara,Terminal Portuario (Muelle),Operativo,PETROPERÃ S.A.,-4.574167,-81.282222,Privado,Hidrocarburos,Especializado,MarÃ­timo,Nacional,PÃºblico
+FERROVÃAS - PUNO,Puno,Embarcadero,Operativo,FERROVÃAS S.A.,-15.831693,-70.016077,PÃºblico,General,MultipropÃ³sito,Lacustre,Regional,Privado
+BPZ Albacora,Zorritos,Terminal Portuario (Multiboyas),Operativo,BPZ EXPLORACIÃN & PRODUCCIÃN SRL,-3.576136,-80.709994,Privado,Hidrocarburos,Especializado,MarÃ­timo,Regional,Privado
+San Pedro 1,San Pedro,Terminal Portuario (Multiboyas),Operativo,SAVIA PERÃ S.A.,-5.587167,-81.092833,Privado,Hidrocarburos,Especializado,MarÃ­timo,Nacional,Privado
+Multiboyas Colpex - Chimbote,Chimbote,Terminal Portuario (Multiboyas),Operativo,COLPEX INTERNATIONAL S.A.C.,-9.120388,-78.579279,Privado,Aceite de pescado,Especializado,MarÃ­timo,Regional,Privado
+Multiboyas Blue Pacific Oils - Chimbote,Chimbote,Terminal Portuario (Multiboyas),Operativo,BLUE PACIFIC OILS S.A.,-9.130045,-78.609597,Privado,Aceite de pescado,Especializado,MarÃ­timo,Regional,Privado
+Multiboyas Blue Pacific Oils - Chancay,Chancay,Terminal Portuario (Multiboyas),Operativo,BLUE PACIFIC OILS S.A.,-11.576122,-77.278996,Privado,Aceite de pescado,Especializado,MarÃ­timo,Nacional,Privado
+Callao (Terminal MultipropÃ³sito Muelle Norte ),Callao,Terminal Portuario (Muelle),Operativo,APM TERMINALS CALLAO S.A.,-12.045592,-77.144473,PÃºblico,"General, graneles y contenedores",MultipropÃ³sito,MarÃ­timo,Nacional,PÃºblico (Concesionado)
+PerÃº LNG Melchorita,CaÃ±ete,Terminal Portuario (Muelle Dolphin),Operativo,PERÃ LNG S.R.L.,-13.264478,-76.31331,Privado,Gas,Especializado,MarÃ­timo,Nacional,Privado
+Iquitos,Iquitos,Terminal Portuario (Muelle Flotante),Operativo,ENAPU S.A.,-3.730455,-73.2386,PÃºblico,General,MultipropÃ³sito,Fluvial,Nacional,PÃºblico
+GLP Amazonico,Iquitos,Terminal Portuario (Embarcadero),Operativo,GLP AMAZÃNICO S.A.C.,-3.780009,-73.341136,Privado,Gas,Especializado,Fluvial,Nacional,Privado
+Villa Trompeteros,Villa Trompeteros O Maynas o Nauta,Embarcadero,Operativo,PLUSPETROL NORTE S.A.,-3.811562,-75.06011,Privado,Hidrocarburos,Especializado,Fluvial,Regional,Privado
+PetroperÃº - Morona,Borja,Terminal Portuario (Embarcadero),Operativo,PETROPERÃ S.A.,-3.979753,-77.223527,Privado,Hidrocarburos,Especializado,Fluvial,Regional,PÃºblico
+PetroperÃº - San JosÃ© de Saramuro (EstaciÃ³n 1),San JosÃ© de Saramuro,Terminal Portuario (Embarcadero),Operativo,PETROPERÃ S.A.,-4.720026,-74.920171,Privado,Hidrocarburos,Especializado,Fluvial,Regional,PÃºblico
+Yurimaguas,Yurimaguas,Terminal Portuario (Muelle Flotante),Operativo,ENAPU S.A.,-5.885671,-76.106205,PÃºblico,General,MultipropÃ³sito,Fluvial,Nacional,PÃºblico
+Terranova,Pucallpa,Embarcadero,Operativo,TERRANOVA E.I.R.L,-8.383761,-74.522818,PÃºblico,General,Especializado,Fluvial,Regional,Privado
+Transtotal LogÃ­stica Selva,Pucallpa,Embarcadero,Operativo,TRANSTOTAL LOGÃSTICA SELVA S.A.,-8.381209,-74.525551,PÃºblico,General,MultipropÃ³sito,Fluvial,Regional,Privado
+Juli,Juli,Embarcadero,Operativo,MUNICIPALIDAD PROVINCIAL DE JULI,-16.201641,-69.461195,PÃºblico,General,MultipropÃ³sito,Lacustre,Regional,PÃºblico
+BPZ Corvina,Zorritos,Terminal Portuario (Multiboyas),Operativo,BPZ EXPLORACIÃN & PRODUCCIÃN SRL,-3.591922,-80.745161,Privado,Hidrocarburos,Especializado,MarÃ­timo,Regional,Privado
+Miski Mayo,BayÃ³var,Terminal Portuario (Muelle),Operativo,COMPAÃÃA MINERA MISKI MAYO S.R.L.,-5.800997,-81.047936,Privado,Minerales,Especializado,MarÃ­timo,Nacional,Privado
+Multiboyas Tablones,Pacocha,Terminal Portuario (Multiboyas),Operativo,SOUTHERN PERÃ COPPER CORPORATION SUCURSAL DEL PERÃ,-17.502464,-71.363713,Privado,Hidrocarburos,Especializado,MarÃ­timo,Nacional,Privado
+Tablones,Pacocha,Terminal Portuario (Muelle),Operativo,SOUTHERN PERÃ COPPER CORPORATION SUCURSAL DEL PERÃ,-17.509486,-71.365908,Privado,Ãcido SulfÃºrico,Especializado,MarÃ­timo,Nacional,Privado
+Callao (Terminal de Embarque de Concentrado de Minerales),Callao,Terminal Portuario (Muelle),Operativo,TRANSPORTADORA CALLAO S.A.,-12.04175,-77.149347,PÃºblico,Concentrado de minerales,Especializado,MarÃ­timo,Nacional,PÃºblico (Concesionado)
+Yurimaguas - Nueva Reforma,Yurimaguas,Terminal Portuario (Muelle),Operativo,CONCESIONARIA PUERTO AMAZONAS S.A.,-5.85013,-76.16205,PÃºblico,General,MultipropÃ³sito,Fluvial,Nacional,PÃºblico (Concesionado)
+Campo Serio,Campo Serio,Embarcadero,Operativo,MUNICIPALIDAD DISTRITAL DE TORRES CAUSANA,-1.795726,-74.70579,PÃºblico,General,MultipropÃ³sito,Fluvial,Regional,PÃºblico
+Santa Clotilde,Santa Clotilde,Embarcadero,Operativo,MUNICIPALIDAD DISTRITAL DE NAPO,-2.486741,-73.678822,PÃºblico,General,MultipropÃ³sito,Fluvial,Regional,PÃºblico
+El Estrecho,El Estrecho,Embarcadero,Operativo,MUNICIPALIDAD DISTRITAL DE PUTUMAYO,-2.447447,-72.671321,PÃºblico,General,MultipropÃ³sito,Fluvial,Regional,PÃºblico
+Nueva Esperanza,Nueva Esperanza,Embarcadero,Operativo,MUNICIPALIDAD DISTRITAL DE TENIENTE MANUEL CLAVERO,-0.993465,-74.254408,PÃºblico,General,MultipropÃ³sito,Fluvial,Regional,PÃºblico
+Matarani,Matarani,Terminal Portuario (Muelle),Operativo,TERMINAL INTERNACIONAL DEL SUR S.A.,,,PÃºblico,"Granel sÃ³lido,Fraccionada,Granel lÃ­quido,Contenedores,Pasajeros",MultipropÃ³sito,MarÃ­timo,Nacional,PÃºblico (Concesionado)
+La Brea y Negritos,Negritos,Multiboyas,Operativo (inicio adecuaciÃ³n),PETROPERÃ S.A.,,,Privado,Granel lÃ­quido (Hidrocarburos),Especializado,MarÃ­timo,Regional,PÃºblico
+Huacho,Huacho,Terminal Portuario,Operativo,ENAPU S.A.,,,PÃºblico,Cabotaje,MultipropÃ³sito,MarÃ­timo,Regional,PÃºblico
+PetroperÃº - BayÃ³var,BayÃ³var,Terminal Portuario (Muelle),Operativo (inicio adecuaciÃ³n),PETROPERÃ S.A.,,,Privado,Hidrocarburos,Especializado,MarÃ­timo,Nacional,PÃºblico
+Callao (Terminal de Contenedores Muelle Sur),Callao,Terminal Portuario (Muelle),Operativo,DP WORLD CALLAO S.R.L.,,,PÃºblico,Contenedores,Especializado,MarÃ­timo,Nacional,PÃºblico (Concesionado)
+General San MartÃ­n,Paracas,Terminal Portuario (Muelle),Operativo,TERMINAL PORTUARIO PARACAS S.A.,,,PÃºblico,"Granel sÃ³lido,Fracionada Contenedores,Rodante,Pasajeros",MultipropÃ³sito,MarÃ­timo,Nacional,PÃºblico (Concesionado)
+Shougang Hierro PerÃº,San NicolÃ¡s,Terminal Portuario (Muelle),Operativo,SHOUGANG HIERRO PERÃ S.A.A.,,,Privado,Granel sÃ³lido (Minerales),Especializado,MarÃ­timo,Nacional,Privado
+Requena,Requena,Terminal portuario,Operativo (sin condiciones),MUNICIPALIDAD PROVINCIAL DE REQUENA,,,PÃºblico,Pasajeros,Especializado,Fluvial,Regional,PÃºblico
+PetroperÃº - Yurimaguas,Yurimaguas,Muelle flotante,Operativo,PETROPERÃ S.A.,,,Privado,Granel lÃ­quido (Hidrocarburos),Especializado,Fluvial,Regional,PÃºblico
+Tres Fronteras,Tres Fronteras,Embarcadero,Operativo,MUNICIPALIDAD DISTRITAL DE TENIENTE MANUEL CLAVERO,,,PÃºblico,"Fraccionada,Pasajeros",MultipropÃ³sito,Fluvial,Regional,PÃºblico
+Cabo Pantoja,Cabo Pantoja,Terminal portuario,Operativo,GOBIERNO REGIONAL DE LORETO,,,PÃºblico,Pasajeros,Especializado,Fluvial,Regional,PÃºblico
+Supe,Supe Puerto,Terminal Portuario,Operativo,ENAPU S.A.,,,PÃºblico,Cabotaje,MultipropÃ³sito,MarÃ­timo,Regional,PÃºblico
+San Pablo,San Pablo,Embarcadero,Operativo,GOBIERNO REGIONAL DE LORETO,,,PÃºblico,"Fraccionada,Pasajeros",MultipropÃ³sito,Fluvial,Regional,PÃºblico
+Paita,Paita,Terminal Portuario (Muelle),Operativo,TP EUROANDINOS PAITA S.A.,,,PÃºblico,"Contenedores, Granel sÃ³lido, Granel lÃ­quido y Fraccionada",MultipropÃ³sito,MarÃ­timo,Nacional,PÃºblico (Concesionado)
+MultipropÃ³sito de Salaverry,Salaverry,Terminal Portuario (Muelle),Operativo,SALAVERRY TERMINAL INTERNACIONAL S.A.,,,PÃºblico,"Granel sÃ³lido Fraccionada,Granel lÃ­quido,Pasajeros",MultipropÃ³sito,MarÃ­timo,Nacional,PÃºblico (Concesionado)
+Chimbote,Chimbote,Terminal Portuario (Muelle),Operativo,GOBIERNO REGIONAL DE ANCASH,,,PÃºblico,"Fraccionada Granel lÃ­quido,Granel sÃ³lido",MultipropÃ³sito,MarÃ­timo,Nacional,PÃºblico
+Ilo,Ilo,Terminal Portuario (Muelle),Operativo,ENAPU S.A.,,,PÃºblico,"Granel sÃ³lido,Fraccionada,Contenedores,Granel lÃ­quido",MultipropÃ³sito,MarÃ­timo,Nacional,PÃºblico
+Triplay MartÃ­n S.A.C.,Iquitos,Embarcadero,Operativo (inicio adecuaciÃ³n),TRIPLAY MARTIN S.A.C,,,Publico,General,MultipropÃ³sito,Fluvial,Regional,Privado
+Puerto Maldonado,Puerto Maldonado,Embarcadero,Operativo (sin uso),Gobierno Regional de Madre de Dios,,,PÃºblico,"Fraccionada,Pasajeros",Especializado,Fluvial,Regional,PÃºblico
+Pebas,Pebas,Embarcadero,Operativo,MUNICIPALIDAD DISTRITAL DE PEBAS,,,PÃºblico,"Fraccionada,Pasajeros",MultipropÃ³sito,Fluvial,Regional,PÃºblico
+PetroperÃº - Saramiriza (EstaciÃ³n 5),Saramiriza,Embarcadero,Operativo,PETROPERÃ S.A.,,,Privado,Granel lÃ­quido (Hidrocarburos),Especializado,Fluvial,Regional,PÃºblico
+Contamana,Contamana,Embarcadero,Operativo,GOBIERNO REGIONAL DE LORETO,,,PÃºblico,"Fraccionada,Pasajeros",MultipropÃ³sito,Fluvial,Regional,PÃºblico
+Puno,Puno,Embarcadero,Operativo,GOBIERNO REGIONAL DE PUNO,,,PÃºblico,MultipropÃ³sito,Carga fraccionada,Lacustre,Regional,PÃºblico
+UniÃ³n Andina de Cementos,LurÃ­n,Terminal Portuario (Muelle),Operativo,UNACEM PERÃ S.A.,,,Privado,Granel sÃ³lido (cemento),Especializado,MarÃ­timo,Nacional,Privado
+MazÃ¡n,MazÃ¡n,Embarcadero,Operativo,GOBIERNO REGIONAL DE LORETO,,,PÃºblico,"Fraccionada,Pasajeros",MultipropÃ³sito,Fluvial,Regional,PÃºblico
+Multiboyas Zeta Gas Andino,Oquendo,Multiboyas,Operativo (en adecuaciÃ³n),ZETA GAS ANDINO S.A.,,,Privado,Gas Licuado de Petroleo (GLP),Especializado,MarÃ­timo,Nacional,Privado
+Multiboyas Mollendo,Mollendo,Multiboyas,Operativo,PETROPERÃ S.A.,,,Privado,Granel lÃ­quido (Hidrocarburos),Especializado,MarÃ­timo,Nacional,PÃºblico
+Southern PerÃº,Ilo,Terminal Portuario (Muelle),Operativo,SOUTHERN PERÃ COPPER CORPORATION SUCURSAL DEL PERÃ,,,Privado,"Granel sÃ³lido,Fraccionada,Contenedores,Granel lÃ­quido",MultipropÃ³sito,MarÃ­timo,Nacional,Privado
+Multiboyas Quimpac - Paramonga,Paramonga,Multiboyas,Operativo,QUIMPAC S.A.,,,Privado,Granel lÃ­quido (QuÃ­micos),Especializado,MarÃ­timo,Regional,Privado
+RefinerÃ­a La Pampilla S.A.A. (Amarradero Multiboyas 3),Ventanilla,Multiboyas,Operativo,REFINERIA LA PAMPILLA S.A.,,,Privado,Granel lÃ­quido (Hidrocarburos),Especializado,MarÃ­timo,Nacional,Privado
+MalecÃ³n de Atraque al Servicio del PerÃº en Arica,Arica,Terminal Portuario,Operativo,ENAPU S.A.,,,PÃºblico,CONTENEDORES,MultipropÃ³sito,MarÃ­timo,Nacional,PÃºblico
+Multiboyas Punta Arenas,Punta Arenas,Multiboyas,Operativo,PETROPERÃ S.A.,,,Privado,Granel lÃ­quido (Hidrocarburos),Especializado,MarÃ­timo,Nacional,PÃºblico
+Multiboyas Eten,Eten,Multiboyas,Operativo,TERMINALES DEL PERÃ,,,Privado,Granel lÃ­quido (Hidrocarburos),Especializado,MarÃ­timo,Regional,PÃºblico
+Multiboyas Salaverry,Salaverry,Multiboyas,Operativo,TERMINALES DEL PERÃ,,,Privado,Granel lÃ­quido (Hidrocarburos),Especializado,MarÃ­timo,Regional,PÃºblico
+Punta Lobitos - Antamina,Huarmey,Terminal Portuario (Muelle),Operativo,CIA. MINERA ANTAMINA S.A.,,,Privado,Granel sÃ³lido (Minerales),Especializado,MarÃ­timo,Nacional,Privado
+Multiboyas Supe,Supe,Multiboyas,Operativo,TERMINALES DEL PERÃ,,,Privado,Granel lÃ­quido (Hidrocarburos),Especializado,MarÃ­timo,Regional,PÃºblico
+Multiboyas ConchÃ¡n,LurÃ­n,Multiboyas,Operativo,PETROPERÃ S.A.,,,Privado,Granel lÃ­quido (Hidrocarburos),Especializado,MarÃ­timo,Nacional,PÃºblico
+PetroperÃº - Iquitos,Iquitos,Terminal Portuario (Muelle Flotante),Operativo,PETROPERÃ S.A.,,,Privado,Granel lÃ­quido (Hidrocarburos),Especializado,Fluvial,Nacional,PÃºblico
+BayÃ³var,BayÃ³var,Terminal Portuario (Muelle),Operativo (sin uso),PUERTO BAYÃVAR S.A.C.,,,Privado,"Granel sÃ³lido,Granel lÃ­quido",MultipropÃ³sito,MarÃ­timo,Nacional,Privado
+Pluspetrol - Pisco,Pisco,Muelle,Operativo,PLUSPETROL PERU CORPORATION S.A.,,,Privado,Granel lÃ­quido (Hidrocarburos),Especializado,MarÃ­timo,Nacional,Privado
+Multiboyas Pisco,Pisco,Multiboyas,Operativo,PETROPERÃ S.A.,,,Privado,Granel lÃ­quido (Hidrocarburos),Especializado,MarÃ­timo,Regional,PÃºblico
+Multiboyas Colpex - Supe,Supe,Multiboyas,Operativo (sin uso),COLPEX INTERNATIONAL S.A.C.,,,Privado,Granel lÃ­quido (aceite de pescado),Especializado,MarÃ­timo,Nacional,Privado
+Muelle SiderperÃº,Chimbote,Terminal Portuario (Muelle),Operativo,SIDERPERU S.A.,,,Privado,"Fraccionada,Granel sÃ³lido",MultipropÃ³sito,MarÃ­timo,Nacional,Privado
+Multiboyas Solgas - Ventanilla,Ventanilla,Multiboyas,Operativo,SOLGAS S.A.,,,Privado,Granel lÃ­quido (Gas Licuado de Petroleo),Especializado,MarÃ­timo,Nacional,Privado
+Multiboyas Quimpac - Oquendo,Oquendo,Multiboyas,Operativo,QUIMPAC S.A.,,,Privado,Granel lÃ­quido (QuÃ­micos),Especializado,MarÃ­timo,Nacional,Privado
+Multiboyas TRALSA,Oquendo,Multiboyas,Operativo,TRALSA S.A.,,,Privado,Granel lÃ­quido (QuÃ­micos),Especializado,MarÃ­timo,Nacional,Privado
+Multiboyas Sudamericana de Fibras,Oquendo,Multiboyas,Operativo,SUDAMERICANA DE FIBRAS S.A.,,,Privado,Granel lÃ­quido (QuÃ­micos),Especializado,MarÃ­timo,Nacional,Privado
+Multiboyas Ilo,Ilo,Multiboyas,Operativo,PETROPERÃ S.A.,,,Privado,Granel lÃ­quido (Hidrocarburos),Especializado,MarÃ­timo,Nacional,PÃºblico
+ENGIE,Ilo,Terminal Portuario (Muelle),Operativo,ENGIE ENERGÃA PERÃ S.A.,,,Privado,"Granel sÃ³lido (minerales),Granel lÃ­quido",Especializado,MarÃ­timo,Nacional,Privado
+Multiboyas TLT,Cata Cata,Multiboyas,Operativo,TRABAJOS MARÃTIMOS S.A,,,Privado,"Granel lÃ­quido (Aceites, Etanol)",Especializado,MarÃ­timo,Nacional,Privado
+Multiboyas Chimbote,Chimbote,Multiboyas,Operativo,TERMINALES DEL PERÃ,,,Privado,Granel lÃ­quido (Hidrocarburos),Especializado,MarÃ­timo,Regional,PÃºblico
+Muelle MU1,Talara,Terminal Portuario (Muelle),Operativo,PETROPERÃ S.A.,,,Privado,Hidrocarburos,Especializado,MarÃ­timo,Nacional,PÃºblico
+Mario Da Costa Manzur,Iquitos,Embarcadero,Operativo (sin condiciones),MARIO CESAR DA COSTA MANZUR E.I.R.L,,,Privado,General,MultipropÃ³sito,Fluvial,Nacional,Privado
+Ferrovias - Puno,Puno,Embarcadero,Operativo (sin uso),FERROCARRIL TRASANDINO S.A,,,Privado,Fraccionada,MultipropÃ³sito,Lacustre,Regional,PÃºblico
+BPZ Albacora,Zorritos,Terminal Portuario (Multiboyas),"Operativo (sin uso, inicio adecuaciÃ³n)",BPZ EXPLORACIÃN & PRODUCCIÃN SRL,,,Privado,Hidrocarburos,Especializado,MarÃ­timo,Regional,Privado
+San Pedro 1,San Pedro,Terminal Portuario (Multiboyas),Operativo (inicio adecuaciÃ³n),SAVIA PERÃ S.A.,,,Privado,Hidrocarburos,Especializado,MarÃ­timo,Nacional,Privado
+Tortuga,Talara,Embarcadero,Operativo (inicio adecuaciÃ³n),PETROPERÃ S.A.,,,Privado,"Fraccionada,Pasajeros",MultipropÃ³sito,MarÃ­timo,Regional,PÃºblico
+Multiboyas Colpex - Chimbote,Chimbote,Multiboyas,Operativo,COLPEX INTERNATIONAL S.A.C.,,,Privado,Granel lÃ­quido (aceite de pescado),Especializado,MarÃ­timo,Nacional,Privado
+Multiboyas Blue Pacific Oils - Chancay,Chancay,Multiboyas,Operativo,BLUE PACIFIC OILS S.A.C.,,,Privado,Granel lÃ­quido (aceite de pescado),Especializado,MarÃ­timo,Nacional,Privado
+Callao (Terminal MultipropÃ³sito Muelle Norte ),Callao,Terminal Portuario (Muelle),Operativo,APM TERMINALS CALLAO S.A.,,,PÃºblico,"Granel sÃ³lido,Fracionada Contenedores,Rodante,Pasajeros",MultipropÃ³sito,MarÃ­timo,Nacional,PÃºblico (Concesionado)
+PerÃº LNG Melchorita,CaÃ±ete,Muelle,Operativo,PERÃ LNG S.R.L.,,,Privado,Granel lÃ­quido (Gas Natural),Especializado,MarÃ­timo,Nacional,Privado
+Pluspetrol - Andoas,Andoas,Embarcadero,Operativo (inicio adecuaciÃ³n),PLUSPETROL NORTE S.A.,,,Privado,Hidrocarburos,Especializado,Fluvial,Regional,Privado
+Henry - Iquitos,Punchana,Terminal portuario,Operativo (inicio adecuaciÃ³n),TRANSPORTES JUPITER  S.R.L.,,,PÃºblico,Contenedores Fraccionada Pasajeros,MultipropÃ³sito,Fluvial,Nacional,Privado
+Silfo AlvÃ¡n del Castillo - Masusa,Punchana,Embarcadero,Operativo (inicio adecuaciÃ³n),MUNICIPALIDAD DISTRITAL DE PUNCHANA,,,PÃºblico,General,MultipropÃ³sito,Fluvial,Nacional,PÃºblico
+Iquitos,Punchana,Terminal Portuario (Muelle Flotante),Operativo,ENAPU S.A.,,,PÃºblico,Carga fraccionada,MultipropÃ³sito,Fluvial,Nacional,PÃºblico
+GLP AmazÃ³nico,Iquitos,Terminal Portuario (Embarcadero),Operativo,GLP AMAZÃNICO S.A.C.,,,Privado,Gas,Especializado,Fluvial,Nacional,Privado
+Pluspetrol - Villa Trompeteros,"Villa Trompeteros, Maynas o Nauta",Embarcadero,Operativo (inicio adecuaciÃ³n),PLUSPETROL NORTE S.A.,,,Privado,Hidrocarburos,Especializado,Fluvial,Regional,Privado
+PetroperÃº - Morona,Borja,Embarcadero,Operativo (sin uso),PETROPERÃ S.A.,,,Privado,Granel lÃ­quido (Hidrocarburos),Especializado,Fluvial,Regional,PÃºblico
+PetroperÃº - San JosÃ© de Saramuro (EstaciÃ³n 1),San JosÃ© de Saramuro,Embarcadero,Operativo,PETROPERÃ S.A.,,,Privado,Granel lÃ­quido (Hidrocarburos),Especializado,Fluvial,Regional,PÃºblico
+Yurimaguas,Yurimaguas,Muelle flotante,Operativo,ENAPU S.A.,,,PÃºblico,Carga fraccionada,MultipropÃ³sito,Fluvial,Regional,PÃºblico
+Maple - Contamana,Contamana,Embarcadero,Operativo (inicio adecuaciÃ³n),THE MAPLE GAS CORPORATION DEL PERÃ S.R.L,,,Privado,Hidrocarburos,Especializado,Fluvial,Regional,Privado
+Henry - Pucallpa,Pucallpa,Embarcadero,Operativo (inicio adecuaciÃ³n),EMPRESA ASTILLEROS HENRY E.I.R.L.,,,PÃºblico,General,MultipropÃ³sito,Fluvial,Regional,Privado
+Juli,Juli,Embarcadero,Operativo (sin uso),MUNICIPALIDAD PROVINCIAL DE JULI,,,PÃºblico,MultipropÃ³sito,Carga fraccionada,Lacustre,Regional,PÃºblico
+BPZ Corvina,Zorritos,Terminal Portuario (Multiboyas),"Operativo (sin uso, inicio adecuaciÃ³n)",BPZ EXPLORACIÃN & PRODUCCIÃN SRL,,,Privado,Hidrocarburos,Especializado,MarÃ­timo,Regional,Privado
+Mc Donald,Talara,Embarcadero,Operativo (inicio adecuaciÃ³n),PETROPERÃ S.A.,,,Privado,"Fraccionada,Pasajeros",MultipropÃ³sito,MarÃ­timo,Regional,PÃºblico
+Parcela 25,Talara,Embarcadero,Operativo (sin condiciones),SAVIA PERÃ S.A.,,,Privado,General,MultipropÃ³sito,MarÃ­timo,Regional,Privado
+Miski Mayo,BayÃ³var,Terminal Portuario (Muelle),Operativo,COMPAÃÃA MINERA MISKI MAYO S.R.L.,,,Privado,Granel sÃ³lido (Minerales),Especializado,MarÃ­timo,Nacional,Privado
+Tablones - SOUTHERN (Amarradero Multiboyas),Ilo,Multiboyas,Operativo,SOUTHERN PERÃ COPPER CORPORATION SUCURSAL DEL PERÃ,,,Privado,Granel lÃ­quido (Hidrocarburos),Especializado,MarÃ­timo,Nacional,Privado
+Tablones - SOUTHERN (Muelle),Ilo,Terminal Portuario (Muelle),Operativo,SOUTHERN PERÃ COPPER CORPORATION SUCURSAL DEL PERÃ,,,Privado,Granel lÃ­quido (Ã¡cido sulfÃºrico),Especializado,MarÃ­timo,Nacional,Privado
+Callao (Terminal de Embarque de Concentrado de Minerales),Callao,Terminal Portuario (Muelle),Operativo,TRANSPORTADORA CALLAO S.A.,,,PÃºblico,Granel sÃ³lido (Concentrado de minerales),Especializado,MarÃ­timo,Nacional,PÃºblico (Concesionado)
+Yurimaguas - Nueva Reforma,Yurimaguas,Terminal Portuario (Muelle),Operativo,CONCESIONARIA PUERTO AMAZONAS S.A.,,,PÃºblico,Fraccionada Contenedores Pasajeros,MultipropÃ³sito,Fluvial,Nacional,PÃºblico (Concesionado)
+PetroperÃº - Andoas,Andoas,Muelle flotante,Operativo,PETROPERÃ S.A.,,,Privado,Granel lÃ­quido (Hidrocarburos),Especializado,Fluvial,Regional,PÃºblico
+Multiboyas Penta Tanks Terminals,Paita,Multiboyas,Operativo,PENTA TANKS TERMINALS S.A.,,,Privado,Granel lÃ­quido (Hidrocarburos),Especializado,MarÃ­timo,Nacional,Privado
+Pesquero Austral - Coishco,Chimbote,Terminal Pesquero (Muelle),Operativo,AUSTRAL GROUP S.A.A.,,,Privado,Especializado,Especializado,MarÃ­timo,Nacional,Privado
+LogÃ­stica Peruana del Oriente de Pucallpa,Pucallpa,Terminal Portuario (Muelle),Operativo,LOGISTICA PERUANA DEL ORIENTE S.A.,,,PÃºblico,Contenedores Fraccionada Granel lÃ­quido Rodante,MultipropÃ³sito,Fluvial,Regional,Privado
+Muelle Hibrido MU2,Talara,Terminal Portuario (Muelle),Operativo,PETROPERÃ S.A.,,,Privado,Granel lÃ­quido (Hidrocarburos),Especializado,MarÃ­timo,Nacional,PÃºblico
+Muelle de Capitanes,Callao,Embarcadero,Operativo (en adecuaciÃ³n),ESTADO PERUANO,,,PÃºblico,Pasajeros,Especializado,MarÃ­timo,Regional,PÃºblico
+Multiboyas Mina Justa,Acari,Multiboyas,Operativo,MARCOBRE S.A.C,,,Privado,Granel lÃ­quido (Ã¡cido sulfÃºrico),Especializado,MarÃ­timo,Nacional,Privado
+Islandia,Islandia,Embarcadero,Operativo,MUNICIPALIDAD DISTRITAL DE YARAVI,,,PÃºblico,"Fraccionada,Pasajeros",MultipropÃ³sito,Fluvial,Regional,PÃºblico
+Santa Mercedes,Santa Mercedes,Embarcadero,Operativo,MUNICIPALIDAD DISTRITAL DE PUTUMAYO,,,PÃºblico,"Fraccionada,Pasajeros",MultipropÃ³sito,Fluvial,Regional,PÃºblico
+SoplÃ­n Vargas,Soplin Vargas,Embarcadero,Operativo,MUNICIPALIDAD DISTRITAL DE TENIENTE MANUEL CLAVERO,,,PÃºblico,"Fraccionada,Pasajeros",MultipropÃ³sito,Fluvial,Regional,PÃºblico
+Nueva Angusilla,Nueva Angusilla,Embarcadero,Operativo,MUNICIPALIDAD DISTRITAL DE TENIENTE MANUEL CLAVERO,,,PÃºblico,"Fraccionada,Pasajeros",MultipropÃ³sito,Fluvial,Regional,PÃºblico
+Santa Clotilde,Santa Clotilde,Embarcadero,Operativo,MUNICIPALIDAD DISTRITAL DE NAPO,,,PÃºblico,"Fraccionada,Pasajeros",MultipropÃ³sito,Fluvial,Regional,PÃºblico
+El Estrecho,El Estrecho,Embarcadero,Operativo,MUNICIPALIDAD DISTRITAL DE PUTUMAYO,,,PÃºblico,"Fraccionada,Pasajeros",MultipropÃ³sito,Fluvial,Regional,PÃºblico
+Campo Serio,Campo Serio,Embarcadero,Operativo,MUNICIPALIDAD DISTRITAL DE TORRES CAUSANA,,,PÃºblico,"Fraccionada,Pasajeros",MultipropÃ³sito,Fluvial,Regional,PÃºblico
+Nueva Esperanza,Nueva Esperanza,Embarcadero,Operativo,MUNICIPALIDAD DISTRITAL DE TENIENTE MANUEL CLAVERO,,,PÃºblico,"Fraccionada,Pasajeros",MultipropÃ³sito,Fluvial,Regional,PÃºblico
+Flor de CafÃ©,Yurimaguas,Embarcadero,"Operativo (sin condiciones, inicio adecuaciÃ³n)",INVERSIONES FLOR DE CAFÃ S.A.C.,,,PÃºblico,Material de Acarreo y ConstrucciÃ³n,Especializado,Fluvial,Regional,Privado
+Mercado Mayorista BelÃ©n,Iquitos,Embarcadero,Operativo (inicio adecuaciÃ³n),MINISTERIO DE LA PRODUCCIÃN,,,PÃºblico,General,MultipropÃ³sito,Fluvial,Regional,PÃºblico
+TurÃ­stico de Iquitos - El Huequito,Iquitos,Embarcadero,Operativo,GOBIERNO REGIONAL DE LORETO,,,PÃºblico,"Fraccionada,Pasajeros",MultipropÃ³sito,Fluvial,Regional,PÃºblico
+"Transporte Fluvial ""JV""",Iquitos,Embarcadero,Operativo (en adecuaciÃ³n),"TRANSPORTE FLUVIAL """"JV"""" E.I.R.L",,,Publico,General,MultipropÃ³sito,Fluvial,Regional,Privado
+Fluvial JÃºpiter,Punchana,Terminal portuario,Operativo (en adecuaciÃ³n),TRANSPORTES JUPITER  S.R.L.,,,PÃºblico,"Contenedores,Carga rodante",MultipropÃ³sito,Fluvial,Nacional,Privado
+Exploraciones AmazÃ³nicas,Iquitos,Embarcadero,Operativo (inicio adecuaciÃ³n),EXPLORACIONES AMAZONICAS S.A.,,,PÃºblico,"Fraccionada,Pasajeros",MultipropÃ³sito,Fluvial,Regional,Privado
+Trans Linares,Iquitos,Embarcadero,Operativo (en adecuaciÃ³n),TRANS LINARES S.R.L.,,,Publico,General,MultipropÃ³sito,Fluvial,Regional,Privado
+Morochita,Iquitos,Embarcadero,Operativo (en adecuaciÃ³n),NAVIERA FLUVIAL MOROCHITA S.R.L.,,,Publico,General,MultipropÃ³sito,Fluvial,Regional,Privado
+Servicios y Equipos AmazÃ³nicos,Iquitos,Embarcadero,Operativo (en adecuaciÃ³n),SERVICIOS Y EQUIPOS AMAZÃNICOS S.A.C.,,,Publico,General,MultipropÃ³sito,Fluvial,Regional,Privado
+Alpi Cargo,Pucallpa,Embarcadero,Operativo (en adecuaciÃ³n),ALPI CARGO S.A.C,,,Publico,General,MultipropÃ³sito,Fluvial,Regional,Privado
+Terranova,Pucallpa,Terminal portuario,Operativo (sin uso),TERRANOVA E.I.R.L,,,PÃºblico,Granel lÃ­quido (Hidrocarburos),Especializado,Fluvial,Regional,Privado
+LogÃ­stica Selva,Pucallpa,Embarcadero,Operativo,TRANSTOTAL LOGÃSTICA SELVA S.A.,,,PÃºblico,"Fraccionada,Granel lÃ­quido",MultipropÃ³sito,Fluvial,Regional,Privado
+EstaciÃ³n Naval de Paita,Paita,Terminal Pesquero (Muelle),Operativo,MARINA DE GUERRA DEL PERÃ,,,Privado,Especializado,Especializado,MarÃ­timo,Nacional,Privado
+Casamar,Casamar,Terminal Pesquero (Muelle),Operativo,CASAMAR S.A.C.,,,Privado,Especializado,Especializado,MarÃ­timo,Nacional,Privado
+Multiboyas Monte Azul,Mollendo,Multiboyas,Operativo,MONTE AZUL LOGÃSTICA S.A.C,,,Privado,Granel lÃ­quido (Hidrocarburos),Especializado,MarÃ­timo,Nacional,Privado
+Multiboyas Valero PerÃº S.A.C,Callao,Multiboyas,Operativo,VALERO PERÃ S.A.C.,,,Privado,Granel lÃ­quido (Hidrocarburos),Especializado,MarÃ­timo,Nacional,Privado
+Lote 95 â BretaÃ±a,BretaÃ±a,Terminal portuario,Operativo (en adecuaciÃ³n),TRIPLAY MARTÃN S.A.C.,,,Privado,"Granel lÃ­quido (crudo, nafta, diesel), Fraccionada,Pasajeros",MultipropÃ³sito,Fluvial,Nacional,Privado
+Aqua Expeditions,NAUTA,Embarcadero,Operativo (en adecuaciÃ³n),AQUA EXPEDITIONS S.A.C.,,,Privado,Pasajeros,Especializado,Fluvial,Regional,Privado
+MultipropÃ³sito de Chancay,Chancay,Terminal Portuario,Operativo,COSCO SHIPPING Ports Chancay PerÃº,,,PÃºblico,General,MultipropÃ³sito,MarÃ­timo,Nacional,Privado
+Santa Rosa,Santa Rosa,Embarcadero,Operativo,Consorcio TP Santa Rosa,,,PÃºblico,Pasajeros,Especializado,Fluvial,Regional,Privado
+COMANA S.A.C,Iquitos,Embarcadero,Operativo,COMPLEJO MADERERO NANAY SAC,,,Privado,Madera,Especializado,Fluvial,Regional,Privado
+Inahuaya,Inahuaya,Embarcadero,Operativo,MUNICIPALIDAD DISTRITAL DE INAHUAYA,,,PÃºblico,Pasajeros,InformaciÃ³n no disponible,Fluvial,Regional,PÃºblico
+RefinerÃ­a La Pampilla S.A.A. (Amarradero Multiboyas 1),Ventanilla,Multiboyas,Operativo,REFINERIA LA PAMPILLA S.A.,,,Privado,Granel lÃ­quido (Hidrocarburos),Especializado,MarÃ­timo,Nacional,Privado
+RefinerÃ­a La Pampilla S.A.A. (Amarradero Multiboyas 4),Ventanilla,Multiboyas,Operativo,REFINERIA LA PAMPILLA S.A.,,,Privado,Granel lÃ­quido (Hidrocarburos),Especializado,MarÃ­timo,Nacional,Privado
+RefinerÃ­a La Pampilla S.A.A. (Amarradero Multiboyas 2),Ventanilla,Multiboyas,Operativo,REFINERIA LA PAMPILLA S.A.,,,Privado,Granel lÃ­quido (Hidrocarburos),Especializado,MarÃ­timo,Nacional,Privado
+IMSA (Ex Rocha),Pucallpa,Embarcadero,Operativo (inicio adecuaciÃ³n),EMPRESA INDUSTRIAL MADERERA SERVICIOS ANDINA EIRL. (IMSA),,,PÃºblico,"Carga fraccionada, pasajeros y carga suelta (madera)",MultipropÃ³sito,Fluvial,Regional,Privado
+Carrillo,Pucallpa,Embarcadero,Operativo (inicio adecuaciÃ³n),CESAR SIMON PAREDES ESPINOZA,,,PÃºblico,Carga fraccionada y pasajeros,MultipropÃ³sito,Fluvial,Regional,Privado
+Chiu Hermanos S.R.L (USHICO),Pucallpa,Embarcadero,Operativo (inicio adecuaciÃ³n),EVI CHUMBE GUTIERREZ,,,PÃºblico,Carga fraccionada y pasajeros,MultipropÃ³sito,Fluvial,Regional,Privado
+A.N KERO E.I.R.L,Pucallpa,Embarcadero,Operativo (inicio adecuaciÃ³n),IVAN HERRERA ARTEAGA,,,PÃºblico,Carga fraccionada,MultipropÃ³sito,Fluvial,Regional,Privado
+Arias,Pucallpa,Embarcadero,Operativo (inicio adecuaciÃ³n),WILLIAM RUSELL ARIAS VICUÃA,,,PÃºblico,Carga fraccionada y pasajeros,MultipropÃ³sito,Fluvial,Regional,Privado
+JESSMARA,Punchana,Terminal portuario,Operativo (inicio adecuaciÃ³n),AGENCIA DE TRANSPORTE Y SERVICIOS GENERALES JESSMARA E.I.R.L,,,PÃºblico,"Fraccionada (Pasajeros,  Contenedores,  Rodante)",MultipropÃ³sito,Fluvial,Regional,Privado
+TRIMASA,Punchana,Terminal portuario,Operativo,TERMINAL PORTUARIO FLUVIAL HENRY E.I.R.L.,,,Privado,Fraccionada,Especializado,Fluvial,Regional,Privado
+LeÃ³n Eleuterio Valverde Loayza,Pucallpa,Embarcadero,Operativo (inicio adecuaciÃ³n),LEÃN ELEUTERIO VALVERDE LOAYZA,,,PÃºblico,Carga fraccionada y pasajeros,MultipropÃ³sito,Fluvial,Regional,Privado
+Representaciones Mishael E.I.R.L.,Pucallpa,Embarcadero,Operativo (inicio adecuaciÃ³n),ANTENOR ZAMORA CORDERO,,,PÃºblico,Carga fraccionada,MultipropÃ³sito,Fluvial,Regional,Privado
+Augusto Granda Daza,Pucallpa,Embarcadero,Operativo (inicio adecuaciÃ³n),AUGUSTO CÃSAR GRANDA DAZA,,,PÃºblico,"Carga fraccionada, pasajeros y carga suelta (madera)",MultipropÃ³sito,Fluvial,Regional,Privado
+NegociaciÃ³n Maderera Travi Satipo,Pucallpa,Embarcadero,Operativo (inicio adecuaciÃ³n),FERNANDO TRAVI FRECH,,,PÃºblico,"Carga fraccionada, pasajeros y carga suelta (madera)",MultipropÃ³sito,Fluvial,Regional,Privado
+Maderera MaraÃ±Ã³n,Pucallpa,Embarcadero,Operativo (inicio adecuaciÃ³n),MADERERA MARAÃON S.R.LTDA.,,,PÃºblico,Carga fraccionada (trozas de madera),Especializado,Fluvial,Regional,Privado
+El  Bambino,Pucallpa,Embarcadero,Operativo (inicio adecuaciÃ³n),MARTÃN QUISPE CURILLO,,,PÃºblico,Carga fraccionada (trozas de madera),Especializado,Fluvial,Regional,Privado
+Delfin Amazon Cruises,Nauta,Embarcadero,Operativo (inicio adecuaciÃ³n),DELFIN AMAZON CRUISES,,,Privado,Pasajeros,Especializado,Fluvial,Regional,Privado
+Global Romero,Nauta,Embarcadero,Operativo (inicio adecuaciÃ³n),TRANSPORTES ROMERO,,,PÃºblico,Carga fraccionada y pasajeros,MultipropÃ³sito,Fluvial,Regional,Privado
+Eduardo - Iquitos,Iquitos,Terminal Portuario,Operativo (inicio adecuaciÃ³n),TRANSPORTES EDUARDO S.A.C.,,,PÃºblico,"Carga fraccionada, contenedorizada y pasajeros",MultipropÃ³sito,Fluvial,Regional,Privado
+INPOLOR,Iquitos,Embarcadero,Operativo (inicio adecuaciÃ³n),INVERSIONES PORTUARIAS DE LORETO,,,PÃºblico,Carga fraccionada y contenedorizada,MultipropÃ³sito,Fluvial,Regional,Privado
+PetroperÃº,Iquitos,Embarcadero,Operativo (inicio adecuaciÃ³n),PETROLEOS DEL PERU S.A.,,,Privado,Pasajeros,Especializado,Fluvial,Regional,PÃºblico
+Mercado de Productores,Iquitos,Embarcadero,Operativo (inicio adecuaciÃ³n),MUNICIPALIDAD PROVINCIAL DE MAYNAS,,,PÃºblico,Carga fraccionada y pasajeros,MultipropÃ³sito,Fluvial,Regional,PÃºblico
+Trans Linares 2,Iquitos,Embarcadero,Operativo (inicio adecuaciÃ³n),JAIME LINATES ROJAS,,,Privado,Carga lÃ­quida a granel (Hidrocarburos) y carga fraccionada,MultipropÃ³sito,Fluvial,Regional,Privado
+Morochita 2,Iquitos,Embarcadero,Operativo (inicio adecuaciÃ³n),NAVIERA FLUVIAL MOROCHITA SRL,,,PÃºblico,Carga fraccionada,MultipropÃ³sito,Fluvial,Regional,Privado
+Jorge Delgado PeÃ±a (La Ramada),Yurimaguas,Embarcadero,Operativo (inicio adecuaciÃ³n),PAOLO DELGADO LOPEZ,,,PÃºblico,Carga fraccionada y granel sÃ³lido (no metÃ¡lico -piedra chancada),MultipropÃ³sito,Fluvial,Regional,Privado
+Inversiones NH EIRL,Yurimaguas,Embarcadero,Operativo (inicio adecuaciÃ³n),HERNANDEZ HERNANDEZ NERY EVELIO,,,Privado,Granel sÃ³lido (no metalico - piedra chancada),Especializado,Fluvial,Regional,Privado
+HP (Hector de Paz),Yurimaguas,Embarcadero,Operativo (inicio adecuaciÃ³n),DE PAZ CASTRO HECTOR ALEJANDRO,,,PÃºblico,Carga fraccionada y granel sÃ³lido (no metÃ¡lico -piedra chancada),MultipropÃ³sito,Fluvial,Regional,Privado
+MARBLU SAC (La Charapita),Yurimaguas,Embarcadero,Operativo (inicio adecuaciÃ³n),CARLOS MAGNO PILLACA,,,Privado,Pasajeros,Especializado,Fluvial,Regional,Privado
+Transportes Miguel,Nauta,Embarcadero,Operativo (en adecuaciÃ³n),MILLER APAGUEÃO,,,PÃºblico,Pasajeros,MultipropÃ³sito,Fluvial,Regional,Privado
+Nauta Port,Nauta,Embarcadero,Operativo (en adecuaciÃ³n),TRANSPORTES MIGUEL SRL,,,PÃºblico,Pasajeros,MultipropÃ³sito,Fluvial,Regional,Privado
+Valverde,Iquitos,Embarcadero,Operativo (en adecuaciÃ³n),LEON VALVERDE,,,PÃºblico,Carga fraccionada,MultipropÃ³sito,Fluvial,Regional,Privado
+Eduardo - Nauta,Nauta,Terminal portuario,Operativo (en adecuaciÃ³n),TRANSPORTES EDUARDO S.A.C.,,,Privado,Pasajeros,Especializado,Fluvial,Regional,Privado
+TP Eduardo - Yurimaguas,Yurimaguas,Terminal portuario,Operativo (en adecuaciÃ³n),TRANSPORTES EDUARDO S.A.C.,,,Privado,Pasajeros,Especializado,Fluvial,Regional,Privado

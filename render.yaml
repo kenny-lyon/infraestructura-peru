@@ -7,8 +7,10 @@ services:
     dockerfilePath: ./Dockerfile
     
     envVars:
+      - key: MONGODB_URI
+        value: mongodb+srv://admin_render:admin@infraestructura-peru.gl5oqfk.mongodb.net/?retryWrites=true&w=majority&appName=infraestructura-peru
       - key: MONGODB_DATABASE
-        value: infraestructura_peru
+        value: proyecto_infraestructura
       - key: ENVIRONMENT
         value: production
         

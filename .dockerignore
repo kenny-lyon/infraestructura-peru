@@ -1,0 +1,14 @@
+# Archivos a ignorar en el build de Docker
+.git
+.gitignore
+README.md
+*.md
+data/
+process/
+migrar_a_atlas.php
+vendor/
+node_modules/
+.env
+*.log
+temp/
+logs/

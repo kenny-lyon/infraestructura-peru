@@ -1,4 +1,27 @@
 <?php
+// Cargar autoloader de Composer
+require_once __DIR__ . '/vendor/autoload.php';
+
+// Intentar usar MongoDB si está configurado
+if (getenv('MONGODB_URI') && getenv('MONGODB_DATABASE')) {
+    try {
+        require_once 'conexion_mongodb_real.php';
+        $database = new DatabaseMongoDB();
+        // Si llegamos aquí, MongoDB está funcionando
+        class Database extends DatabaseMongoDB {}
+    } catch (Exception $e) {
+        error_log("MongoDB no disponible, usando CSV fallback: " . $e->getMessage());
+        // Fallback a CSV
+        require_once 'cargar_datos_csv.php';
+        // Continuar con la clase Database original más abajo
+    }
+} else {
+    // No hay configuración MongoDB, usar CSV
+    require_once 'cargar_datos_csv.php';
+}
+
+// Solo definir Database si no se definió como extensión de MongoDB
+if (!class_exists('Database')) {
 class Database {
     private $atlas_uri;
     private $database_name;
@@ -88,7 +111,19 @@ class Database {
     }
     
     private function getCollectionData($collection) {
-        // Datos de muestra para demostración
+        // Cargar datos reales desde CSV
+        switch ($collection) {
+            case 'puertos':
+                return procesarPuertos();
+            case 'aeropuertos':
+                return procesarAeropuertos();
+            case 'ferroviarias':
+                return procesarFerroviarias();
+            default:
+                return [];
+        }
+        
+        // Datos de muestra para demostración (código de respaldo)
         $sampleData = [
             'puertos' => [
                 [
@@ -205,4 +240,6 @@ class MongoCollection {
         return count($docs);
     }
 }
+
+} // Cierre de if (!class_exists('Database'))
 ?>

@@ -1,0 +1,6 @@
+{
+    "require": {
+        "google/apiclient": "2.13",
+        "mongodb/mongodb": "^1.19"
+    }
+}

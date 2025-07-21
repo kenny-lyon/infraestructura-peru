@@ -674,10 +674,10 @@
             <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center; margin-bottom: 15px;">
                 <div style="display: flex; align-items: center; gap: 5px;">
                     <label style="font-weight: bold; color: #666;">📍 Coordenadas:</label>
-                    <input type="number" id="latMin" placeholder="Lat Min" step="0.001" style="width: 80px; padding: 6px; border-radius: 4px; border: 1px solid #ddd;">
-                    <input type="number" id="latMax" placeholder="Lat Max" step="0.001" style="width: 80px; padding: 6px; border-radius: 4px; border: 1px solid #ddd;">
-                    <input type="number" id="lngMin" placeholder="Lng Min" step="0.001" style="width: 80px; padding: 6px; border-radius: 4px; border: 1px solid #ddd;">
-                    <input type="number" id="lngMax" placeholder="Lng Max" step="0.001" style="width: 80px; padding: 6px; border-radius: 4px; border: 1px solid #ddd;">
+                    <input type="number" id="latMin" placeholder="Lat Min" step="0.001" onchange="aplicarFiltrosAvanzados()" style="width: 80px; padding: 6px; border-radius: 4px; border: 1px solid #ddd;">
+                    <input type="number" id="latMax" placeholder="Lat Max" step="0.001" onchange="aplicarFiltrosAvanzados()" style="width: 80px; padding: 6px; border-radius: 4px; border: 1px solid #ddd;">
+                    <input type="number" id="lngMin" placeholder="Lng Min" step="0.001" onchange="aplicarFiltrosAvanzados()" style="width: 80px; padding: 6px; border-radius: 4px; border: 1px solid #ddd;">
+                    <input type="number" id="lngMax" placeholder="Lng Max" step="0.001" onchange="aplicarFiltrosAvanzados()" style="width: 80px; padding: 6px; border-radius: 4px; border: 1px solid #ddd;">
                     <button onclick="usarViewActual()" class="filter-btn" style="background: #28a745; color: white; padding: 6px 10px;">
                         <i class="fas fa-crosshairs"></i> Usar Vista
                     </button>
@@ -848,10 +848,11 @@
             <div style="display:flex;gap:10px;flex-wrap:wrap;align-items:center;">
                 <input type="text" id="busquedaInput" placeholder="Buscar por nombre o código..." style="padding:8px 12px;border-radius:5px;border:1px solid #ccc;">
                 <button onclick="buscarNombre()" class="filter-btn"><i class="fas fa-search"></i> Buscar</button>
-                <button onclick="consultaStat('por_departamento')" class="filter-btn">Por Departamento</button>
-                <button onclick="consultaStat('por_estado')" class="filter-btn">Por Estado</button>
-                <button onclick="consultaStat('por_titularidad')" class="filter-btn">Por Titularidad</button>
-                <button onclick="consultaStat('top_departamentos')" class="filter-btn">Top 5 Departamentos</button>
+                <button onclick="consultaStat('departamentos')" class="filter-btn">Por Departamento</button>
+                <button onclick="consultaStat('estados')" class="filter-btn">Por Estado</button>
+                <button onclick="consultaStat('administradores')" class="filter-btn">Por Titularidad</button>
+                <button onclick="consultaStat('tipos')" class="filter-btn">Por Tipo</button>
+                <button onclick="consultaStat('coordenadas')" class="filter-btn">Validar Coordenadas</button>
                 <button onclick="refrescarMapa()" class="filter-btn" style="background:#eee;color:#333;"><i class="fas fa-sync"></i> Refrescar</button>
             </div>
             
@@ -1017,8 +1018,16 @@
                 const res = await fetch(`api_puntos.php?${params}`);
                 const data = await res.json();
                 datosCompletos = data.map(item => {
-                    let nombre = item.NOMBRE_TERMINAL || item.NOMBRE || item.nombre || '';
-                    let departamento = item.LOCALIDAD || item.DEPARTAMENTO || item.departamento || '';
+                    let nombre = item.NOMBRE || item.nombre || '';
+                    let departamento = '';
+                    if (item.tipo === 'puerto') {
+                        departamento = (item.LOCALIDAD || '').trim();
+                    } else {
+                        departamento = (item.DEPARTAMENTO || '').trim();
+                    }
+                    
+                    // Normalizar algunos departamentos comunes con variaciones
+                    departamento = normalizarDepartamento(departamento);
                     let lat = parseFloat(item.LATITUD);
                     let lng = parseFloat(item.LONGITUD);
                     
@@ -1190,11 +1199,17 @@
         }
 
         // Función mejorada para dibujar tramo específico
-        async function dibujarTramoEspecifico(nombreFerrocarril, tramoEspecifico) {
+        async function dibujarTramoEspecifico(nombreFerrocarril, tramoEspecifico, codigoFerroviario = '') {
             try {
                 limpiarLineasFerroviarias();
                 
-                const response = await fetch(`api_tramos_ferroviarios.php?nombre=${encodeURIComponent(nombreFerrocarril)}&tramo=${encodeURIComponent(tramoEspecifico)}`);
+                // Construir URL con parámetros adicionales para mejor precisión
+                let url = `api_tramos_ferroviarios.php?nombre=${encodeURIComponent(nombreFerrocarril)}&tramo=${encodeURIComponent(tramoEspecifico)}`;
+                if (codigoFerroviario) {
+                    url += `&codigo=${encodeURIComponent(codigoFerroviario)}`;
+                }
+                
+                const response = await fetch(url);
                 const tramoData = await response.json();
                 
                 if (tramoData.error) {
@@ -1474,15 +1489,17 @@
                 const tramo = terminal.raw.TRAMO || '';
                 const subtramo = terminal.raw.SUBTRAMO || '';
                 const nombre = terminal.raw.NOMBRE || '';
+                const codigoFerroviario = terminal.raw.CODIGO_FERROVIARIO || '';
                 
                 html += `<div style="margin-top: 15px;">
-                    <button onclick="dibujarTramoEspecifico('${nombre}', '${tramo}')" 
+                    <button onclick="dibujarTramoEspecifico('${nombre}', '${tramo}', '${codigoFerroviario}')" 
                             style="background: #8B4513; color: white; border: none; padding: 8px 16px; border-radius: 4px; cursor: pointer; margin-bottom: 10px;">
                         🚂 Dibujar Tramo
                     </button>
                     <div style="font-size: 12px; color: #666; margin-top: 5px;">
                         <strong>Tramo:</strong> ${tramo}<br>
-                        <strong>Subtramo:</strong> ${subtramo}
+                        <strong>Subtramo:</strong> ${subtramo}<br>
+                        <strong>Código:</strong> ${codigoFerroviario}
                     </div>
                 </div>`;
             }
@@ -1722,7 +1739,10 @@
         
         // Función para poblar filtros
         function poblarFiltros() {
-            const departamentos = [...new Set(datosCompletos.map(d => d.departamento))].sort();
+            const departamentos = [...new Set(datosOriginales
+                .map(d => d.departamento)
+                .filter(dep => dep && dep.trim() !== '') // Eliminar vacíos
+            )].sort();
             const selectDep = document.getElementById('filtroDepartamento');
             
             departamentos.forEach(dep => {
@@ -1740,6 +1760,59 @@
         let historialBusquedas = JSON.parse(localStorage.getItem('historialBusquedas') || '[]');
         let areasMapaDibujadas = [];
         let modoAreaDrawing = false;
+        
+        // Función para normalizar nombres de departamentos
+        function normalizarDepartamento(dep) {
+            if (!dep || dep.trim() === '') return '';
+            
+            dep = dep.trim();
+            
+            // Mapeo de variaciones comunes
+            const mapeosDepartamentos = {
+                'LIMA': 'LIMA',
+                'LIMA METROPOLITANA': 'LIMA',
+                'LIMA PROVINCIA': 'LIMA',
+                'CALLAO': 'CALLAO',
+                'PROV. CONST. DEL CALLAO': 'CALLAO',
+                'PROVINCIA CONSTITUCIONAL DEL CALLAO': 'CALLAO',
+                'CUSCO': 'CUSCO',
+                'CUZCO': 'CUSCO',
+                'AREQUIPA': 'AREQUIPA',
+                'PIURA': 'PIURA',
+                'TRUJILLO': 'LA LIBERTAD',
+                'LA LIBERTAD': 'LA LIBERTAD',
+                'ICA': 'ICA',
+                'MOQUEGUA': 'MOQUEGUA',
+                'TACNA': 'TACNA',
+                'LAMBAYEQUE': 'LAMBAYEQUE',
+                'CHICLAYO': 'LAMBAYEQUE',
+                'TUMBES': 'TUMBES',
+                'ANCASH': 'ANCASH',
+                'HUARAZ': 'ANCASH',
+                'JUNIN': 'JUNÍN',
+                'JUNÍN': 'JUNÍN',
+                'HUANCAYO': 'JUNÍN',
+                'AYACUCHO': 'AYACUCHO',
+                'HUANCAVELICA': 'HUANCAVELICA',
+                'CAJAMARCA': 'CAJAMARCA',
+                'AMAZONAS': 'AMAZONAS',
+                'SAN MARTIN': 'SAN MARTÍN',
+                'SAN MARTÍN': 'SAN MARTÍN',
+                'LORETO': 'LORETO',
+                'UCAYALI': 'UCAYALI',
+                'MADRE DE DIOS': 'MADRE DE DIOS',
+                'HUANUCO': 'HUÁNUCO',
+                'HUÁNUCO': 'HUÁNUCO',
+                'PASCO': 'PASCO',
+                'APURIMAC': 'APURÍMAC',
+                'APURÍMAC': 'APURÍMAC',
+                'PUNO': 'PUNO'
+            };
+            
+            // Buscar mapeo exacto (case insensitive)
+            const depUpper = dep.toUpperCase();
+            return mapeosDepartamentos[depUpper] || dep;
+        }
         
         // Autocomplete para nombres
         function mostrarSugerenciasNombre(valor) {
@@ -1860,7 +1933,15 @@
         }
         
         function poblarMultiSelectDepartamentos() {
-            const departamentos = [...new Set(datosOriginales.map(d => d.departamento))].sort();
+            // Los departamentos ya están normalizados al cargar los datos
+            const departamentos = [...new Set(datosOriginales
+                .map(d => d.departamento)
+                .filter(dep => dep && dep.trim() !== '') // Eliminar vacíos
+            )].sort();
+            
+            // Debug opcional: descomentar para ver departamentos
+            // console.log('Departamentos únicos:', departamentos);
+            
             const contenedor = document.getElementById('multiSelectDepartamentos');
             
             let html = '<div style="margin-bottom: 10px;"><strong>Seleccionar Departamentos:</strong></div>';
@@ -1910,23 +1991,23 @@
                     cumple = false;
                 }
                 
-                // Filtro por departamento simple
-                if (departamento && item.departamento !== departamento) {
+                // Filtro por departamento simple (solo si no hay múltiples seleccionados)
+                if (departamento && departamentosSeleccionados.length === 0 && item.departamento !== departamento) {
                     cumple = false;
                 }
                 
-                // Filtro por múltiples departamentos
+                // Filtro por múltiples departamentos (tiene prioridad sobre el simple)
                 if (departamentosSeleccionados.length > 0 && !departamentosSeleccionados.includes(item.departamento)) {
                     cumple = false;
                 }
                 
                 // Filtro por estado
-                if (estado && item.raw.ESTADO !== estado) {
+                if (estado && (!item.raw || item.raw.ESTADO !== estado)) {
                     cumple = false;
                 }
                 
                 // Filtro por titularidad
-                if (titularidad && !item.raw.TITULARIDAD?.includes(titularidad)) {
+                if (titularidad && (!item.raw || !item.raw.TITULARIDAD || !item.raw.TITULARIDAD.includes(titularidad))) {
                     cumple = false;
                 }
                 
@@ -2248,9 +2329,14 @@
             const puertos = datosCompletos.filter(d => d.tipo === 'puerto').length;
             const aeropuertos = datosCompletos.filter(d => d.tipo === 'aeropuerto').length;
             const ferroviarias = datosCompletos.filter(d => d.tipo === 'ferroviaria').length;
-            const departamentos = new Set(datosCompletos.map(d => d.departamento)).size;
-            const operativos = datosCompletos.filter(d => d.raw.ESTADO === 'Operativo').length;
-            const inoperativos = datosCompletos.filter(d => d.raw.ESTADO === 'Inoperativo').length;
+            
+            // Depuración: mostrar departamentos únicos
+            const departamentosUnicos = new Set(datosCompletos.map(d => d.departamento).filter(d => d && d.trim() !== ''));
+            const departamentos = departamentosUnicos.size;
+            
+            // Contar estados solo si existen
+            const operativos = datosCompletos.filter(d => d.raw && d.raw.ESTADO === 'Operativo').length;
+            const inoperativos = datosCompletos.filter(d => d.raw && (d.raw.ESTADO === 'Inoperativo' || d.raw.ESTADO === 'Clausurado')).length;
             
             document.getElementById('statPuertos').textContent = puertos;
             document.getElementById('statAeropuertos').textContent = aeropuertos;
@@ -2418,7 +2504,11 @@
                     html += '</tr>';
                     data.forEach(row => {
                         html += '<tr>';
-                        html += `<td class="icon-cell">${row.tipo === 'puerto' ? '⛴️' : '✈️'}</td>`;
+                        let icono = '⚪';
+                        if (row.tipo === 'puerto') icono = '⛴️';
+                        else if (row.tipo === 'aeropuerto') icono = '✈️';
+                        else if (row.tipo === 'ferroviaria') icono = '🚂';
+                        html += `<td class="icon-cell">${icono}</td>`;
                         for (let key in data[0]) html += `<td>${row[key]}</td>`;
                         html += '</tr>';
                     });
@@ -2427,8 +2517,16 @@
                     document.getElementById('resultadoConsulta').scrollIntoView({behavior:'smooth'});
                     // Mostrar solo estos puntos en el mapa
                     datosCompletos = data.map(item => {
-                        let nombre = item.NOMBRE_TERMINAL || item.NOMBRE || item.nombre || '';
-                        let departamento = item.LOCALIDAD || item.DEPARTAMENTO || item.departamento || '';
+                        let nombre = item.NOMBRE || item.nombre || '';
+                        let departamento = '';
+                        if (item.tipo === 'puerto') {
+                            departamento = (item.LOCALIDAD || '').trim();
+                        } else {
+                            departamento = (item.DEPARTAMENTO || '').trim();
+                        }
+                        
+                        // Normalizar algunos departamentos comunes con variaciones
+                        departamento = normalizarDepartamento(departamento);
                         let lat = parseFloat(item.LATITUD);
                         let lng = parseFloat(item.LONGITUD);
                         return {
@@ -2451,55 +2549,67 @@
                 });
         }
         function consultaStat(tipo) {
-            document.getElementById('resultadoConsulta').innerHTML = '<div class="loading"><div class="spinner"></div>Consultando...</div>';
+            document.getElementById('resultadoConsulta').innerHTML = '<div class="loading"><div class="spinner"></div>Consultando estadísticas...</div>';
             fetch(`api_consultas.php?stat=${tipo}`)
                 .then(r => r.json())
                 .then(data => {
                     if (!data.length) {
                         document.getElementById('resultadoConsulta').innerHTML = '<div class="error">No hay datos para mostrar.</div>';
-                        datosCompletos = [];
-                        cargarMarcadores();
-                        actualizarEstadisticas();
                         return;
                     }
-                    let html = '<div style="overflow-x:auto;"><table><tr>';
-                    html += '<th></th>';
-                    for (let key in data[0]) html += `<th>${key}</th>`;
-                    html += '</tr>';
-                    data.forEach(row => {
-                        html += '<tr>';
-                        html += `<td class="icon-cell">${row.tipo === 'puerto' ? '⛴️' : (row.tipo === 'aeropuerto' ? '✈️' : '')}</td>`;
-                        for (let key in data[0]) html += `<td>${row[key]}</td>`;
+                    
+                    // Crear tabla de estadísticas mejorada
+                    let html = `<div style="overflow-x:auto; max-height: 400px;">
+                        <h4>📊 Estadísticas: ${tipo.charAt(0).toUpperCase() + tipo.slice(1)}</h4>
+                        <table style="width: 100%; border-collapse: collapse;">
+                            <thead>
+                                <tr style="background: #f8f9fa; position: sticky; top: 0;">`;
+                    
+                    // Headers de la tabla
+                    for (let key in data[0]) {
+                        const headerName = key.charAt(0).toUpperCase() + key.slice(1);
+                        html += `<th style="padding: 12px; text-align: left; border-bottom: 2px solid #dee2e6;">${headerName}</th>`;
+                    }
+                    html += `<th style="padding: 12px; text-align: left; border-bottom: 2px solid #dee2e6;">Porcentaje</th></tr>
+                            </thead>
+                            <tbody>`;
+                    
+                    // Calcular total para porcentajes
+                    const total = data.reduce((sum, row) => sum + (row.total || 0), 0);
+                    
+                    // Ordenar datos por total (descendente)
+                    data.sort((a, b) => (b.total || 0) - (a.total || 0));
+                    
+                    // Filas de datos
+                    data.forEach((row, index) => {
+                        const porcentaje = total > 0 ? ((row.total / total) * 100).toFixed(1) : '0.0';
+                        html += `<tr style="border-bottom: 1px solid #dee2e6; ${index % 2 === 0 ? 'background: #f8f9fa;' : ''}">`;
+                        
+                        for (let key in row) {
+                            const value = row[key];
+                            const cellStyle = key === 'total' ? 'font-weight: bold; color: #0066cc;' : '';
+                            html += `<td style="padding: 10px; ${cellStyle}">${value}</td>`;
+                        }
+                        
+                        html += `<td style="padding: 10px; font-weight: bold; color: #28a745;">${porcentaje}%</td>`;
                         html += '</tr>';
                     });
-                    html += '</table></div>';
+                    
+                    html += `</tbody></table>
+                        <div style="margin-top: 15px; padding: 10px; background: #e7f3ff; border-radius: 5px;">
+                            <strong>📈 Total de registros:</strong> ${total}
+                        </div>
+                    </div>`;
+                    
                     document.getElementById('resultadoConsulta').innerHTML = html;
                     document.getElementById('resultadoConsulta').scrollIntoView({behavior:'smooth'});
-                    // Si la consulta tiene campo lat/lng, mostrar en el mapa
-                    if ('LATITUD' in data[0] && 'LONGITUD' in data[0]) {
-                        datosCompletos = data.map(item => {
-                            let nombre = item.NOMBRE_TERMINAL || item.NOMBRE || item.nombre || '';
-                            let departamento = item.LOCALIDAD || item.DEPARTAMENTO || item.departamento || '';
-                            let lat = parseFloat(item.LATITUD);
-                            let lng = parseFloat(item.LONGITUD);
-                            return {
-                                tipo: item.tipo,
-                                nombre,
-                                departamento,
-                                lat,
-                                lng,
-                                raw: item
-                            };
-                        });
-                        cargarMarcadores();
-                        actualizarEstadisticas();
-                    }
+                    
+                    // Agregar al historial
+                    agregarAlHistorial(`Estadísticas: ${tipo}`, `${data.length} categorías encontradas`);
                 })
-                .catch(() => {
-                    document.getElementById('resultadoConsulta').innerHTML = '<div class="error">Error en la consulta.</div>';
-                    datosCompletos = [];
-                    cargarMarcadores();
-                    actualizarEstadisticas();
+                .catch(err => {
+                    console.error('Error en consultaStat:', err);
+                    document.getElementById('resultadoConsulta').innerHTML = '<div class="error">Error en la consulta estadística.</div>';
                 });
         }
         function refrescarMapa() {
@@ -2650,15 +2760,31 @@
                     if (data.success) {
                         let html = '<div style="background: #d4edda; padding: 15px; border-radius: 8px;">';
                         html += '<h4>💾 Backup Generado Exitosamente</h4>';
-                        html += '<p><strong>ID del Backup:</strong> ' + data.backup_id + '</p>';
+                        html += '<p><strong>ID del Backup:</strong> <code>' + data.backup_id + '</code></p>';
                         html += '<p><strong>Timestamp:</strong> ' + data.timestamp + '</p>';
-                        html += '<p><strong>Datos respaldados:</strong></p>';
-                        html += '<ul>';
+                        
+                        html += '<div style="background: #e7f3ff; padding: 10px; border-radius: 5px; margin: 15px 0;">';
+                        html += '<h5>📊 Estadísticas del Backup</h5>';
+                        if (data.estadisticas) {
+                            html += '<p><strong>Total de registros:</strong> ' + data.estadisticas.total_registros + '</p>';
+                            html += '<p><strong>Tamaño estimado:</strong> ' + data.estadisticas.tamaño_estimado + '</p>';
+                            html += '<p><strong>Tiempo estimado:</strong> ' + data.estadisticas.tiempo_estimado + '</p>';
+                            html += '<p><strong>Compresión:</strong> ' + data.estadisticas.compresion + '</p>';
+                        }
+                        html += '</div>';
+                        
+                        html += '<div style="background: #fff3cd; padding: 10px; border-radius: 5px; margin: 15px 0;">';
+                        html += '<h5>📦 Datos Respaldados</h5>';
+                        html += '<ul style="margin: 0; padding-left: 20px;">';
                         data.datos_respaldados.forEach(dato => {
                             html += '<li>✅ ' + dato + '</li>';
                         });
                         html += '</ul>';
-                        html += '<p><strong>Nota:</strong> El backup se guardó en la colección "backups" de MongoDB</p>';
+                        html += '</div>';
+                        
+                        html += '<p style="color: #666; font-style: italic; margin-top: 15px;">';
+                        html += '<strong>Nota:</strong> El backup se guardó en formato JSON comprimido con metadatos completos';
+                        html += '</p>';
                         html += '</div>';
                         
                         document.getElementById('resultadoAvanzado').innerHTML = html;
@@ -2678,21 +2804,21 @@
                 .then(response => response.json())
                 .then(data => {
                     if (data.success) {
-                        const perf = data.performance;
+                        const perf = data.data;
                         let html = '<div style="background: #f8f9fa; padding: 15px; border-radius: 8px;">';
                         html += '<h4>⚡ Estadísticas de Rendimiento</h4>';
                         html += '<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin: 15px 0;">';
                         
                         html += '<div style="background: #e7f3ff; padding: 10px; border-radius: 5px;">';
                         html += '<h5>⏱️ Tiempo de Ejecución</h5>';
-                        html += '<p><strong>' + perf.tiempo_ejecucion_ms + ' ms</strong></p>';
-                        html += '<p>Estado: ' + (perf.tiempo_ejecucion_ms < 100 ? '✅ Excelente' : (perf.tiempo_ejecucion_ms < 500 ? '⚠️ Bueno' : '❌ Lento')) + '</p>';
+                        html += '<p><strong>' + perf.tiempo_carga_ms + ' ms</strong></p>';
+                        html += '<p>Estado: ' + (perf.tiempo_carga_ms < 100 ? '✅ Excelente' : (perf.tiempo_carga_ms < 500 ? '⚠️ Bueno' : '❌ Lento')) + '</p>';
                         html += '</div>';
                         
                         html += '<div style="background: #fff3cd; padding: 10px; border-radius: 5px;">';
                         html += '<h5>🧠 Memoria Utilizada</h5>';
-                        html += '<p><strong>' + perf.memoria_usada_mb + ' MB</strong></p>';
-                        html += '<p>Estado: ' + (perf.memoria_usada_mb < 10 ? '✅ Eficiente' : (perf.memoria_usada_mb < 50 ? '⚠️ Moderado' : '❌ Alto')) + '</p>';
+                        html += '<p><strong>' + perf.memoria_usada + '</strong></p>';
+                        html += '<p>Estado: ' + (parseFloat(perf.memoria_usada) < 10 ? '✅ Eficiente' : (parseFloat(perf.memoria_usada) < 50 ? '⚠️ Moderado' : '❌ Alto')) + '</p>';
                         html += '</div>';
                         
                         html += '<div style="background: #d4edda; padding: 10px; border-radius: 5px;">';
@@ -2764,16 +2890,16 @@
                         html += '<h4>📄 Logs del Sistema</h4>';
                         html += '<p><strong>Últimos 20 registros</strong></p>';
                         
-                        if (data.logs.length > 0) {
-                            html += '<table style="width: 100%; border-collapse: collapse; margin: 10px 0;">';
-                            html += '<tr><th>Timestamp</th><th>Tipo</th><th>Usuario</th><th>Detalles</th></tr>';
+                        if (data.data && data.data.length > 0) {
+                            html += '<table style="width: 100%; border-collapse: collapse; margin: 10px 0; border: 1px solid #dee2e6;">';
+                            html += '<tr style="background: #f8f9fa;"><th style="padding: 8px; border: 1px solid #dee2e6;">Timestamp</th><th style="padding: 8px; border: 1px solid #dee2e6;">Nivel</th><th style="padding: 8px; border: 1px solid #dee2e6;">Usuario</th><th style="padding: 8px; border: 1px solid #dee2e6;">Mensaje</th></tr>';
                             
-                            data.logs.forEach(log => {
+                            data.data.forEach(log => {
                                 html += '<tr>';
-                                html += '<td>' + log.timestamp_formatted + '</td>';
-                                html += '<td>' + log.tipo + '</td>';
-                                html += '<td>' + log.usuario + '</td>';
-                                html += '<td>' + (log.resultado ? JSON.stringify(log.resultado) : 'N/A') + '</td>';
+                                html += '<td style="padding: 8px; border: 1px solid #dee2e6;">' + log.timestamp + '</td>';
+                                html += '<td style="padding: 8px; border: 1px solid #dee2e6; color: ' + (log.nivel === 'INFO' ? '#28a745' : log.nivel === 'WARNING' ? '#ffc107' : '#dc3545') + '; font-weight: bold;">' + log.nivel + '</td>';
+                                html += '<td style="padding: 8px; border: 1px solid #dee2e6;">' + log.usuario + '</td>';
+                                html += '<td style="padding: 8px; border: 1px solid #dee2e6;">' + (log.mensaje || 'N/A') + '</td>';
                                 html += '</tr>';
                             });
                             

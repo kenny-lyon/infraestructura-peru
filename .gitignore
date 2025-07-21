@@ -1,11 +1,29 @@
-node_modules/
-vendor/
+# Archivos sensibles
 .env
+
+# Dependencias
+vendor/
+node_modules/
+
+# Logs
 logs/
-temp/
 *.log
+
+# Archivos temporales
+temp/
+tmp/
+
+# Sistema operativo
 .DS_Store
 Thumbs.db
-*.swp
-*.swo
-*~
+
+# IDE
+.vscode/
+.idea/
+
+# Archivos de backup
+*.bak
+*.backup
+
+# Cache
+cache/

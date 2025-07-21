@@ -1,0 +1,444 @@
+NOMBRE,TIPO_AERODROMO,CODIGO_OACI,ESTADO,ADMINISTRADOR,LATITUD,LONGITUD,ESCALA,JERARQUIA,TITULARIDAD,DEPARTAMENTO,PROVINCIA,DISTRITO
+ANDAHUAYLAS,Aeropuerto,SPHY,Operativo,CORPAC S.A.,-13.708819,-73.351556,Nacional,Nacional,Pública (Concesionada-No entregada),APURÍMAC,ANDAHUAYLAS,ANDAHUAYLAS
+ANDOAS,Aeródromo,SPAS,Operativo,PACIFIC STRATUS ENERGY DEL PERÚ S.A.,-2.796108,-76.466597,Sin escala definida,Sin jerarquía definida,Privada,LORETO,DATEM DEL MARAÑÓN,ANDOAS
+ANDOAS,Helipuerto,SPAN,Operativo,PACIFIC STRATUS ENERGY DEL PERÚ S.A.,-2.796111,-76.466625,Sin escala definida,Sin jerarquía definida,Privada,LORETO,DATEM DEL MARAÑÓN,ANDOAS
+AREQUIPA - INTERNACIONAL ALFREDO RODRÍGUEZ BALLON,Aeropuerto Internacional,SPQU,Operativo,AEROPUERTOS ANDINOS DEL PERÚ S.A.,-16.340611,-71.570792,Internacional,Nacional,Pública (Concesionada),AREQUIPA,AREQUIPA,CAYMA
+ATALAYA,Aeródromo,SPAY,Operativo,CORPAC S.A.,-10.728572,-73.765886,Regional,Regional,Pública,UCAYALI,ATALAYA,RAYMONDI
+AYACUCHO - CRNL. FAP ALFREDO MENDIVIL,Aeropuerto,SPHO,Operativo,AEROPUERTOS ANDINOS DEL PERÚ S.A.,-13.15483611,-74.20441667,Nacional,Nacional,Pública (Concesionada),AYACUCHO,HUAMANGA,ANDRÉS AVELINO CÁCERES
+BELLAVISTA,Aeródromo,SPBS,Operativo,COMUNIDAD DE BELLAVISTA,-5.283333,-76.383333,Local,Sin jerarquía definida,Pública,LORETO,ALTO AMAZONAS,JEBEROS
+BRETAÑA 1,Helipuerto,,Operativo,PETROTAL PERÚ S.R.L.,-5.245689718,-74.32895779,Local,Sin jerarquía definida,Privada,LORETO,REQUENA,PIUINAHUA
+BREU,Aeródromo,SPBK,Operativo,CORPAC S.A.,-9.533792,-72.757153,Local,Local,Pública,UCAYALI,ATALAYA,YURUA
+BUNCUYO,Aeródromo,SPBJ,Operativo,COMUNIDAD DE BUNCUYO,-6.516667,-74.583333,Local,Sin jerarquía definida,Pública,LORETO,REQUENA,TAPICHE
+CABALLOCOCHA,Aeródromo,SPBC,Operativo,CORPAC S.A.,-3.916833,-70.508181,Regional,Regional,Pública,LORETO,RAMÓN CASTILLA,RAMÓN CASTILLA
+CAJAMARCA - MAY.GRAL.FAP ARMANDO REVOREDO IGLESIAS,Aeropuerto,SPJR,Operativo,AEROPUERTOS DEL PERÚ S.A.,-7.139144,-78.489581,Nacional,Nacional,Pública (Concesionada),CAJAMARCA,CAJAMARCA,BAÑOS DEL INCA
+CASHIRIARI 3,Helipuerto,SPCS,Operativo,PLUSPETROL PERÚ CORPORATION S.A.,-11.88030278,-72.64921111,Sin escala definida,Sin jerarquía definida,Privada,CUSCO,LA CONVENCIÓN,ECHARATE
+CHACHAPOYAS,Aeropuerto,SPPY,Operativo,AEROPUERTOS DEL PERÚ S.A.,-6.202042,-77.856,Nacional,Nacional,Pública (Concesionada),AMAZONAS,CHACHAPOYAS,CHACHAPOYAS
+CHAGUAL,Aeródromo,SPGL,Operativo,CIA. MINERA PODEROSA S.A.,-7.797417,-77.651431,Sin escala definida,Sin jerarquía definida,Privada,LA LIBERTAD,PATAZ,PATAZ
+AERO LINK CHALA,Aeródromo,SPAK,Operativo,AERO LINK S.A.C.,-15.80724722,-74.28691944,Sin escala definida,Sin jerarquía definida,Privada,AREQUIPA,CARAVELI,CHALA
+CHAO,Aeródromo,,Operativo,CAMPOSOL S.A.,-8.581667,-78.681111,Sin escala definida,Sin jerarquía definida,Privada,LA LIBERTAD,VIRU,CHAO
+CHICLAYO - INTERNACIONAL CAP. FAP JOSÉ ABELARDO QUIÑONES GONZALES,Aeropuerto Internacional,SPHI,Operativo,AEROPUERTOS DEL PERÚ S.A.,-6.787478,-79.8281,Internacional,Nacional,Pública (Concesionada),LAMBAYEQUE,CHICLAYO,CHICLAYO
+CHIMBOTE - TNTE.FAP JAIME A. DE MONTREUIL MORALES,Aeropuerto,SPEO,Operativo,CORPAC S.A.,-9.149711,-78.523564,Regional,Nacional,Pública,ÁNCASH,SANTA,NUEVO CHIMBOTE
+CIRO ALEGRÍA,Aeródromo,SPAC,Operativo,CORPAC S.A.,-4.607144,-77.940633,Regional,Regional,Pública,AMAZONAS,CONDORCANQUI,NIEVA
+CIUDAD CONSTITUCIÓN,Aeródromo,SPCC,Operativo,MUNICIPALIDAD DISTRITAL DE PUERTO BERMUDEZ,-9.863958,-75.006736,Local,Local,Pública,PASCO,OXAPAMPA,PUERTO BERMÚDEZ
+COLONIA ANGAMOS,Aeródromo,SPDN,Operativo,MUNICIPALIDAD DISTRITAL DE YAQUERANA,-5.137125,-72.867889,Local,Local,Pública,LORETO,REQUENA,YAQUERANA
+CONTAMANA,Aeródromo,SPCM,Operativo,GOBIERNO REGIONAL DE LORETO,-7.335806,-74.992556,Local,Local,Pública,LORETO,UCAYALI,CONTAMANA
+CULINA,Aeródromo,SPUI,Operativo,COMUNIDAD DE CULINA,-9.584486,-70.617764,Sin escala definida,Sin jerarquía definida,Privada,UCAYALI,PURÚS,PURÚS
+CUSCO - INTERNACIONAL TNTE. FAP ALEJANDRO VELASCO ASTETE,Aeropuerto Internacional,SPZO,Operativo,CORPAC S.A.,-13.535722,-71.938778,Internacional,Nacional,Pública,CUSCO,CUSCO,SAN SEBASTIÁN
+CUTIVIRENI,Aeródromo,SPCV,Operativo,COMUNIDAD NATIVA DE CUTIVIRENI,-11.877167,-73.916958,Local,Sin jerarquía definida,Pública,JUNÍN,SATIPO,RÍO TAMBO
+EL ESTRECHO,Aeródromo,SPEE,Operativo,CORPAC S.A.,-2.453886403,-72.67083132,Regional,Regional,Pública,LORETO,PUTUMAYO,PUTUMAYO
+EL VALOR - ESTACIÓN 7,Helipuerto,SPEV,Operativo,PETRÓLEOS DEL PERÚ - PETROPERU S.A.,-5.670944,-78.640278,Sin escala definida,Sin jerarquía definida,Privada,AMAZONAS,UTCUBAMBA,EL MILAGRO
+FERNANDO ROSAS - ESTACIÓN MORONA,Helipuerto,SPMO,Operativo,PETRÓLEOS DEL PERÚ - PETROPERU S.A.,-3.983189,-77.227806,Sin escala definida,Sin jerarquía definida,Privada,LORETO,DATEM DEL MARAÑÓN,MORONA
+GÜEPPI,Aeródromo,SPGP,Operativo,CORPAC S.A.,-0.119306,-75.247847,Regional,Regional,Pública,LORETO,PUTUMAYO,TENIENTE MANUEL CLAVERO
+GALILEA,Aeródromo,SPGB,Operativo,CORPAC S.A.,-4.031715731,-77.75876639,Regional,Regional,Pública,AMAZONAS,CONDORCANQUI,RÍO SANTIAGO
+HELINKA,Helipuerto,SPIK,Operativo,HELINKA S.A.C.,-6.515416667,-76.37497222,Sin escala definida,Sin jerarquía definida,Privada,SAN MARTÍN,SAN MARTÍN,TARAPOTO
+HOTEL LOS DELFINES,Helipuerto,SPKD,Operativo,CIA. HOTELERA LOS DELFINES S.A.,-12.097833,-77.047833,Sin escala definida,Sin jerarquía definida,Privada,LIMA,LIMA,SAN ISIDRO
+HOTEL ORO VERDE,Helipuerto,SPKO,Operativo,HOTELERA COSTA DEL PACIFICO S.A.,-12.0975,-77.038056,Sin escala definida,Sin jerarquía definida,Privada,LIMA,LIMA,SAN ISIDRO
+HUAMACHUCO,Aeródromo,SPUC,Operativo,MUNICIPALIDAD PROVINCIAL DE SÁNCHEZ CARRIÓN,-7.818022,-78.029206,Local,Local,Pública,LA LIBERTAD,SÁNCHEZ CARRIÓN,HUAMACHUCO
+HUANCABAMBA,Aeródromo,,Operativo,MUNICIPALIDAD PROVINCIAL DE HUANCABAMBA,-5.256608333,-79.44335556,Regional,Local,Pública,PIURA,HUANCABAMBA,HUANCABAMBA
+HUÁNUCO - ALF. FAP DAVID FIGUEROA FERNANDINI,Aeropuerto,SPNC,Operativo,CORPAC S.A.,-9.878681,-76.204569,Nacional,Nacional,Pública,HUÁNUCO,HUÁNUCO,HUÁNUCO
+HUASCARÁN (ANTA - HUARAZ),Aeropuerto,SPHZ,Operativo,AEROPUERTOS DEL PERÚ S.A.,-9.347333,-77.598308,Nacional,Nacional,Pública (Concesionada),ÁNCASH,CARHUAZ,ANTA
+IÑAPARI,Aeródromo,SPIN,Operativo,CORPAC S.A.,-10.980183,-69.559217,Regional,Regional,Pública,MADRE DE DIOS,TAHUAMANU,IÑAPARI
+ILO,Aeropuerto,SPLO,Operativo,CORPAC S.A.,-17.695028,-71.343931,Regional,Nacional,Pública,MOQUEGUA,ILO,ILO
+INTERBANK,Helipuerto,SPKE,Operativo,PROMOTORA INTERCORP S.A.,-12.089472,-77.022778,Sin escala definida,Sin jerarquía definida,Privada,LIMA,LIMA,LA VICTORIA
+IQUITOS - INTERNACIONAL CRNL. FAP FRANCISCO SECADA VIGNETTA,Aeropuerto Internacional,SPQT,Operativo,AEROPUERTOS DEL PERÚ S.A.,-3.784739,-73.308806,Internacional,Nacional,Pública (Concesionada),LORETO,MAYNAS,SAN JUAN BAUTISTA
+JAÉN,Aeropuerto,SPJE,Operativo,CORPAC S.A.,-5.592611,-78.774264,Nacional,Nacional,Pública,CAJAMARCA,JAÉN,BELLAVISTA
+JAUJA,Aeropuerto,SPJJ,Operativo,CORPAC S.A.,-11.783389,-75.473347,Nacional,Nacional,Pública,JUNÍN,JAUJA,SAUSA
+JIBARO MARSHALLING,Helipuerto,SPJM,Operativo,PACIFIC STRATUS ENERGY DEL PERÚ S.A.,-2.706139,-76.028556,Sin escala definida,Sin jerarquía definida,Privada,LORETO,LORETO,TROMPETEROS
+INTERNACIONAL JORGE CHÁVEZ,Aeropuerto Internacional,SPJC,Operativo,LIMA AIRPORT PARTNERS S.R.L.,-12.021886,-77.114317,Internacional,Nacional,Pública (Concesionada),LIMA,CALLAO,CALLAO
+JUANJUI,Aeropuerto,SPJI,Operativo,CORPAC S.A.,-7.168875,-76.728581,Regional,Regional,Pública,SAN MARTÍN,MARISCAL CÁCERES,JUANJUI
+JULIACA - INTERNACIONAL INCA MANCO CAPAC,Aeropuerto Internacional,SPJL,Operativo,AEROPUERTOS ANDINOS DEL PERÚ S.A.,-15.466856,-70.157883,Internacional,Nacional,Pública (Concesionada),PUNO,SAN ROMÁN,JULIACA
+KINTERONI,Helipuerto,SPKR,Operativo,REPSOL EXPLORACIÓN PERÚ S.A. SUCURSAL DEL PERÚ,-11.509667,-73.2515,Sin escala definida,Sin jerarquía definida,Privada,CUSCO,LA CONVENCIÓN,ECHARATE
+KITENI,Aeródromo,SPKI,Operativo,CÍA. OPERADORA DE GAS DEL AMAZONAS S.A.C.,-12.648633,-73.036597,Sin escala definida,Sin jerarquía definida,Privada,CUSCO,LA CONVENCIÓN,ECHARATE
+LA PERUANITA N° 1,Helipuerto,SPPU,Operativo,CNPC PERU S.A.,-11.69013889,-73.02194444,Sin escala definida,Sin jerarquía definida,Privada,CUSCO,LA CONVENCIÓN,ECHARATE
+LA PERUANITA N° 2,Helipuerto,SPPV,Operativo,CNPC PERU S.A.,-11.689972,-73.021167,Sin escala definida,Sin jerarquía definida,Privada,CUSCO,LA CONVENCIÓN,ECHARATE
+LA PERUANITA N° 3,Helipuerto,SPPW,Operativo,CNPC PERU S.A.,-11.69108333,-73.02347222,Sin escala definida,Sin jerarquía definida,Privada,CUSCO,LA CONVENCIÓN,ECHARATE
+LA VISTA - ESTACIÓN 5,Helipuerto,SPVS,Operativo,PETRÓLEOS DEL PERÚ - PETROPERU S.A.,-4.654417,-77.506361,Sin escala definida,Sin jerarquía definida,Privada,LORETO,DATEM DEL MARAÑÓN,MANSERICHE
+LAS BAMBAS,Helipuerto,SPLB,Operativo,MINERA LAS BAMBAS S.A.,-14.10288333,-72.27625,Sin escala definida,Sin jerarquía definida,Privada,APURÍMAC,COTABAMBA,CHALLHUAHUACHO
+LAS DUNAS,Aeródromo,SPLH,Operativo,EMPRESA ADMINISTRADORA DEL AERÓDROMO LAS DUNAS DE ICA S.A.C.,-14.03518056,-75.76028333,Sin escala definida,Sin jerarquía definida,Privada,ICA,ICA,SUBTANJALLA
+LAS MALVINAS,Aeródromo,SPWT,Operativo,PLUSPETROL PERÚ CORPORATION S.A.,-11.85494444,-72.93934167,Sin escala definida,Sin jerarquía definida,Privada,CUSCO,LA CONVENCIÓN,ECHARATE
+LAS MALVINAS,Helipuerto,SPHM,Operativo,PLUSPETROL PERÚ CORPORATION S.A.,-11.85341944,-72.94184167,Sin escala definida,Sin jerarquía definida,Privada,CUSCO,LA CONVENCIÓN,ECHARATE
+LAS PALMAS,Aeródromo,SPLP,Operativo,BASE AÉREA LAS PALMAS,-12.160125,-76.998778,Sin escala definida,Sin jerarquía definida,Pública,LIMA,LIMA,SANTIAGO DE SURCO
+LIB MANDI METROPOLITANO,Aeródromo,SPLX,Operativo,MASTER BUSINESS AVIATION S.A.C.,-12.389,-76.75809444,Sin escala definida,Sin jerarquía definida,Privada,LIMA,CAÑETE,CHILCA
+MAPI,Helipuerto,SPMP,Operativo,REPSOL EXPLORACIÓN PERÚ S.A. SUCURSAL DEL PERÚ,-11.432144,-73.573103,Sin escala definida,Sin jerarquía definida,Privada,JUNÍN,SATIPO,RÍO TAMBO
+MARIA REICHE,Helipuerto,SPMA,Operativo,EMPRESA ADMINISTRADORA DEL AERODROMO LAS DUNAS DE ICA S.A.C.,-14.681833,-75.134194,Sin escala definida,Sin jerarquía definida,Privada,ICA,NASCA,EL INGENIO
+MASHIRA,Helipuerto,SPMH,Operativo,REPSOL EXPLORACIÓN PERÚ S.A. SUCURSAL DEL PERÚ,-11.381528,-73.504972,Sin escala definida,Sin jerarquía definida,Privada,JUNÍN,SATIPO,RÍO TAMBO
+MAZAMARI - MAY. PNP NANCY FLORES PAUCAR,Aeródromo,SPMF,Operativo,CORPAC S.A.,-11.325517,-74.535828,Regional,Regional,Pública,JUNÍN,SATIPO,MAZAMARI
+MIPAYA,Helipuerto,SPPM,Operativo,PLUSPETROL PERÚ CORPORATION S.A.,-11.57952778,-73.16613889,Sin escala definida,Sin jerarquía definida,Privada,CUSCO,LA CONVENCIÓN,ECHARATE
+MOLLENDO,Aeródromo,SPDO,Operativo,MUNICIPALIDAD PROVINCIAL DE ISLAY,-17.04411667,-71.984575,Local,Local,Pública,AREQUIPA,ISLAY,MOLLENDO
+MOQUEGUA,Aeródromo,,Operativo,CORPAC S.A.,-17.18,-70.93147222,Sin escala definida,Sin jerarquía definida,Pública,MOQUEGUA,MARISCAL NIETO,MOQUEGUA
+NASCA - MARIA REICHE NEUMAN,Aeródromo,SPZA,Operativo,CORPAC S.A.,-14.854139,-74.961775,Local,Local,Pública,ICA,NASCA,VISTA ALEGRE
+NUEVO MUNDO,Aeródromo,SPNM,Operativo,REPSOL EXPLORACIÓN PERÚ S.A. SUCURSAL DEL PERÚ,-11.54235833,-73.14234444,Sin escala definida,Sin jerarquía definida,Privada,CUSCO,LA CONVENCIÓN,ECHARATE
+ORCOPAMPA,Aeródromo,SPOR,Operativo,COMPAÑÍA DE MINAS BUENAVENTURA S.A.A.,-15.314889,-72.352,Sin escala definida,Sin jerarquía definida,Privada,AREQUIPA,CASTILLA,ORCOPAMPA
+ORELLANA,Aeródromo,SPON,Operativo,MUNICIPALIDAD DISTRITAL DE VARGAS GUERRA,-6.896414,-75.152586,Local,Local,Pública,LORETO,UCAYALI,VARGAS GUERRA
+PAGORENI A,Helipuerto,SPPG,Operativo,PLUSPETROL PERÚ CORPORATION S.A.,-11.717361,-72.901139,Sin escala definida,Sin jerarquía definida,Privada,CUSCO,LA CONVENCIÓN,ECHARATE
+PAGORENI B,Helipuerto,SPPI,Operativo,PLUSPETROL PERÚ CORPORATION S.A.,-11.691861,-72.950611,Sin escala definida,Sin jerarquía definida,Privada,CUSCO,LA CONVENCIÓN,ECHARATE
+PAITITI,Aeródromo,SPPT,Operativo,COMUNIDAD PAITITI,-10.083333,-72.883333,Local,Sin jerarquía definida,Pública,UCAYALI,ATALAYA,YURUA
+PALMAPAMPA,Aeródromo,SPPE,Operativo,POLICÍA NACIONAL DEL PERÚ,-12.729722,-73.669722,Sin escala definida,Sin jerarquía definida,Pública,AYACUCHO,LA MAR,SAMUGARI
+PALMAS DEL ESPINO,Aeródromo,SPPN,Operativo,PALMAS DEL ESPINO S.A.,-8.343722,-76.489347,Sin escala definida,Sin jerarquía definida,Privada,SAN MARTÍN,TOCACHE,UCHIZA
+PAMPA HERMOSA,Aeródromo,SPPH,Operativo,CORPAC S.A.,-7.201069,-75.294042,Local,Local,Pública,LORETO,UCAYALI,PAMPA HERMOSA
+PATA DE GALLO,Aeródromo,SPGA,Operativo,MINERA BARRICK MISQUICHILCA S.A.,-7.983917,-78.269833,Sin escala definida,Sin jerarquía definida,Privada,LA LIBERTAD,SANTIAGO DE CHUCO,QUIRUVILCA
+PATRIA,Aeródromo,SPIR,Operativo,CORPAC S.A.,-12.967303,-71.429122,Local,Local,Pública,CUSCO,PAUCARTAMBO,KOSÑIPATA
+PÍAS,Aeródromo,SPIS,Operativo,CONSORCIO MINERO HORIZONTE S.A.,-7.920222,-77.525389,Sin escala definida,Sin jerarquía definida,Privada,LA LIBERTAD,PATAZ,PIAS
+PIRAÑA,Helipuerto,SPHP,Operativo,PERENCO PERÚ PETROLEUM LIMITED SUCURSAL DEL PERÚ,-1.913972222,-75.36744444,Sin escala definida,Sin jerarquía definida,Privada,LORETO,MAYNAS,NAPO
+PISCO INTERNACIONAL,Aeropuerto Internacional,SPSO,Operativo,AEROPUERTOS DEL PERÚ S.A.,-13.7448,-76.220411,Nacional,Nacional,Pública (Concesionada),ICA,PISCO,SAN ANDRÉS
+PIURA - CAP.FAP GUILLERMO CONCHA IBERICO,Aeropuerto,SPUR,Operativo,AEROPUERTOS DEL PERÚ S.A.,-5.205764,-80.616389,Nacional,Nacional,Pública (Concesionada),PIURA,PIURA,CASTILLA
+SAGARI BX,Helipuerto,SPZP,Operativo,REPSOL EXPLORACIÓN PERÚ S.A. SUCURSAL DEL PERÚ,-11.430833,-73.355639,Sin escala definida,Sin jerarquía definida,Privada,CUSCO,LA CONVENCIÓN,ECHARATE
+PRIVADO N° 2,Helipuerto,SPNB,Operativo,REPSOL EXPLORACIÓN PERÚ S.A. SUCURSAL DEL PERÚ,-11.55116667,-73.14286111,Sin escala definida,Sin jerarquía definida,Privada,CUSCO,LA CONVENCIÓN,ECHARATE
+PRIVADO N° 6,Helipuerto,SPNI,Operativo,REPSOL EXPLORACIÓN PERÚ S.A. SUCURSAL DEL PERÚ,-11.54691667,-73.14166667,Sin escala definida,Sin jerarquía definida,Privada,CUSCO,LA CONVENCIÓN,ECHARATE
+PRIVADO N° 8,Helipuerto,SPNF,Operativo,REPSOL EXPLORACIÓN PERÚ S.A. SUCURSAL DEL PERÚ,-11.55158333,-73.14736111,Sin escala definida,Sin jerarquía definida,Privada,CUSCO,LA CONVENCIÓN,ECHARATE
+PRIVADO N° 9,Helipuerto,SPNG,Operativo,REPSOL EXPLORACIÓN PERÚ S.A. SUCURSAL DEL PERÚ,-11.55127778,-73.14763889,Sin escala definida,Sin jerarquía definida,Privada,CUSCO,LA CONVENCIÓN,ECHARATE
+PUCALLPA - INTERNACIONAL CAP. FAP DAVID ARMANDO ABENSUR RENGIFO,Aeropuerto Internacional,SPCL,Operativo,AEROPUERTOS DEL PERÚ S.A.,-8.377942,-74.574297,Internacional,Nacional,Pública (Concesionada),UCAYALI,CORONEL PORTILLO,CALLERIA
+PUEBLO LIBRE DE CODO,Aeródromo,SPDU,Operativo,AGENCIA MUNICIPAL DE PUEBLO LIBRE DE CODO,-9.6725,-75.28277778,Local,Local,Pública,HUÁNUCO,PUERTO INCA,CODO DEL POZUZO
+PUERTO ESPERANZA,Aeródromo,SPEP,Operativo,CORPAC S.A.,-9.770278,-70.709167,Regional,Regional,Pública,UCAYALI,PURÚS,PURÚS
+PUERTO MALDONADO - PADRE ALDAMIZ,Aeropuerto,SPTU,Operativo,AEROPUERTOS ANDINOS DEL PERÚ S.A.,-12.613831,-69.228678,Internacional,Nacional,Pública (Concesionada),MADRE DE DIOS,TAMBOPATA,TAMBOPATA
+RIOJA - JUAN SIMONS VELA,Aeropuerto,SPJA,Operativo,CORPAC S.A.,-6.067792,-77.159806,Regional,Nacional,Pública,SAN MARTÍN,RIOJA,RIOJA
+RODRÍGUEZ DE MENDOZA,Aeropuerto,SPLN,Operativo,CORPAC S.A.,-6.392617,-77.500589,Regional,Regional,Pública,AMAZONAS,RODRIGUEZ DE MENDOZA,OSCAR R. BENAVIDES
+SAN JOSÉ DE SARAMURO - ESTACIÓN 1,Helipuerto,SPSM,Operativo,PETRÓLEOS DEL PERÚ - PETROPERU S.A.,-4.721556,-74.922444,Sin escala definida,Sin jerarquía definida,Privada,LORETO,LORETO,URARINAS
+SAN LORENZO,Aeródromo,SPQM,Operativo,MUNICIPALIDAD PROVINCIAL DE DATEM DEL MARAÑÓN,-4.82425,-76.560347,Local,Local,Pública,LORETO,DATEM DEL MARAÑÓN,BARRANCA
+SAN MARTÍN 1,Helipuerto,SPMT,Operativo,PLUSPETROL PERÚ CORPORATION S.A.,-11.76754444,-72.77806111,Sin escala definida,Sin jerarquía definida,Privada,CUSCO,LA CONVENCIÓN,ECHARATE
+SAN MARTÍN 3,Helipuerto,SPPS,Operativo,PLUSPETROL PERÚ CORPORATION S.A.,-11.785528,-72.702139,Sin escala definida,Sin jerarquía definida,Privada,CUSCO,LA CONVENCIÓN,ECHARATE
+SAN RAFAEL,Aeródromo,SPRF,Operativo,COMPAÑÍA MINSUR S.A.,-14.282194,-70.379694,Sin escala definida,Sin jerarquía definida,Privada,PUNO,MELGAR,ANTAUTA
+SAPOSOA,Aeródromo,SPOA,Operativo,CORPAC S.A.,-6.959083,-76.768583,Local,Regional,Pública,SAN MARTÍN,HUALLAGA,SAPOSOA
+SARGENTO PUÑO,Helipuerto,SPSP,Operativo,PETRÓLEOS DEL PERÚ - PETROPERU S.A.,-3.220889,-77.603389,Sin escala definida,Sin jerarquía definida,Privada,LORETO,DATEM DEL MARAÑÓN,MORONA
+SAYLA,Helipuerto,SPKY,Operativo,MUNICIPALIDAD DISTRITAL DE SAYLA,-15.322778,-73.2375,Sin escala definida,Local,Pública,AREQUIPA,LA UNIÓN,SAYLA
+SEPAHUA,Aeródromo,SPSE,Operativo,MUNICIPALIDAD DISTRITAL DE SEPAHUA,-11.142083,-73.034167,Local,Local,Pública,UCAYALI,ATALAYA,SEPAHUA
+SHANUSI,Aeródromo,SPSH,Operativo,PALMAS DEL SHANUSI S.A.,-6.128694,-76.169583,Sin escala definida,Sin jerarquía definida,Privada,LORETO,ALTO AMAZONAS,YURIMAGUAS
+TACNA - INTERNACIONAL CRNL. FAP CARLOS CIRIANI SANTA ROSA,Aeropuerto Internacional,SPTN,Operativo,AEROPUERTOS ANDINOS DEL PERÚ S.A.,-18.053286,-70.275822,Internacional,Nacional,Pública (Concesionada),TACNA,TACNA,TACNA
+TALARA - INTERNACIONAL CAP.FAP VICTOR MONTES ARIAS,Aeropuerto Internacional,SPYL,Operativo,AEROPUERTOS DEL PERÚ S.A.,-4.576611111,-81.25405833,Internacional,Nacional,Pública (Concesionada),PIURA,TALARA,PARIÑAS
+TARAPOTO - CADETE FAP GUILLERMO DEL CASTILLO PAREDES,Aeropuerto,SPST,Operativo,AEROPUERTOS DEL PERÚ S.A.,-6.508744,-76.373247,Nacional,Nacional,Pública (Concesionada),SAN MARTÍN,SAN MARTÍN,TARAPOTO
+TINGO MARÍA,Aeropuerto,SPGM,Operativo,CORPAC S.A.,-9.289375,-76.005042,Regional,Nacional,Pública,HUÁNUCO,LEONCIO PRADO,RUPA RUPA
+TOCACHE,Aeródromo,SPCH,Operativo,CORPAC S.A.,-8.195431,-76.528667,Regional,Regional,Pública,SAN MARTÍN,TOCACHE,TOCACHE
+TROMPETEROS (CORRIENTES),Aeródromo,SPDR,Operativo,PLUSPETROL NORTE S.A.,-3.8055,-75.039903,Sin escala definida,Sin jerarquía definida,Privada,LORETO,LORETO,TROMPETEROS
+TROMPETEROS,Helipuerto,SPDT,Operativo,PLUSPETROL NORTE S.A.,-3.807,-75.056167,Sin escala definida,Sin jerarquía definida,Privada,LORETO,LORETO,TROMPETEROS
+TRUJILLO - INTERNACIONAL CAP. CARLOS MARTINEZ DE PINILLOS,Aeropuerto Internacional,SPRU,Operativo,AEROPUERTOS DEL PERÚ S.A.,-8.081708,-79.108644,Internacional,Nacional,Pública (Concesionada),LA LIBERTAD,TRUJILLO,HUANCHACO
+TULPO,Aeródromo,SPTO,Operativo,MUNICIPALIDAD DISTRITAL DE MOLLEBAMBA,-8.127278,-77.988181,Local,Local,Pública,LA LIBERTAD,SANTIAGO DE CHUCO,MOLLEBAMBA
+TUMBES - CAP.FAP PEDRO CANGA RODRÍGUEZ,Aeropuerto,SPME,Operativo,AEROPUERTOS DEL PERÚ S.A.,-3.552264,-80.381069,Nacional,Nacional,Pública (Concesionada),TUMBES,TUMBES,TUMBES
+URPAY,Aeródromo,SPAI,Operativo,MUNICIPALIDAD DISTRITAL DE URPAY,-8.350369,-77.398094,Local,Local,Pública,LA LIBERTAD,PATAZ,URPAY
+VICCO,Aeródromo,SPVI,Operativo,MUNICIPALIDAD DISTRITAL DE VICCO,-10.848792,-76.246836,Local,Local,Pública,PASCO,PASCO,VICCO
+VILCASHUAMÁN,Aeródromo,SPVN,Operativo,CORPAC S.A.,-13.678194,-73.927083,Local,Local,Pública,AYACUCHO,VILCASHUAMAN,VILCASHUAMAN
+YAURI,Aeródromo,SPIY,Operativo,MUNICIPALIDAD PROVINCIAL DE ESPINAR,-14.80638889,-71.43194444,Local,Local,Pública,CUSCO,ESPINAR,YAURI
+YURIMAGUAS - MOISÉS BENZAQUÉN RENGIFO,Aeropuerto,SPMS,Operativo,CORPAC S.A.,-5.893611,-76.118056,Regional,Nacional,Pública,LORETO,ALTO AMAZONAS,YURIMAGUAS
+METROPOLITANO DE PIURA,Aeródromo,SPAL,Operativo,AEROCLUB DE AVIACIÓN CIVIL DEL PERÚ,-5.067777778,-80.14748889,Sin escala definida,Sin jerarquía definida,Privada,PIURA,MORROPÓN,CHULUCANAS
+HP-7,Helipuerto,SPNE,Operativo,REPSOL EXPLORACIÓN PERÚ S.A. SUCURSAL DEL PERÚ,-11.55194444,-73.14694444,Sin escala definida,Sin jerarquía definida,Privada,CUSCO,LA CONVENCIÓN,ECHARATE
+CLÍNICA DELGADO,Helipuerto,SPCD,Operativo,MEDIC SER S.A.C.,-12.11354167,-77.03319167,Sin escala definida,Sin jerarquía definida,Privada,LIMA,LIMA,MIRAFLORES
+LUISIANA,Aeródromo,SPLU,Operativo,SR. GUILLERMO PARODI MORALES,-12.67497222,-73.70955556,Sin escala definida,Sin jerarquía definida,Privada,AYACUCHO,LA MAR,SANTA ROSA
+BANCO DE LA NACIÓN,Helipuerto,SPBN,Operativo,BANCO DE LA NACIÓN,-12.08718611,-77.000675,Sin escala definida,Sin jerarquía definida,Privada,LIMA,Lima,San Borja
+CASHIBOCOCHA,Aeródromo,SPCB,Operativo,SOUTH AMÉRICA MISSION INC. FILIAL DEL PERÚ,-8.361944444,-74.65680556,Sin escala definida,Sin jerarquía definida,Privada,UCAYALI,CORONEL PORTILLO,YARINACOCHA
+SAGARI AX,Helipuerto,SPSG,Operativo,REPSOL EXPLORACIÓN PERÚ S.A. SUCURSAL DEL PERÚ,-11.46402198,-73.31293349,Sin escala definida,Sin jerarquía definida,Privada,CUSCO,LA CONVENCIÓN,ECHARATE
+CASHIRIARI 1,Helipuerto,SPCA,Operativo,PLUSPETROL PERÚ CORPORATION S.A.,-11.87445,-72.73419167,Sin escala definida,Sin jerarquía definida,Privada,CUSCO,LA CONVENCIÓN,ECHARATE
+ADVENTISTA MOP (SPYC),Aeródromo,SPYC,Operativo,ASOCIACIÓN PROYECTOS PERÚ,-8.340427778,-74.59791389,Sin escala definida,Sin jerarquía definida,Privada,UCAYALI,CORONEL PORTILLO,Yarinacocha
+HP-7 LAS MALVINAS,Helipuerto,SPWL,Operativo,PLUSPETROL PERÚ CORPORATION S.A.,-11.84822778,-72.93883889,Sin escala definida,Sin jerarquía definida,Privada,CUSCO,LA CONVENCIÓN,ECHARATE
+WALTER BRAEDT SEGU,Aeródromo,,Operativo,MANCORALAND S.A.C.,-4.086797222,-81.02558333,Sin escala definida,Sin jerarquía definida,Privada,TUMBES,Contralmirante Villar,Canoas de Punta Sal
+CORONEL PNP RODOLFO LEÓN GAVILÁN,Helipuerto,,Operativo,MUNICIPALIDAD DISTRITAL DE MIRAFLORES,-12.11961111,-77.04608889,Sin escala definida,Sin jerarquía definida,Pública,LIMA,Lima,Miraflores
+REVALORA,Aeródromo,,Operativo,REVALORA S.A.C.,-13.22304167,-76.26936667,Sin escala definida,Sin jerarquía definida,Privada,LIMA,Cañete,San Vicente de Cañete
+VOCES POR EL CLIMA,Helipuerto,,Operativo,HELI-ABAD S.A.C.,-12.15291667,-77.01139167,Sin escala definida,Sin jerarquía definida,Privada,LIMA,Lima,Santiago de Surco
+CANTO GRANDE,Helipuerto,,Operativo,HELI-ABAD S.A.C.,-11.95897222,-76.99916944,Sin escala definida,Sin jerarquía definida,Privada,LIMA,Lima,San Juan de Lurigancho
+PROYECTO MORE,Helipuerto,,Operativo,INMOBILIARA HUANWIL S.A.,-12.08298611,-76.967425,Sin escala definida,Sin jerarquía definida,Privada,LIMA,Lima,Santiago de Surco
+PROYECTO AFE,Helipuerto,,Operativo,AFE SERVICE S.A.C.,-11.82842222,-77.09428611,Sin escala definida,Sin jerarquía definida,Privada,LIMA,Lima,Puente Piedra
+MUNICIPAL DE SAN BARTOLO ALM. RAUL VARGAS FULLER,Helipuerto,,Operativo,FLY ACCES PERU S.A.C.,-12.38044444,-76.78372222,Sin escala definida,Sin jerarquía definida,Privada,LIMA,Lima,San Bartolo
+BOULEVARD ASIA,Helipuerto,SPBA,Operativo,INVERSIONES CASTELAR S.A.C.,-12.76010556,-76.60331944,Sin escala definida,Sin jerarquía definida,Privada,LIMA,Cañete,Asia
+LA CALERA,Helipuerto,,Operativo,HELI-ABAD S.A.C.,-13.4541,-76.02863611,Sin escala definida,Sin jerarquía definida,Privada,ICA,CHINCHA,ALTO LARAN
+OLMOS,Aeródromo,,Operativo,INVERSIONES AGRICOLAS OLMOS II S.A.C.,-6.011172222,-80.09151111,Sin escala definida,Sin jerarquía definida,Privada,LAMBAYEQUE,Lambayeque,Olmos
+LAS AMERICAS,Aeródromo,,Operativo,JOSÉ LUIS POPOLIZIO BARDALES,-8.317447222,-74.72666111,Sin escala definida,Sin jerarquía definida,Privada,UCAYALI,Coronel Portillo,Yarinacocha
+"HOSPITAL MIGUEL ANGEL MARISCAL LLERENA DE AYACUCHO""""",Helipuerto,,Operativo,GOBIERNO REGIONAL DE AYACUCHO,-13.162925,-74.20018889,Sin escala definida,Sin jerarquía definida,Pública,AYACUCHO,Huamanga,Andres Avelino Caceres
+DIOSPI SUYANA,Helipuerto,SPDY,Operativo,ASOCIACIÓN CIVIL RELIGIOSA DIOSPI SUYANA,-13.54833333,-72.70972222,Sin escala definida,Sin jerarquía definida,Privada,APURÍMAC,Abancay,Curahuasi
+JOCKEY PLAZA SHOPING CENTER,Helipuerto,SPJP,Operativo,ECOCOPTER PERU S.A.,-12.087225,-76.97660278,Sin escala definida,Sin jerarquía definida,Privada,LIMA,LIMA,SANTIAGO DE SURCO
+LA PORTADA,Helipuerto,,Operativo,HELI-ABAD S.A.C.,-14.14417778,-75.64589167,Sin escala definida,Sin jerarquía definida,Privada,ICA,ICA,PUEBLO NUEVO
+PACASMAYO,Aeródromo,,Operativo,ESCUELA PERUANA DE AVIACIÓN CIVIL S.A.,-7.416425,-79.57021667,Sin escala definida,Sin jerarquía definida,Pública,LA LIBERTAD,PACASMAYO,PACASMAYO
+Andahuaylas,Aeropuerto,SPHY,Operativo,CORPAC S.A.,-13.708819,-73.351556,Nacional,Nacional,Pública (Concesionada-No entregada),Apurímac,Andahuaylas,Andahuaylas
+Andoas,Aeródromo,SPAS,Operativo,Pacific Stratus Energy del Perú S.A.,-2.796108,-76.466597,Sin escala definida,No aplica a privados,Privada,Loreto,Datem Del Marañón,Andoas
+Andoas,Helipuerto de superficie,SPAN,Operativo,Pacific Stratus Energy del Perú S.A.,-2.79999037,-76.458732,Sin escala definida,No aplica a privados,Privada,Loreto,Datem Del Marañón,Andoas
+Alfredo Rodríguez Ballon,Aeropuerto Internacional,SPQU,Operativo,Aeropuertos Andinos del Perú S.A.,-16.340611,-71.570792,Internacional,Nacional,Pública (Concesionada),Arequipa,Arequipa,Cayma
+Atalaya,Aeródromo,SPAY,Operativo,CORPAC S.A.,-10.728572,-73.765886,Regional,Regional,Pública,Ucayali,Atalaya,Raymondi
+Crnl. FAP. Alfredo Mendivil,Aeropuerto,SPHO,Operativo,Aeropuertos Andinos del Perú S.A.,-13.154836,-74.20441667,Nacional,Nacional,Pública (Concesionada),Ayacucho,Huamanga,Andrés Avelino Cáceres
+Bellavista,Aeródromo,SPBS,Operativo,Comunidad de Bellavista,-5.28859,-76.2911,Local,Sin jerarquía definida,Pública,Loreto,Alto Amazonas,Jeberos
+Breu,Aeródromo,SPBK,Operativo,CORPAC S.A.,-9.533792,-72.757153,Local,Local,Pública,Ucayali,Atalaya,Yurua
+Buncuyo,Aeródromo,SPBJ,Operativo,Comunidad de Buncuyo,-6.516667,-74.583333,Local,Sin jerarquía definida,Pública,Loreto,Requena,Tapiche
+Caballococha,Aeródromo,SPBC,Operativo,CORPAC S.A.,-3.916833,-70.508181,Regional,Regional,Pública,Loreto,Ramón Castilla,Ramón Castilla
+May.Gral.FAP. Armando Revoredo Iglesias,Aeropuerto,SPJR,Operativo,Aeropuertos del Perú S.A.,-7.139144,-78.489581,Nacional,Nacional,Pública (Concesionada),Cajamarca,Cajamarca,Baños del Inca
+Cashiriari 3,Helipuerto de superficie,SPCS,Operativo,Pluspetrol Perú Corporation S.A.,-11.88030278,-72.64921111,Sin escala definida,No aplica a privados,Privada,Cusco,La Convención,Echarate
+Chachapoyas,Aeropuerto,SPPY,Operativo,Aeropuertos del Perú S.A.,-6.202042,-77.856,Nacional,Nacional,Pública (Concesionada),Amazonas,Chachapoyas,Chachapoyas
+Chagual,Aeródromo,SPGL,Operativo,Cia. Minera Poderosa S.A.,-7.797417,-77.651431,Sin escala definida,No aplica a privados,Privada,La Libertad,Pataz,Pataz
+Aero Link Chala,Aeródromo,SPAK,Operativo,Aero Link S.A.C.,-15.80724722,-74.28691944,Sin escala definida,No aplica a privados,Privada,Arequipa,Caraveli,Chala
+Chao,Aeródromo,SPCY,Operativo,CAMPOSOL S.A.,-8.581763889,-78.68120278,Sin escala definida,No aplica a privados,Privada,La Libertad,Virú,Chao
+Cap. FAP. José Abelardo Quiñones Gonzales,Aeropuerto Internacional,SPHI,Operativo,Aeropuertos del Perú S.A.,-6.787478,-79.8281,Internacional,Nacional,Pública (Concesionada),Lambayeque,Chiclayo,Chiclayo
+Tnte. FAP. Jaime A. de Montreuil Morales,Aeropuerto,SPEO,Operativo,CORPAC S.A.,-9.149711,-78.523564,Regional,Nacional,Pública,Áncash,Santa,Nuevo Chimbote
+Ciro Alegría,Aeródromo,SPAC,Operativo,CORPAC S.A.,-4.607144,-77.940633,Regional,Regional,Pública,Amazonas,Condorcanqui,Nieva
+Ciudad Constitución,Aeródromo,SPCC,Operativo,Municipalidad Distrital de Puerto Bermudez,-9.863958,-75.006736,Local,Local,Pública,Pasco,Oxapampa,Puerto Bermúdez
+Colonia Angamos,Aeródromo,SPDN,Operativo,Municipalidad Distrital de Yaquerana,-5.137125,-72.867889,Local,Local,Pública,Loreto,Requena,Yaquerana
+Contamana,Aeródromo,SPCM,Operativo,Gobierno Regional de Loreto,-7.335806,-74.992556,Local,Local,Pública,Loreto,Ucayali,Contamana
+Culina,Aeródromo,SPUI,Operativo,Comunidad de Culina,-9.584486,-70.617764,Sin escala definida,No aplica a privados,Pública,Ucayali,Purús,Purús
+Tnte. FAP. Alejandro Velasco Astete,Aeropuerto Internacional,SPZO,Operativo,CORPAC S.A.,-13.535722,-71.938778,Internacional,Nacional,Pública,Cusco,Cusco,San Sebastián
+Cutivireni,Aeródromo,SPCV,Operativo,Comunidad Nativa de Cutivireni,-11.877167,-73.916958,Local,Sin jerarquía definida,Pública,Junín,Satipo,Río Tambo
+El Estrecho,Aeródromo,SPEE,Operativo,CORPAC S.A.,-2.45389,-72.671,Regional,Regional,Pública,Loreto,Putumayo,Putumayo
+El Valor - Estación 7,Helipuerto de superficie,SPEV,Operativo,Petróleos del Perú - Petroperu S.A.,-5.670944,-78.640278,Sin escala definida,No aplica a privados,Privada,Amazonas,Utcubamba,El Milagro
+Fernando Rosas - Estación Morona,Helipuerto de superficie,SPMO,Operativo,Petróleos del Perú - Petroperu S.A.,-3.983189,-77.227806,Sin escala definida,No aplica a privados,Privada,Loreto,Datem Del Marañón,Morona
+Güeppi,Aeródromo,SPGP,Operativo,CORPAC S.A.,-0.119306,-75.247847,Regional,Regional,Pública,Loreto,Putumayo,Teniente Manuel Clavero
+Galilea,Aeródromo,SPGB,Operativo,CORPAC S.A.,-4.0317157,-77.75876639,Regional,Regional,Pública,Amazonas,Condorcanqui,Río Santiago
+Helinka,Helipuerto de superficie,SPIK,Operativo,Helinka S.A.C.,-6.515416667,-76.37497222,Sin escala definida,No aplica a privados,Privada,San Martín,San Martín,Tarapoto
+Hotel Los Delfines,Helipuerto Elevado,SPKD,Operativo,Cia. Hotelera Los Delfines S.A.,-12.097833,-77.047833,Sin escala definida,No aplica a privados,Privada,Lima,Lima,San Isidro
+Hotel Oro Verde,Helipuerto Elevado,SPKO,Operativo,Hotelera Costa del Pacifico S.A.,-12.0975,-77.038056,Sin escala definida,No aplica a privados,Privada,Lima,Lima,San Isidro
+Huamachuco,Aeródromo,SPUC,Operativo,Municipalidad Provincial de Sánchez Carrión,-7.818022,-78.029206,Local,Local,Pública,La Libertad,Sánchez Carrión,Huamachuco
+Huancabamba,Aeródromo,SPHB,Operativo,Municipalidad Provincial de Huancabamba,-5.2566083,-79.44335556,Regional,Local,Pública,Piura,Huancabamba,Huancabamba
+Alf. FAP. David Figueroa Fernandini,Aeropuerto,SPNC,Operativo,CORPAC S.A.,-9.878681,-76.204569,Nacional,Nacional,Pública,Huánuco,Huánuco,Huánuco
+Cmdt. FAP. German Arias Graziani,Aeropuerto,SPHZ,Operativo,Aeropuertos del Perú S.A.,-9.347333,-77.598308,Nacional,Nacional,Pública (Concesionada),Áncash,Carhuaz,Anta
+Iñapari,Aeródromo,SPIN,Operativo,CORPAC S.A.,-10.980183,-69.559217,Regional,Regional,Pública,Madre De Dios,Tahuamanu,Iñapari
+Gral. Jorge F. Maldonado Solari,Aeropuerto,SPLO,Operativo,CORPAC S.A.,-17.695028,-71.343931,Regional,Nacional,Pública,Moquegua,Ilo,Ilo
+Interbank,Helipuerto Elevado,SPKE,Operativo,Promotora Intercorp S.A.,-12.089472,-77.022778,Sin escala definida,No aplica a privados,Privada,Lima,Lima,La Victoria
+Crnl. FAP. Francisco Secada Vignetta,Aeropuerto Internacional,SPQT,Operativo,Aeropuertos del Perú S.A.,-3.784739,-73.308806,Internacional,Nacional,Pública (Concesionada),Loreto,Maynas,San Juan Bautista
+Fernando Belaunde Terry,Aeropuerto,SPJE,Operativo,CORPAC S.A.,-5.592611,-78.774264,Nacional,Nacional,Pública,Cajamarca,Jaén,Bellavista
+Francisco Carlé,Aeropuerto,SPJJ,Operativo,CORPAC S.A.,-11.783389,-75.473347,Nacional,Nacional,Pública,Junín,Jauja,Sausa
+Jibaro Marshalling,Helipuerto de superficie,SPJM,Operativo,Pacific Stratus Energy del Perú S.A.,-2.706139,-76.028556,Sin escala definida,No aplica a privados,Privada,Loreto,Loreto,Trompeteros
+Jorge Chávez,Aeropuerto Internacional,SPJC,Operativo,Lima Airport Partners S.R.L.,-12.021886,-77.114317,Internacional,Nacional,Pública (Concesionada),Lima,Callao,Callao
+Juanjui,Aeropuerto,SPJI,Operativo,CORPAC S.A.,-7.168875,-76.728581,Regional,Regional,Pública,San Martín,Mariscal Cáceres,Juanjui
+Inca Manco Capac,Aeropuerto Internacional,SPJL,Operativo,Aeropuertos Andinos del Perú S.A.,-15.466856,-70.157883,Internacional,Nacional,Pública (Concesionada),Puno,San Román,Juliaca
+Kinteroni,Helipuerto de superficie,SPKR,Operativo,Repsol Exploración Perú S.A. Sucursal del Perú,-11.509667,-73.2515,Sin escala definida,No aplica a privados,Privada,Cusco,La Convención,Echarate
+Kiteni,Aeródromo,SPKI,Operativo,Cía. Operadora de Gas del Amazonas S.A.C.,-12.648633,-73.036597,Sin escala definida,No aplica a privados,Privada,Cusco,La Convención,Echarate
+La Peruanita N°1,Helipuerto de superficie,SPPU,Operativo,CNPC PERU S.A.,-11.69013889,-73.02194444,Sin escala definida,No aplica a privados,Privada,Cusco,La Convención,Echarate
+La Peruanita N°2,Helipuerto de superficie,SPPV,Operativo,CNPC PERU S.A.,-11.689972,-73.021167,Sin escala definida,No aplica a privados,Privada,Cusco,La Convención,Echarate
+La Peruanita N°3,Helipuerto de superficie,SPPW,Operativo,CNPC PERU S.A.,-11.69108333,-73.02347222,Sin escala definida,No aplica a privados,Privada,Cusco,La Convención,Echarate
+La Vista - Estación 5,Helipuerto de superficie,SPVS,Operativo,Petróleos del Perú - Petroperu S.A.,-4.654417,-77.506361,Sin escala definida,No aplica a privados,Privada,Loreto,Datem Del Marañón,Manseriche
+Las Bambas,Helipuerto de superficie,SPLB,Operativo,Minera Las Bambas S.A.,-14.10288333,-72.27625,Sin escala definida,No aplica a privados,Privada,Apurímac,Cotabamba,Challhuahuacho
+Las Dunas,Aeródromo,SPLH,Operativo,Empresa Administradora del Aeródromo Las Dunas de Ica S.A.C.,-14.03518056,-75.76028333,Sin escala definida,No aplica a privados,Privada,Ica,Ica,Subtanjalla
+Las Malvinas,Aeródromo,SPWT,Operativo,Pluspetrol Perú Corporation S.A.,-11.85494444,-72.93934167,Sin escala definida,No aplica a privados,Privada,Cusco,La Convención,Echarate
+Las Malvinas,Helipuerto de superficie,SPHM,Operativo,Pluspetrol Perú Corporation S.A.,-11.85341944,-72.94184167,Sin escala definida,No aplica a privados,Privada,Cusco,La Convención,Echarate
+Las Palmas,Aeródromo,SPLP,Operativo,Base Aérea Las Palmas,-12.160125,-76.998778,Sin escala definida,No aplica a privados,Pública,Lima,Lima,Santiago de Surco
+Lib Mandi Metropolitano,Aeródromo,SPLX,Operativo,Master Business Aviation S.A.C.,-12.389,-76.75809444,Sin escala definida,No aplica a privados,Privada,Lima,Cañete,Chilca
+Mapi,Helipuerto de superficie,SPMP,Operativo,Repsol Exploración Perú S.A. Sucursal del Perú,-11.432144,-73.573103,Sin escala definida,No aplica a privados,Privada,Junín,Satipo,Río Tambo
+Maria Reiche,Helipuerto de superficie,SPMA,Operativo,Helinka S.A.C.,-14.681833,-75.134194,Sin escala definida,No aplica a privados,Privada,Ica,Nasca,El Ingenio
+Mashira,Helipuerto de superficie,SPMH,Operativo,Repsol Exploración Perú S.A. Sucursal del Perú,-11.381528,-73.504972,Sin escala definida,No aplica a privados,Privada,Junín,Satipo,Rio Tambo
+May. PNP. Nancy Flores Paucar,Aeródromo,SPMF,Operativo,CORPAC S.A.,-11.325517,-74.535828,Regional,Regional,Pública,Junín,Satipo,Mazamari
+Mipaya,Helipuerto de superficie,SPPM,Operativo,Pluspetrol Perú Corporation S.A.,-11.57952778,-73.16613889,Sin escala definida,No aplica a privados,Privada,Cusco,La Convención,Echarate
+Mollendo,Aeródromo,SPDO,Operativo,Municipalidad Provincial de Islay,-17.04411667,-71.984575,Local,Local,Pública,Arequipa,Islay,Mollendo
+Moquegua,Aeródromo,SPEQ,Operativo,CORPAC S.A.,-17.18,-70.93147222,Sin escala definida,Sin jerarquía definida,Pública,Moquegua,Moquegua,Mariscal Nieto
+Maria Reiche Neuman,Aeródromo,SPZA,Operativo,CORPAC S.A.,-14.854139,-74.961775,Local,Local,Pública,Ica,Nasca,Vista Alegre
+Nuevo Mundo,Aeródromo,SPNM,Operativo,Repsol Exploración Perú S.A. Sucursal del Perú,-11.54235833,-73.14234444,Sin escala definida,No aplica a privados,Privada,Cusco,La Convención,Echarate
+Orcopampa,Aeródromo,SPOR,Operativo,Compañía de Minas Buenaventura S.A.A.,-15.314889,-72.352,Sin escala definida,No aplica a privados,Privada,Arequipa,Castilla,Orcopampa
+Orellana,Aeródromo,SPON,Operativo,Municipalidad Distrital de Vargas Guerra,-6.896414,-75.152586,Local,Local,Pública,Loreto,Ucayali,Vargas Guerra
+Pagoreni A,Helipuerto de superficie,SPPG,Operativo,Pluspetrol Perú Corporation S.A.,-11.717361,-72.901139,Sin escala definida,No aplica a privados,Privada,Cusco,La Convención,Echarate
+Pagoreni B,Helipuerto de superficie,SPPI,Operativo,Pluspetrol Perú Corporation S.A.,-11.691861,-72.950611,Sin escala definida,No aplica a privados,Privada,Cusco,La Convención,Echarate
+Paititi,Aeródromo,SPPT,Operativo,Comunidad Paititi,-10.083333,-72.883333,Local,Sin jerarquía definida,Pública,Ucayali,Atalaya,Yurua
+Palmapampa,Aeródromo,SPPE,Operativo,Policía Nacional del Perú,-12.7641433,-73.6533141,Sin escala definida,Sin jerarquía definida,Pública,Ayacucho,La Mar,Samugari
+Palmas del Espino,Aeródromo,SPPN,Operativo,Palmas del Espino S.A.,-8.343722,-76.489347,Sin escala definida,No aplica a privados,Privada,San Martín,Tocache,Uchiza
+Pampa Hermosa,Aeródromo,SPPH,Operativo,CORPAC S.A.,-7.201069,-75.294042,Local,Local,Pública,Loreto,Ucayali,Pampa Hermosa
+Pata de Gallo,Aeródromo,SPGA,Operativo,Minera Barrick Misquichilca S.A.,-7.983917,-78.269833,Sin escala definida,No aplica a privados,Privada,La Libertad,Santiago De Chuco,Quiruvilca
+Patria,Aeródromo,SPIR,Operativo,CORPAC S.A.,-12.967303,-71.429122,Local,Local,Pública,Cusco,Paucartambo,Kosñipata
+Pías,Aeródromo,SPIS,Operativo,Consorcio Minero Horizonte S.A.,-7.920222,-77.525389,Sin escala definida,No aplica a privados,Privada,La Libertad,Pataz,Pias
+Piraña,Helipuerto de superficie,SPHP,Operativo,Perenco Perú Petroleum Limited Sucursal del Perú,-1.913972222,-75.36744444,Sin escala definida,No aplica a privados,Privada,Loreto,Maynas,Napo
+Pisco,Aeropuerto Internacional,SPSO,Operativo,Aeropuertos del Perú S.A.,-13.7448,-76.220411,Internacional,Nacional,Pública (Concesionada),Ica,Pisco,San Andrés
+Cap. FAP. Guillermo Concha Iberico,Aeropuerto,SPUR,Operativo,Aeropuertos del Perú S.A.,-5.205764,-80.616389,Nacional,Nacional,Pública (Concesionada),Piura,Piura,Castilla
+Sagari Bx,Helipuerto de superficie,SPZP,Operativo,Repsol Exploración Perú S.A. Sucursal del Perú,-11.43080556,-73.35572222,Sin escala definida,No aplica a privados,Privada,Cusco,La Convención,Echarate
+Privado N°2,Helipuerto de superficie,SPNB,Operativo,Repsol Exploración Perú S.A. Sucursal del Perú,-11.55116667,-73.14286111,Sin escala definida,No aplica a privados,Privada,Cusco,La Convención,Echarate
+Privado N°6,Helipuerto de superficie,SPNI,Operativo,Repsol Exploración Perú S.A. Sucursal del Perú,-11.54691667,-73.14166667,Sin escala definida,No aplica a privados,Privada,Cusco,La Convención,Echarate
+Privado N°8,Helipuerto de superficie,SPNF,Operativo,Repsol Exploración Perú S.A. Sucursal del Perú,-11.55158333,-73.14736111,Sin escala definida,No aplica a privados,Privada,Cusco,La Convención,Echarate
+Privado N°9,Helipuerto de superficie,SPNG,Operativo,Repsol Exploración Perú S.A. Sucursal del Perú,-11.55127778,-73.14763889,Sin escala definida,No aplica a privados,Privada,Cusco,La Convención,Echarate
+Cap. FAP. David Armando Abensur Rengifo,Aeropuerto Internacional,SPCL,Operativo,Aeropuertos del Perú S.A.,-8.377942,-74.574297,Internacional,Nacional,Pública (Concesionada),Ucayali,Coronel Portillo,Calleria
+Pueblo Libre de Codo,Aeródromo,SPDU,Operativo,Agencia Municipal de Pueblo Libre de Codo,-9.6725,-75.28277778,Local,Local,Pública,Huánuco,Puerto Inca,Codo del Pozuzo
+Puerto Esperanza,Aeródromo,SPEP,Operativo,CORPAC S.A.,-9.770278,-70.709167,Regional,Regional,Pública,Ucayali,Purús,Purús
+Padre Aldamiz,Aeropuerto,SPTU,Operativo,Aeropuertos Andinos del Perú S.A.,-12.613831,-69.228678,Sin escala definida,Nacional,Pública (Concesionada),Madre De Dios,Tambopata,Tambopata
+Requena,Aeródromo,SPQN,Operativo,CORPAC S.A.,-5.0785,-73.85625,Local,Sin jerarquía definida,Pública,Loreto,Requena,Requena
+Juan Simons Vela,Aeropuerto,SPJA,Operativo,CORPAC S.A.,-6.067792,-77.159806,Regional,Nacional,Pública,San Martín,Rioja,Rioja
+Rodríguez de Mendoza,Aeropuerto,SPLN,Operativo,CORPAC S.A.,-6.392617,-77.500589,Regional,Regional,Pública,Amazonas,Rodríguez de Mendoza,Oscar R. Benavides
+San José de Saramuro - Estación 1,Helipuerto de superficie,SPSM,Operativo,Petróleos del Perú - Petroperu S.A.,-4.721556,-74.922444,Sin escala definida,No aplica a privados,Privada,Loreto,Loreto,Urarinas
+San Lorenzo,Aeródromo,SPQM,Operativo,Municipalidad Provincial de Datem del Marañón,-4.82425,-76.56034722,Local,Local,Pública,Loreto,Datem Del Marañón,Barranca
+San Martín 1,Helipuerto de superficie,SPMT,Operativo,Pluspetrol Perú Corporation S.A.,-11.76754444,-72.77806111,Sin escala definida,No aplica a privados,Privada,Cusco,La Convención,Echarate
+San Martín 3,Helipuerto de superficie,SPPS,Operativo,Pluspetrol Perú Corporation S.A.,-11.785528,-72.702139,Sin escala definida,No aplica a privados,Privada,Cusco,La Convención,Echarate
+San Rafael,Aeródromo,SPRF,Operativo,Compañía Minsur S.A.,-14.282194,-70.379694,Sin escala definida,No aplica a privados,Privada,Puno,Melgar,Antauta
+Saposoa,Aeródromo,SPOA,Operativo,CORPAC S.A.,-6.959083,-76.768583,Local,Regional,Pública,San Martín,Huallaga,Saposoa
+Sargento Puño,Helipuerto de superficie,SPSP,Operativo,Petróleos del Perú - Petroperu S.A.,-3.220889,-77.603389,Sin escala definida,No aplica a privados,Privada,Loreto,Datem Del Marañón,Morona
+Sayla,Helipuerto de superficie,SPKY,Operativo,Municipalidad Distrital de Sayla,-15.322778,-73.2375,Sin escala definida,Local,Pública,Arequipa,La Unión,Sayla
+Sepahua,Aeródromo,SPSE,Operativo,Municipalidad Distrital de Sepahua,-11.142083,-73.034167,Local,Local,Pública,Ucayali,Atalaya,Sepahua
+Shanusi,Aeródromo,SPSH,Operativo,Palmas del Shanusi S.A.,-6.128694,-76.169583,Sin escala definida,No aplica a privados,Privada,Loreto,Alto Amazonas,Yurimaguas
+Crnl. FAP. Carlos Ciriani Santa Rosa,Aeropuerto Internacional,SPTN,Operativo,Aeropuertos Andinos del Perú S.A.,-18.053286,-70.275822,Internacional,Nacional,Pública (Concesionada),Tacna,Tacna,Tacna
+Internacional Cap. FAP. Victor Montes Arias,Aeropuerto Internacional,SPYL,Operativo,Aeropuertos del Perú S.A.,-4.576611111,-81.25405833,Internacional,Nacional,Pública (Concesionada),Piura,Talara,Pariñas
+Cadete FAP. Guillermo del Castillo Paredes,Aeropuerto,SPST,Operativo,Aeropuertos del Perú S.A.,-6.508744,-76.373247,Nacional,Nacional,Pública (Concesionada),San Martín,San Martín,Tarapoto
+Tingo María,Aeropuerto,SPGM,Operativo,CORPAC S.A.,-9.289375,-76.005042,Regional,Nacional,Pública,Huánuco,Leoncio Prado,Rupa Rupa
+Tocache,Aeródromo,SPCH,Operativo,CORPAC S.A.,-8.195431,-76.528667,Regional,Regional,Pública,San Martín,Tocache,Tocache
+Trompeteros (Corrientes),Aeródromo,SPDR,Operativo,Pluspetrol Norte S.A.,-3.8055,-75.03990278,Sin escala definida,No aplica a privados,Privada,Loreto,Loreto,Trompeteros
+Trompeteros,Helipuerto de superficie,SPDT,Operativo,Pluspetrol Norte S.A.,-3.807,-75.056167,Sin escala definida,No aplica a privados,Privada,Loreto,Loreto,Trompeteros
+Cap. Carlos Martinez de Pinillos,Aeropuerto Internacional,SPRU,Operativo,Aeropuertos del Perú S.A.,-8.081708,-79.108644,Internacional,Nacional,Pública (Concesionada),La Libertad,Trujillo,Huanchaco
+Tulpo,Aeródromo,SPTO,Operativo,Municipalidad Distrital de Mollebamba,-8.127278,-77.988181,Local,Local,Pública,La Libertad,Santiago De Chuco,Mollebamba
+Cap. FAP. Pedro Canga Rodríguez,Aeropuerto,SPME,Operativo,Aeropuertos del Perú S.A.,-3.552264,-80.381069,Nacional,Nacional,Pública (Concesionada),Tumbes,Tumbes,Tumbes
+Urpay,Aeródromo,SPAI,Operativo,Municipalidad Distrital de Urpay,-8.350369,-77.398094,Local,Local,Pública,La Libertad,Pataz,Urpay
+Vicco,Aeródromo,SPVI,Operativo,Municipalidad Distrital de Vicco,-10.848792,-76.246836,Local,Local,Pública,Pasco,Pasco,Vicco
+Vilcashuamán,Aeródromo,SPVN,Operativo,CORPAC S.A.,-13.678194,-73.927083,Local,Local,Pública,Ayacucho,Vilcashuaman,Vilcashuaman
+Yauri,Aeródromo,SPIY,Operativo,Municipalidad Provincial de Espinar,-14.80638889,-71.43194444,Local,Local,Pública,Cusco,Espinar,Yauri
+Moisés Benzaquén Rengifo,Aeropuerto,SPMS,Operativo,CORPAC S.A.,-5.893611,-76.118056,Regional,Nacional,Pública,Loreto,Alto Amazonas,Yurimaguas
+Metropolitano de Piura,Aeródromo,SPAL,Operativo,Aeroclub de Aviación Civil del Perú,-5.067777778,-80.14748889,Sin escala definida,No aplica a privados,Privada,Piura,Morropón,Chulucanas
+HP-7 (REPSOL),Helipuerto de superficie,SPNE,Operativo,Repsol Exploración Perú S.A. Sucursal del Perú,-11.55194444,-73.14694444,Sin escala definida,No aplica a privados,Privada,Cusco,La Convención,Echarate
+Clínica Delgado,Helipuerto Elevado,SPCD,Operativo,Medic Ser S.A.C.,-12.11354167,-77.03319167,Sin escala definida,No aplica a privados,Privada,Lima,Lima,Miraflores
+Luisiana,Aeródromo,SPLU,Operativo,Sr. Guillermo Parodi Morales,-12.67497222,-73.70955556,Sin escala definida,No aplica a privados,Privada,Ayacucho,La Mar,Santa Rosa
+Banco de La Nación,Helipuerto Elevado,SPBN,Operativo,Banco de la Nación,-12.08718611,-77.000675,Sin escala definida,No aplica a privados,Pública,Lima,Lima,San Borja
+Cashibococha,Aeródromo,SPCB,Operativo,South América Mission Inc. Filial del Perú,-8.361944444,-74.65680556,Sin escala definida,No aplica a privados,Privada,Ucayali,Coronel Portillo,Yarinacocha
+Sagari Ax,Helipuerto de superficie,SPSG,Operativo,Repsol Exploración Perú S.A. Sucursal del Perú,-11.46402198,-73.31293349,Sin escala definida,No aplica a privados,Privada,Cusco,La Convención,Echarate
+Cashiriari 1,Helipuerto de superficie,SPCA,Operativo,Pluspetrol Perú Corporation S.A.,-11.87449436,-72.73405224,Sin escala definida,No aplica a privados,Privada,Cusco,La Convención,Echarate
+Adventista MOP,Aeródromo,SPYC,Operativo,Asociacion Proyectos Peru,-8.340427778,-74.59791389,Sin escala definida,No aplica a privados,Privada,Ucayali,Coronel Portillo,Yarinacocha
+HP-7 Las Malvinas,Helipuerto de superficie,SPWL,Operativo,Pluspetrol Perú Corporation S.A.,-11.84822778,-72.93883889,Sin escala definida,No aplica a privados,Privada,Cusco,La Convención,Echarate
+Walter Braedt Segu,Aeródromo,SPWB,Operativo,MANCORALAND S.A.C.,-4.086797222,-81.02558333,Sin escala definida,No aplica a privados,Privada,Tumbes,Contralmirante Villar,Canoas de Punta Sal
+Crnl. PNP. Rodolfo León Gavilán,Helipuerto de superficie,SPPC,Operativo,Municipalidad Distrital de Miraflores,-12.11961111,-77.04608889,Sin escala definida,No aplica a privados,Pública,Lima,Lima,Miraflores
+Revalora,Aeródromo,SPRR,Operativo,REVALORA S.A.C.,-13.22304167,-76.26936667,Sin escala definida,No aplica a privados,Privada,Lima,Cañete,San Vicente de Cañete
+Voces por el Clima,Helipuerto de superficie,SPVC,Operativo,Heli-Abad S.A.C.,-12.15291667,-77.01139167,Sin escala definida,No aplica a privados,Privada,Lima,Lima,Santiago de Surco
+Canto Grande,Helipuerto de superficie,SPCG,Operativo,Heli-Abad S.A.C.,-11.95897222,-76.99916944,Sin escala definida,No aplica a privados,Privada,Lima,Lima,San Juan de Lurigancho
+Proyecto More,Helipuerto de superficie,SPPR,Operativo,Inmobiliara Huanwil S.A.,-12.08298611,-76.967425,Sin escala definida,No aplica a privados,Privada,Lima,Lima,Santiago de Surco
+Proyecto AFE,Helipuerto de superficie,SPAF,Operativo,AFE SERVICE S.A.C.,-11.82842222,-77.09428611,Sin escala definida,No aplica a privados,Privada,Lima,Lima,Puente Piedra
+Municipal de San Bartolo Alm. Raul Vargas Fuller,Helipuerto de superficie,SPRT,Operativo,Fly Acces Peru S.A.C.,-12.38044444,-76.78372222,Sin escala definida,No aplica a privados,Privada,Lima,Lima,San Bartolo
+Boulevard Asia,Helipuerto de superficie,SPBA,Operativo,Inversiones Castelar S.A.C.,-12.76010556,-76.60331944,Sin escala definida,No aplica a privados,Privada,Lima,Cañete,Asia
+La Calera,Helipuerto de superficie,SPCE,Operativo,Heli-Abad S.A.C.,-13.4541,-76.02863611,Sin escala definida,No aplica a privados,Privada,Ica,Chincha,Alto Laran
+Olmos,Aeródromo,SPOL,Operativo,Inversiones Agricolas Olmos II S.A.C.,-6.016666667,-80.08840833,Sin escala definida,No aplica a privados,Privada,Lambayeque,Lambayeque,Olmos
+Las Americas,Aeródromo,SPLA,Operativo,José Luis Popolizio Bardales,-8.317447222,-74.72666111,Sin escala definida,No aplica a privados,Privada,Ucayali,Coronel Portillo,Yarinacocha
+Hospital Miguel Angel Mariscal Llerena de Ayacucho,Helipuerto Elevado,SPHA,Operativo,Gobierno Regional de Ayacucho,-13.162925,-74.20018889,Sin escala definida,Sin jerarquía definida,Pública,Ayacucho,Huamanga,Andres Avelino Caceres
+Diospi Suyana,Helipuerto de superficie,SPDY,Operativo,Asociación Civil Religiosa Diospi Suyana,-13.54833333,-72.70972222,Sin escala definida,No aplica a privados,Privada,Apurímac,Abancay,Carahuasi
+Jockey Plaza Shoping Center,Helipuerto de superficie,SPJP,Operativo,ECOCOPTER PERU S.A.,-12.087225,-76.97660278,Sin escala definida,No aplica a privados,Privada,Lima,Lima,Santiago de Surco
+La Portada,Helipuerto de superficie,SPPP,Operativo,Heli-Abad S.A.C.,-14.14417778,-75.64589167,Sin escala definida,No aplica a privados,Privada,Ica,Ica,Pueblo Nuevo
+Pacasmayo,Aeródromo,SPYO,Operativo,Escuela Peruana de Aviación Civil S.A.,-7.416425,-79.57021667,Sin escala definida,No aplica a privados,Pública,La Libertad,Pacasmayo,Pacasmayo
+Yankuntich,Aeródromo,SPYK,Operativo,Federación de la Nacionalidad Achuar del Perú,-2.922561111,-77.25788889,Sin escala definida,Sin jerarquía definida,Pública,Loreto,Datem Del Marañón,Morona
+Wisum,Aeródromo,SPWR,Operativo,Federación de la Nacionalidad Achuar del Perú,-3.270952778,-77.02306944,Sin escala definida,Sin jerarquía definida,Pública,Loreto,Datem Del Marañón,Andoas
+Bretaña,Helipuerto de superficie,SPBR,Operativo,Petrotal Perú S.R.L.,-5.245402778,-74.32930556,Sin escala definida,No aplica a privados,Privada,Loreto,Requena,Puinahua
+Helipuerto Unidad Minera Las Bambas,Helipuerto de superficie,SPMB,Operativo,Minera Las Bambas S.A.,-14.106639,-72.272306,Sin escala definida,No aplica a privados,Privada,Apurímac,Cotabamba,Challhuahuacho
+Andahuaylas,Aeropuerto,SPHY,Operativo,CORPAC S.A.,-13.708819,-73.351556,Nacional,Nacional,Pública (Concesionada-No entregada),Apurímac,Andahuaylas,Andahuaylas
+Andoas,Aeródromo,SPAS,Operativo,Pacific Stratus Energy del Perú S.A.,-2.796108,-76.466597,Información no disponible,No aplica privados,Privada,Loreto,Datem Del Marañón,Andoas
+Andoas,Helipuerto de superficie,SPAN,Operativo,Pacific Stratus Energy del Perú S.A.,-2.79999037,-76.458732,Información no disponible,No aplica privados,Privada,Loreto,Datem Del Marañón,Andoas
+Alfredo Rodríguez Ballon,Aeropuerto Internacional,SPQU,Operativo,Aeropuertos Andinos del Perú S.A.,-16.340611,-71.570792,Internacional,Nacional,Pública (Concesionada),Arequipa,Arequipa,Cayma
+Atalaya,Aeródromo,SPAY,Operativo,CORPAC S.A.,-10.728572,-73.765886,Regional,Regional,Pública,Ucayali,Atalaya,Raymondi
+Crnl. FAP. Alfredo Mendivil,Aeropuerto,SPHO,Operativo,Aeropuertos Andinos del Perú S.A.,-13.154836,-74.20441667,Nacional,Nacional,Pública (Concesionada),Ayacucho,Huamanga,Andrés Avelino Cáceres
+Bellavista,Aeródromo,SPBS,Operativo,Comunidad de Bellavista,-5.28859,-76.2911,Local,Sin jerarquía,Pública,Loreto,Alto Amazonas,Jeberos
+Breu,Aeródromo,SPBK,Operativo,CORPAC S.A.,-9.533792,-72.757153,Local,Local,Pública,Ucayali,Atalaya,Yurua
+Buncuyo,Aeródromo,SPBJ,Operativo,Comunidad de Buncuyo,-6.516667,-74.583333,Local,Sin jerarquía,Pública,Loreto,Requena,Tapiche
+Caballococha,Aeródromo,SPBC,Operativo,CORPAC S.A.,-3.916833,-70.508181,Regional,Regional,Pública,Loreto,Ramón Castilla,Ramón Castilla
+May.Gral.FAP. Armando Revoredo Iglesias,Aeropuerto,SPJR,Operativo,Aeropuertos del Perú S.A.,-7.139144,-78.489581,Nacional,Nacional,Pública (Concesionada),Cajamarca,Cajamarca,Baños del Inca
+Cashiriari 3,Helipuerto de superficie,SPCS,Operativo,Pluspetrol Perú Corporation S.A.,-11.88030278,-72.64921111,Información no disponible,No aplica privados,Privada,Cusco,La Convención,Echarate
+Chachapoyas,Aeropuerto,SPPY,Operativo,Aeropuertos del Perú S.A.,-6.202042,-77.856,Nacional,Nacional,Pública (Concesionada),Amazonas,Chachapoyas,Chachapoyas
+Chagual,Aeródromo,SPGL,Operativo,Cia. Minera Poderosa S.A.,-7.797417,-77.651431,Información no disponible,No aplica privados,Privada,La Libertad,Pataz,Pataz
+Aero Link Chala,Aeródromo,SPAK,Operativo,Aero Link S.A.C.,-15.80724722,-74.28691944,Información no disponible,No aplica privados,Privada,Arequipa,Caraveli,Chala
+Chao,Aeródromo,SPCY,Operativo,CAMPOSOL S.A.,-8.581763889,-78.68120278,Información no disponible,No aplica privados,Privada,La Libertad,Virú,Chao
+Cap. FAP. José Abelardo Quiñones Gonzales,Aeropuerto Internacional,SPHI,Operativo,Aeropuertos del Perú S.A.,-6.787478,-79.8281,Internacional,Nacional,Pública (Concesionada),Lambayeque,Chiclayo,Chiclayo
+Tnte. FAP. Jaime A. de Montreuil Morales,Aeropuerto,SPEO,Operativo,CORPAC S.A.,-9.149711,-78.523564,Regional,Nacional,Pública,Áncash,Santa,Nuevo Chimbote
+Ciro Alegría,Aeródromo,SPAC,Operativo,CORPAC S.A.,-4.607144,-77.940633,Regional,Regional,Pública,Amazonas,Condorcanqui,Nieva
+Ciudad Constitución,Aeródromo,SPCC,Operativo,Municipalidad Distrital de Puerto Bermudez,-9.863958,-75.006736,Local,Local,Pública,Pasco,Oxapampa,Puerto Bermúdez
+Colonia Angamos,Aeródromo,SPDN,Operativo,Municipalidad Distrital de Yaquerana,-5.137125,-72.867889,Local,Local,Pública,Loreto,Requena,Yaquerana
+Contamana,Aeródromo,SPCM,Operativo,Gobierno Regional de Loreto,-7.335806,-74.992556,Local,Local,Pública,Loreto,Ucayali,Contamana
+Culina,Aeródromo,SPUI,Operativo,Comunidad de Culina,-9.584486,-70.617764,Información no disponible,No aplica privados,Pública,Ucayali,Purús,Purús
+Tnte. FAP. Alejandro Velasco Astete,Aeropuerto Internacional,SPZO,Operativo,CORPAC S.A.,-13.535722,-71.938778,Internacional,Nacional,Pública,Cusco,Cusco,San Sebastián
+Cutivireni,Aeródromo,SPCV,Operativo,Comunidad Nativa de Cutivireni,-11.877167,-73.916958,Local,Sin jerarquía,Pública,Junín,Satipo,Río Tambo
+El Estrecho,Aeródromo,SPEE,Operativo,CORPAC S.A.,-2.45389,-72.671,Regional,Regional,Pública,Loreto,Putumayo,Putumayo
+El Valor - Estación 7,Helipuerto de superficie,SPEV,Operativo,Petróleos del Perú - Petroperu S.A.,-5.670944,-78.640278,Información no disponible,No aplica privados,Privada,Amazonas,Utcubamba,El Milagro
+Fernando Rosas - Estación Morona,Helipuerto de superficie,SPMO,Operativo,Petróleos del Perú - Petroperu S.A.,-3.983189,-77.227806,Información no disponible,No aplica privados,Privada,Loreto,Datem Del Marañón,Morona
+Güeppi,Aeródromo,SPGP,Operativo,CORPAC S.A.,-0.119306,-75.247847,Regional,Regional,Pública,Loreto,Putumayo,Teniente Manuel Clavero
+Galilea,Aeródromo,SPGB,Operativo,CORPAC S.A.,-4.0317157,-77.75876639,Regional,Regional,Pública,Amazonas,Condorcanqui,Río Santiago
+Helinka,Helipuerto de superficie,SPIK,Operativo,Helinka S.A.C.,-6.515416667,-76.37497222,Información no disponible,No aplica privados,Privada,San Martín,San Martín,Tarapoto
+Hotel Los Delfines,Helipuerto Elevado,SPKD,Operativo,Cia. Hotelera Los Delfines S.A.,-12.097833,-77.047833,Información no disponible,No aplica privados,Privada,Lima,Lima,San Isidro
+Hotel Oro Verde,Helipuerto Elevado,SPKO,Operativo,Hotelera Costa del Pacifico S.A.,-12.0975,-77.038056,Información no disponible,No aplica privados,Privada,Lima,Lima,San Isidro
+Huamachuco,Aeródromo,SPUC,Operativo,Municipalidad Provincial de Sánchez Carrión,-7.818022,-78.029206,Local,Local,Pública,La Libertad,Sánchez Carrión,Huamachuco
+Huancabamba,Aeródromo,SPHB,Operativo,Municipalidad Provincial de Huancabamba,-5.2566083,-79.44335556,Regional,Local,Pública,Piura,Huancabamba,Huancabamba
+Alf. FAP. David Figueroa Fernandini,Aeropuerto,SPNC,Operativo,CORPAC S.A.,-9.878681,-76.204569,Nacional,Nacional,Pública,Huánuco,Huánuco,Huánuco
+Cmdt. FAP. German Arias Graziani,Aeropuerto,SPHZ,Operativo,Aeropuertos del Perú S.A.,-9.347333,-77.598308,Nacional,Nacional,Pública (Concesionada),Áncash,Carhuaz,Anta
+Iñapari,Aeródromo,SPIN,Operativo,CORPAC S.A.,-10.980183,-69.559217,Regional,Regional,Pública,Madre De Dios,Tahuamanu,Iñapari
+Gral. Jorge F. Maldonado Solari,Aeropuerto,SPLO,Operativo,CORPAC S.A.,-17.695028,-71.343931,Regional,Nacional,Pública,Moquegua,Ilo,Ilo
+Interbank,Helipuerto Elevado,SPKE,Operativo,Promotora Intercorp S.A.,-12.089472,-77.022778,Información no disponible,No aplica privados,Privada,Lima,Lima,La Victoria
+Crnl. FAP. Francisco Secada Vignetta,Aeropuerto Internacional,SPQT,Operativo,Aeropuertos del Perú S.A.,-3.784739,-73.308806,Internacional,Nacional,Pública (Concesionada),Loreto,Maynas,San Juan Bautista
+Fernando Belaunde Terry,Aeropuerto,SPJE,Operativo,CORPAC S.A.,-5.592611,-78.774264,Nacional,Nacional,Pública,Cajamarca,Jaén,Bellavista
+Francisco Carlé,Aeropuerto,SPJJ,Operativo,CORPAC S.A.,-11.783389,-75.473347,Nacional,Nacional,Pública,Junín,Jauja,Sausa
+Jibaro Marshalling,Helipuerto de superficie,SPJM,Operativo,Pacific Stratus Energy del Perú S.A.,-2.706139,-76.028556,Información no disponible,No aplica privados,Privada,Loreto,Loreto,Trompeteros
+Jorge Chávez,Aeropuerto Internacional,SPJC,Operativo,Lima Airport Partners S.R.L.,-12.021886,-77.114317,Internacional,Nacional,Pública (Concesionada),Lima,Callao,Callao
+Juanjui,Aeropuerto,SPJI,Operativo,CORPAC S.A.,-7.168875,-76.728581,Regional,Regional,Pública,San Martín,Mariscal Cáceres,Juanjui
+Inca Manco Capac,Aeropuerto Internacional,SPJL,Operativo,Aeropuertos Andinos del Perú S.A.,-15.466856,-70.157883,Internacional,Nacional,Pública (Concesionada),Puno,San Román,Juliaca
+Kinteroni,Helipuerto de superficie,SPKR,Operativo,Repsol Exploración Perú S.A. Sucursal del Perú,-11.509667,-73.2515,Información no disponible,No aplica privados,Privada,Cusco,La Convención,Echarate
+Kiteni,Aeródromo,SPKI,Operativo,Cía. Operadora de Gas del Amazonas S.A.C.,-12.648633,-73.036597,Información no disponible,No aplica privados,Privada,Cusco,La Convención,Echarate
+La Peruanita N°1,Helipuerto de superficie,SPPU,Operativo,CNPC PERU S.A.,-11.69013889,-73.02194444,Información no disponible,No aplica privados,Privada,Cusco,La Convención,Echarate
+La Peruanita N°2,Helipuerto de superficie,SPPV,Operativo,CNPC PERU S.A.,-11.689972,-73.021167,Información no disponible,No aplica privados,Privada,Cusco,La Convención,Echarate
+La Peruanita N°3,Helipuerto de superficie,SPPW,Operativo,CNPC PERU S.A.,-11.69108333,-73.02347222,Información no disponible,No aplica privados,Privada,Cusco,La Convención,Echarate
+La Vista - Estación 5,Helipuerto de superficie,SPVS,Operativo,Petróleos del Perú - Petroperu S.A.,-4.654417,-77.506361,Información no disponible,No aplica privados,Privada,Loreto,Datem Del Marañón,Manseriche
+Las Bambas,Helipuerto de superficie,SPLB,Operativo,Minera Las Bambas S.A.,-14.10288333,-72.27625,Información no disponible,No aplica privados,Privada,Apurímac,Cotabamba,Challhuahuacho
+Las Dunas,Aeródromo,SPLH,Operativo,Empresa Administradora del Aeródromo Las Dunas de Ica S.A.C.,-14.03518056,-75.76028333,Información no disponible,No aplica privados,Privada,Ica,Ica,Subtanjalla
+Las Malvinas,Aeródromo,SPWT,Operativo,Pluspetrol Perú Corporation S.A.,-11.85494444,-72.93934167,Información no disponible,No aplica privados,Privada,Cusco,La Convención,Echarate
+Las Malvinas,Helipuerto de superficie,SPHM,Operativo,Pluspetrol Perú Corporation S.A.,-11.85341944,-72.94184167,Información no disponible,No aplica privados,Privada,Cusco,La Convención,Echarate
+Las Palmas,Aeródromo,SPLP,Operativo,Base Aérea Las Palmas,-12.160125,-76.998778,Información no disponible,No aplica privados,Pública,Lima,Lima,Santiago de Surco
+Lib Mandi Metropolitano,Aeródromo,SPLX,Operativo,Master Business Aviation S.A.C.,-12.389,-76.75809444,Información no disponible,No aplica privados,Privada,Lima,Cañete,Chilca
+Mapi,Helipuerto de superficie,SPMP,Operativo,Repsol Exploración Perú S.A. Sucursal del Perú,-11.432144,-73.573103,Información no disponible,No aplica privados,Privada,Junín,Satipo,Río Tambo
+Maria Reiche,Helipuerto de superficie,SPMA,Operativo,Helinka S.A.C.,-14.681833,-75.134194,Información no disponible,No aplica privados,Privada,Ica,Nasca,El Ingenio
+Mashira,Helipuerto de superficie,SPMH,Operativo,Repsol Exploración Perú S.A. Sucursal del Perú,-11.381528,-73.504972,Información no disponible,No aplica privados,Privada,Junín,Satipo,Rio Tambo
+May. PNP. Nancy Flores Paucar,Aeródromo,SPMF,Operativo,CORPAC S.A.,-11.325517,-74.535828,Regional,Regional,Pública,Junín,Satipo,Mazamari
+Mipaya,Helipuerto de superficie,SPPM,Operativo,Pluspetrol Perú Corporation S.A.,-11.57952778,-73.16613889,Información no disponible,No aplica privados,Privada,Cusco,La Convención,Echarate
+Mollendo,Aeródromo,SPDO,Operativo,Municipalidad Provincial de Islay,-17.04411667,-71.984575,Local,Local,Pública,Arequipa,Islay,Mollendo
+Moquegua,Aeródromo,SPEQ,Operativo,CORPAC S.A.,-17.18,-70.93147222,Información no disponible,Sin jerarquía,Pública,Moquegua,Moquegua,Mariscal Nieto
+Maria Reiche Neuman,Aeródromo,SPZA,Operativo,CORPAC S.A.,-14.854139,-74.961775,Local,Local,Pública,Ica,Nasca,Vista Alegre
+Nuevo Mundo,Aeródromo,SPNM,Operativo,Repsol Exploración Perú S.A. Sucursal del Perú,-11.54235833,-73.14234444,Información no disponible,No aplica privados,Privada,Cusco,La Convención,Echarate
+Orcopampa,Aeródromo,SPOR,Operativo,Compañía de Minas Buenaventura S.A.A.,-15.314889,-72.352,Información no disponible,No aplica privados,Privada,Arequipa,Castilla,Orcopampa
+Orellana,Aeródromo,SPON,Operativo,Municipalidad Distrital de Vargas Guerra,-6.896414,-75.152586,Local,Local,Pública,Loreto,Ucayali,Vargas Guerra
+Pagoreni A,Helipuerto de superficie,SPPG,Operativo,Pluspetrol Perú Corporation S.A.,-11.717361,-72.901139,Información no disponible,No aplica privados,Privada,Cusco,La Convención,Echarate
+Pagoreni B,Helipuerto de superficie,SPPI,Operativo,Pluspetrol Perú Corporation S.A.,-11.691861,-72.950611,Información no disponible,No aplica privados,Privada,Cusco,La Convención,Echarate
+Paititi,Aeródromo,SPPT,Operativo,Comunidad Paititi,-10.083333,-72.883333,Local,Sin jerarquía,Pública,Ucayali,Atalaya,Yurua
+Palmapampa,Aeródromo,SPPE,Operativo,Policía Nacional del Perú,-12.7641433,-73.6533141,Información no disponible,Sin jerarquía,Pública,Ayacucho,La Mar,Samugari
+Palmas del Espino,Aeródromo,SPPN,Operativo,Palmas del Espino S.A.,-8.343722,-76.489347,Información no disponible,No aplica privados,Privada,San Martín,Tocache,Uchiza
+Pampa Hermosa,Aeródromo,SPPH,Operativo,CORPAC S.A.,-7.201069,-75.294042,Local,Local,Pública,Loreto,Ucayali,Pampa Hermosa
+Pata de Gallo,Aeródromo,SPGA,Operativo,Minera Barrick Misquichilca S.A.,-7.983917,-78.269833,Información no disponible,No aplica privados,Privada,La Libertad,Santiago De Chuco,Quiruvilca
+Patria,Aeródromo,SPIR,Operativo,CORPAC S.A.,-12.967303,-71.429122,Local,Local,Pública,Cusco,Paucartambo,Kosñipata
+Pías,Aeródromo,SPIS,Operativo,Consorcio Minero Horizonte S.A.,-7.920222,-77.525389,Información no disponible,No aplica privados,Privada,La Libertad,Pataz,Pias
+Piraña,Helipuerto de superficie,SPHP,Operativo,Perenco Perú Petroleum Limited Sucursal del Perú,-1.913972222,-75.36744444,Información no disponible,No aplica privados,Privada,Loreto,Maynas,Napo
+Pisco,Aeropuerto Internacional,SPSO,Operativo,Aeropuertos del Perú S.A.,-13.7448,-76.220411,Internacional,Nacional,Pública (Concesionada),Ica,Pisco,San Andrés
+Cap. FAP. Guillermo Concha Iberico,Aeropuerto,SPUR,Operativo,Aeropuertos del Perú S.A.,-5.205764,-80.616389,Nacional,Nacional,Pública (Concesionada),Piura,Piura,Castilla
+Sagari Bx,Helipuerto de superficie,SPZP,Operativo,Repsol Exploración Perú S.A. Sucursal del Perú,-11.43080556,-73.35572222,Información no disponible,No aplica privados,Privada,Cusco,La Convención,Echarate
+Privado N°2,Helipuerto de superficie,SPNB,Operativo,Repsol Exploración Perú S.A. Sucursal del Perú,-11.55116667,-73.14286111,Información no disponible,No aplica privados,Privada,Cusco,La Convención,Echarate
+Privado N°6,Helipuerto de superficie,SPNI,Operativo,Repsol Exploración Perú S.A. Sucursal del Perú,-11.54691667,-73.14166667,Información no disponible,No aplica privados,Privada,Cusco,La Convención,Echarate
+Privado N°8,Helipuerto de superficie,SPNF,Operativo,Repsol Exploración Perú S.A. Sucursal del Perú,-11.55158333,-73.14736111,Información no disponible,No aplica privados,Privada,Cusco,La Convención,Echarate
+Privado N°9,Helipuerto de superficie,SPNG,Operativo,Repsol Exploración Perú S.A. Sucursal del Perú,-11.55127778,-73.14763889,Información no disponible,No aplica privados,Privada,Cusco,La Convención,Echarate
+Cap. FAP. David Armando Abensur Rengifo,Aeropuerto Internacional,SPCL,Operativo,Aeropuertos del Perú S.A.,-8.377942,-74.574297,Internacional,Nacional,Pública (Concesionada),Ucayali,Coronel Portillo,Calleria
+Pueblo Libre de Codo,Aeródromo,SPDU,Operativo,Agencia Municipal de Pueblo Libre de Codo,-9.6725,-75.28277778,Local,Local,Pública,Huánuco,Puerto Inca,Codo del Pozuzo
+Puerto Esperanza,Aeródromo,SPEP,Operativo,CORPAC S.A.,-9.770278,-70.709167,Regional,Regional,Pública,Ucayali,Purús,Purús
+Padre Aldamiz,Aeropuerto,SPTU,Operativo,Aeropuertos Andinos del Perú S.A.,-12.613831,-69.228678,Información no disponible,Nacional,Pública (Concesionada),Madre De Dios,Tambopata,Tambopata
+Juan Simons Vela,Aeropuerto,SPJA,Operativo,CORPAC S.A.,-6.067792,-77.159806,Regional,Nacional,Pública,San Martín,Rioja,Rioja
+Rodríguez de Mendoza,Aeropuerto,SPLN,Operativo,CORPAC S.A.,-6.392617,-77.500589,Regional,Regional,Pública,Amazonas,Rodríguez de Mendoza,Oscar R. Benavides
+San José de Saramuro - Estación 1,Helipuerto de superficie,SPSM,Operativo,Petróleos del Perú - Petroperu S.A.,-4.721556,-74.922444,Información no disponible,No aplica privados,Privada,Loreto,Loreto,Urarinas
+San Lorenzo,Aeródromo,SPQM,Operativo,Municipalidad Provincial de Datem del Marañón,-4.82425,-76.56034722,Local,Local,Pública,Loreto,Datem Del Marañón,Barranca
+San Martín 1,Helipuerto de superficie,SPMT,Operativo,Pluspetrol Perú Corporation S.A.,-11.76754444,-72.77806111,Información no disponible,No aplica privados,Privada,Cusco,La Convención,Echarate
+San Martín 3,Helipuerto de superficie,SPPS,Operativo,Pluspetrol Perú Corporation S.A.,-11.785528,-72.702139,Información no disponible,No aplica privados,Privada,Cusco,La Convención,Echarate
+San Rafael,Aeródromo,SPRF,Operativo,Compañía Minsur S.A.,-14.282194,-70.379694,Información no disponible,No aplica privados,Privada,Puno,Melgar,Antauta
+Saposoa,Aeródromo,SPOA,Operativo,CORPAC S.A.,-6.959083,-76.768583,Local,Regional,Pública,San Martín,Huallaga,Saposoa
+Sargento Puño,Helipuerto de superficie,SPSP,Operativo,Petróleos del Perú - Petroperu S.A.,-3.220889,-77.603389,Información no disponible,No aplica privados,Privada,Loreto,Datem Del Marañón,Morona
+Sayla,Helipuerto de superficie,SPKY,Operativo,Municipalidad Distrital de Sayla,-15.322778,-73.2375,Información no disponible,Local,Pública,Arequipa,La Unión,Sayla
+Sepahua,Aeródromo,SPSE,Operativo,Municipalidad Distrital de Sepahua,-11.142083,-73.034167,Local,Local,Pública,Ucayali,Atalaya,Sepahua
+Shanusi,Aeródromo,SPSH,Operativo,Palmas del Shanusi S.A.,-6.128694,-76.169583,Información no disponible,No aplica privados,Privada,Loreto,Alto Amazonas,Yurimaguas
+Crnl. FAP. Carlos Ciriani Santa Rosa,Aeropuerto Internacional,SPTN,Operativo,Aeropuertos Andinos del Perú S.A.,-18.053286,-70.275822,Internacional,Nacional,Pública (Concesionada),Tacna,Tacna,Tacna
+Internacional Cap. FAP. Victor Montes Arias,Aeropuerto Internacional,SPYL,Operativo,Aeropuertos del Perú S.A.,-4.576611111,-81.25405833,Internacional,Nacional,Pública (Concesionada),Piura,Talara,Pariñas
+Cadete FAP. Guillermo del Castillo Paredes,Aeropuerto,SPST,Operativo,Aeropuertos del Perú S.A.,-6.508744,-76.373247,Nacional,Nacional,Pública (Concesionada),San Martín,San Martín,Tarapoto
+Tingo María,Aeropuerto,SPGM,Operativo,CORPAC S.A.,-9.289375,-76.005042,Regional,Nacional,Pública,Huánuco,Leoncio Prado,Rupa Rupa
+Tocache,Aeródromo,SPCH,Operativo,CORPAC S.A.,-8.195431,-76.528667,Regional,Regional,Pública,San Martín,Tocache,Tocache
+Cap. Carlos Martinez de Pinillos,Aeropuerto Internacional,SPRU,Operativo,Aeropuertos del Perú S.A.,-8.081708,-79.108644,Internacional,Nacional,Pública (Concesionada),La Libertad,Trujillo,Huanchaco
+Tulpo,Aeródromo,SPTO,Operativo,Municipalidad Distrital de Mollebamba,-8.127278,-77.988181,Local,Local,Pública,La Libertad,Santiago De Chuco,Mollebamba
+Cap. FAP. Pedro Canga Rodríguez,Aeropuerto,SPME,Operativo,Aeropuertos del Perú S.A.,-3.552264,-80.381069,Nacional,Nacional,Pública (Concesionada),Tumbes,Tumbes,Tumbes
+Urpay,Aeródromo,SPAI,Operativo,Municipalidad Distrital de Urpay,-8.350369,-77.398094,Local,Local,Pública,La Libertad,Pataz,Urpay
+Vicco,Aeródromo,SPVI,Operativo,Municipalidad Distrital de Vicco,-10.848792,-76.246836,Local,Local,Pública,Pasco,Pasco,Vicco
+Vilcashuamán,Aeródromo,SPVN,Operativo,CORPAC S.A.,-13.678194,-73.927083,Local,Local,Pública,Ayacucho,Vilcashuaman,Vilcashuaman
+Yauri,Aeródromo,SPIY,Operativo,Municipalidad Provincial de Espinar,-14.80638889,-71.43194444,Local,Local,Pública,Cusco,Espinar,Yauri
+Moisés Benzaquén Rengifo,Aeropuerto,SPMS,Operativo,CORPAC S.A.,-5.893611,-76.118056,Regional,Nacional,Pública,Loreto,Alto Amazonas,Yurimaguas
+Metropolitano de Piura,Aeródromo,SPAL,Operativo,Aeroclub de Aviación Civil del Perú,-5.067777778,-80.14748889,Información no disponible,No aplica privados,Privada,Piura,Morropón,Chulucanas
+HP-7 (REPSOL),Helipuerto de superficie,SPNE,Operativo,Repsol Exploración Perú S.A. Sucursal del Perú,-11.55194444,-73.14694444,Información no disponible,No aplica privados,Privada,Cusco,La Convención,Echarate
+Clínica Delgado,Helipuerto Elevado,SPCD,Operativo,Medic Ser S.A.C.,-12.11354167,-77.03319167,Información no disponible,No aplica privados,Privada,Lima,Lima,Miraflores
+Luisiana,Aeródromo,SPLU,Operativo,Sr. Guillermo Parodi Morales,-12.67497222,-73.70955556,Información no disponible,No aplica privados,Privada,Ayacucho,La Mar,Santa Rosa
+Banco de La Nación,Helipuerto Elevado,SPBN,Operativo,Banco de la Nación,-12.08718611,-77.000675,Información no disponible,No aplica privados,Pública,Lima,Lima,San Borja
+Cashibococha,Aeródromo,SPCB,Operativo,South América Mission Inc. Filial del Perú,-8.361944444,-74.65680556,Información no disponible,No aplica privados,Privada,Ucayali,Coronel Portillo,Yarinacocha
+Sagari Ax,Helipuerto de superficie,SPSG,Operativo,Repsol Exploración Perú S.A. Sucursal del Perú,-11.46402198,-73.31293349,Información no disponible,No aplica privados,Privada,Cusco,La Convención,Echarate
+Cashiriari 1,Helipuerto de superficie,SPCA,Operativo,Pluspetrol Perú Corporation S.A.,-11.87449436,-72.73405224,Información no disponible,No aplica privados,Privada,Cusco,La Convención,Echarate
+Adventista MOP,Aeródromo,SPYC,Operativo,Asociacion Proyectos Peru,-8.340427778,-74.59791389,Información no disponible,No aplica privados,Privada,Ucayali,Coronel Portillo,Yarinacocha
+HP-7 Las Malvinas,Helipuerto de superficie,SPWL,Operativo,Pluspetrol Perú Corporation S.A.,-11.84822778,-72.93883889,Información no disponible,No aplica privados,Privada,Cusco,La Convención,Echarate
+Walter Braedt Segu,Aeródromo,SPWB,Operativo,MANCORALAND S.A.C.,-4.086797222,-81.02558333,Información no disponible,No aplica privados,Privada,Tumbes,Contralmirante Villar,Canoas de Punta Sal
+Crnl. PNP. Rodolfo León Gavilán,Helipuerto de superficie,SPPC,Operativo,Municipalidad Distrital de Miraflores,-12.11961111,-77.04608889,Información no disponible,No aplica privados,Pública,Lima,Lima,Miraflores
+Revalora,Aeródromo,SPRR,Operativo,REVALORA S.A.C.,-13.22304167,-76.26936667,Información no disponible,No aplica privados,Privada,Lima,Cañete,Nuevo Cañete
+Voces por el Clima,Helipuerto de superficie,SPVC,Operativo,Heli-Abad S.A.C.,-12.15291667,-77.01139167,Información no disponible,No aplica privados,Privada,Lima,Lima,Santiago de Surco
+Canto Grande,Helipuerto de superficie,SPCG,Operativo,Heli-Abad S.A.C.,-11.95897222,-76.99916944,Información no disponible,No aplica privados,Privada,Lima,Lima,San Juan de Lurigancho
+Proyecto More,Helipuerto de superficie,SPPR,Operativo,Inmobiliara Huanwil S.A.,-12.08298611,-76.967425,Información no disponible,No aplica privados,Privada,Lima,Lima,Santiago de Surco
+Proyecto AFE,Helipuerto de superficie,SPAF,Operativo,AFE SERVICE S.A.C.,-11.82842222,-77.09428611,Información no disponible,No aplica privados,Privada,Lima,Lima,Puente Piedra
+Municipal de San Bartolo Alm. Raul Vargas Fuller,Helipuerto de superficie,SPRT,Operativo,Fly Acces Peru S.A.C.,-12.38044444,-76.78372222,Información no disponible,No aplica privados,Privada,Lima,Lima,San Bartolo
+Boulevard Asia,Helipuerto de superficie,SPBA,Operativo,Inversiones Castelar S.A.C.,-12.76010556,-76.60331944,Información no disponible,No aplica privados,Privada,Lima,Cañete,Asia
+La Calera,Helipuerto de superficie,SPCE,Operativo,Heli-Abad S.A.C.,-13.4541,-76.02863611,Información no disponible,No aplica privados,Privada,Ica,Chincha,Alto Laran
+Olmos,Aeródromo,SPOL,Operativo,Inversiones Agricolas Olmos II S.A.C.,-6.016666667,-80.08840833,Información no disponible,No aplica privados,Privada,Lambayeque,Lambayeque,Olmos
+Las Americas,Aeródromo,SPLA,Operativo,José Luis Popolizio Bardales,-8.317447222,-74.72666111,Información no disponible,No aplica privados,Privada,Ucayali,Coronel Portillo,Yarinacocha
+Hospital Miguel Angel Mariscal Llerena de Ayacucho,Helipuerto Elevado,SPHA,Operativo,Gobierno Regional de Ayacucho,-13.162925,-74.20018889,Información no disponible,Sin jerarquía,Pública,Ayacucho,Huamanga,Andres Avelino Caceres
+Diospi Suyana,Helipuerto de superficie,SPDY,Operativo,Asociación Civil Religiosa Diospi Suyana,-13.54833333,-72.70972222,Información no disponible,No aplica privados,Privada,Apurímac,Abancay,Carahuasi
+Jockey Plaza Shoping Center,Helipuerto de superficie,SPJP,Operativo,ECOCOPTER PERU S.A.,-12.087225,-76.97660278,Información no disponible,No aplica privados,Privada,Lima,Lima,Santiago de Surco
+La Portada,Helipuerto de superficie,SPPP,Operativo,Heli-Abad S.A.C.,-14.14417778,-75.64589167,Información no disponible,No aplica privados,Privada,Ica,Ica,Pueblo Nuevo
+Pacasmayo,Aeródromo,SPYO,Operativo,Escuela Peruana de Aviación Civil S.A.,-7.416425,-79.57021667,Información no disponible,No aplica privados,Pública,La Libertad,Pacasmayo,Pacasmayo
+Yankuntich,Aeródromo,SPYK,Operativo,Federación de la Nacionalidad Achuar del Perú,-2.922561111,-77.25788889,Información no disponible,Sin jerarquía,Pública,Loreto,Datem Del Marañón,Morona
+Wisum,Aeródromo,SPWR,Operativo,Federación de la Nacionalidad Achuar del Perú,-3.270952778,-77.02306944,Información no disponible,Sin jerarquía,Pública,Loreto,Datem Del Marañón,Andoas
+Bretaña,Helipuerto de superficie,SPBR,Operativo,Petrotal Perú S.R.L.,-5.245402778,-74.32930556,Información no disponible,No aplica privados,Privada,Loreto,Requena,Puinahua
+Helipuerto Unidad Minera Las Bambas,Helipuerto de superficie,SPMB,Operativo,Minera Las Bambas S.A.,-14.106639,-72.272306,Información no disponible,No aplica privados,Privada,Apurímac,Cotabamba,Challhuahuacho
