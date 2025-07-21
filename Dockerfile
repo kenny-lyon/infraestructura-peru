@@ -8,7 +8,7 @@ RUN apt-get update && apt-get install -y \
     libssl-dev \
     pkg-config \
     libcurl4-openssl-dev \
-    && pecl install --configureoptions 'enable-mongodb-developer-flags="no"' mongodb \
+    && pecl install --configureoptions 'enable-mongodb-developer-flags="no"' mongodb-1.18.1 \
     && docker-php-ext-enable mongodb \
     && rm -rf /var/lib/apt/lists/*
 
